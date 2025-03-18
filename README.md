@@ -3,7 +3,8 @@
 ## Introdução
 
 Olá! Meu nome é **Otavio Calderan**, sou um desenvolvedor de sistemas e atualmente estou cursando Fatec, onde ingressei
-no início de 2023. Meu objetivo é construir e desenvolver uma carreira sólida na área de Tecnologia da Informação ( T.I )
+no início de 2023. Meu objetivo é construir e desenvolver uma carreira sólida na área de Tecnologia da Informação (
+T.I )
 
 > [!NOTE]
 > Em abril de 2024, iniciei meu primeiro estágio como **Cientista de Dados**, onde tive a oportunidade de aprender e
@@ -46,9 +47,6 @@ aprofundar ao longo da minha carreira:
 - Aprofundar meus conhecimentos em **Inteligência Artificial** e **Machine Learning**.
 
 ## Meus Projetos
-
-Aqui está a versão aprimorada do seu texto, com elementos visuais como `> NOTE`, destaques e organização para melhorar a
-clareza e o impacto do conteúdo:
 
 ## Projeto: Sistema de Avaliação 360° (2023-2)
 
@@ -119,7 +117,6 @@ principais contribuições:
         - **Cancel**: Para encerrar a sessão.
         - **Result**: Para visualizar os resultados da avaliação.
 
-> [!NOTE]  
 > A interface foi projetada para ser intuitiva e de fácil utilização, garantindo uma experiência fluida para os alunos.
 
 </details>
@@ -137,7 +134,6 @@ principais contribuições:
     - Ajustei a indentação e removi código redundante.
     - Garanti chamadas adequadas para mudança de interface.
 
-> [!TIP]  
 > Essas correções melhoraram a manutenibilidade do código e a experiência do usuário, eliminando inconsistências e
 > redundâncias.
 
@@ -160,7 +156,6 @@ principais contribuições:
 - Corrigi o redirecionamento para a interface de Resultados, garantindo que o dashboard do aluno seja exibido
   corretamente.
 
-> [!NOTE]  
 > O dashboard foi projetado para fornecer uma visão clara e organizada das informações do aluno, melhorando a
 > usabilidade.
 
@@ -182,7 +177,6 @@ principais contribuições:
 - Inclusão do módulo `interface.create_group` para permitir a criação de grupos.
 - Adição de um novo evento `group` na interface administrativa para redirecionar para a tela de grupos.
 
-> [!TIP]  
 > Essa funcionalidade facilitou a organização dos alunos em turmas e grupos, otimizando o processo de avaliação.
 
 </details>
@@ -199,7 +193,6 @@ principais contribuições:
 - **Prevenção de erros de indexação**:
     - Adicionei verificações para evitar erros ao acessar índices em listas vazias.
 
-> [!NOTE]  
 > Essas correções aumentaram a robustez do sistema, evitando falhas e melhorando a consistência dos dados.
 
 </details>
@@ -220,7 +213,6 @@ principais contribuições:
 - Integração de gráficos para melhor interpretação dos dados.
 - Interface intuitiva e visualmente atraente para o dashboard.
 
-> [!TIP]  
 > O gráfico radial permite uma análise rápida e eficiente do desempenho do aluno, destacando áreas de melhoria.
 
 </details>
@@ -238,7 +230,6 @@ alcançado em cada uma:
 - Utilização de recursos da linguagem, como funções, listas, dicionários e manipulação de dados.
 - Implementação de lógica de negócios e integração com APIs.
 
-> [!NOTE]  
 > Python foi a linguagem principal utilizada no projeto, especialmente para a criação de funcionalidades backend e
 > manipulação de dados.
 
@@ -251,7 +242,6 @@ alcançado em cada uma:
 - Integração das interfaces com a lógica backend.
 - Personalização de layouts e componentes visuais.
 
-> [!TIP]  
 > PySimpleGUI foi essencial para a criação de interfaces intuitivas e funcionais, garantindo uma boa experiência do
 > usuário.
 
@@ -265,7 +255,6 @@ alcançado em cada uma:
 - Uso de **rebase** para manter um histórico de commits limpo e organizado.
 - Boas práticas de commit (mensagens claras e descritivas).
 
-> [!NOTE]  
 > Git foi fundamental para o controle de versão do projeto, permitindo colaboração eficiente e rastreamento de mudanças.
 
 </details>
@@ -278,7 +267,6 @@ alcançado em cada uma:
 - Uso de **issues** para gerenciamento de tarefas e bugs.
 - Configuração de **GitHub Actions** para integração contínua (CI/CD).
 
-> [!TIP]  
 > GitHub foi a plataforma central para hospedagem do código, colaboração em equipe e revisão de contribuições.
 
 </details>
@@ -291,7 +279,6 @@ alcançado em cada uma:
 - Configuração de plugins e temas para personalização do ambiente.
 - Integração com ferramentas de teste e build.
 
-> [!NOTE]  
 > O VSCode foi a ferramenta principal de desenvolvimento, oferecendo um ambiente altamente personalizável e produtivo.
 
 </details>
@@ -303,7 +290,6 @@ alcançado em cada uma:
 - Participação em discussões e compartilhamento de conhecimento.
 - Adaptação de soluções existentes para contextos específicos do projeto.
 
-> [!TIP]  
 > O Stack Overflow foi uma ferramenta valiosa para resolver desafios técnicos e aprender com a comunidade de
 > desenvolvedores.
 
@@ -322,7 +308,6 @@ fundamentais para o sucesso das atividades:
 - Essa prática me ajudou a construir uma comunicação mais **assertiva** e a colaborar de maneira mais **eficaz** com a
   equipe.
 
-> [!NOTE]  
 > A comunicação clara foi essencial para alinhar expectativas, evitar mal-entendidos e garantir que todos estivessem na
 > mesma página.
 
@@ -336,7 +321,6 @@ fundamentais para o sucesso das atividades:
 - Aprendi a **dividir responsabilidades** e a construir soluções em conjunto, sempre visando o **objetivo comum**.
 - Colaborei ativamente para resolver conflitos e garantir que todos se sentissem parte do processo.
 
-> [!TIP]  
 > A habilidade de trabalhar em equipe foi crucial para integrar diferentes perspectivas e alcançar resultados mais
 > robustos e criativos.
 
@@ -350,7 +334,6 @@ fundamentais para o sucesso das atividades:
 - Aprendi a ser **flexível** e a manter a calma mesmo em situações de pressão.
 - Essa capacidade foi crucial para manter a **produtividade** e a **qualidade do trabalho**.
 
-> [!NOTE]  
 > A adaptação às mudanças me permitiu lidar com imprevistos de forma eficiente, garantindo que o projeto continuasse
 > avançando.
 
@@ -364,7 +347,6 @@ fundamentais para o sucesso das atividades:
   eficaz e eficiente.
 - Utilizei ferramentas como Stack Overflow e documentação técnica para embasar minhas decisões.
 
-> [!TIP]  
 > A resolução de problemas foi uma habilidade-chave para superar desafios técnicos e garantir a entrega de
 > funcionalidades dentro do prazo.
 
@@ -378,7 +360,6 @@ fundamentais para o sucesso das atividades:
 - Utilizei técnicas como **listas de tarefas** e **definição de metas diárias** para manter o foco.
 - Isso me permitiu entregar resultados **consistentes** dentro dos prazos estabelecidos.
 
-> [!NOTE]  
 > A gestão do tempo foi essencial para equilibrar demandas concorrentes e garantir a entrega de todas as tarefas com
 > qualidade.
 
