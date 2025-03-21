@@ -369,500 +369,411 @@ fundamentais para o sucesso das atividades:
 
 Mesmo formato
 
-### Em 2024-2
+## Projeto: Dom Rock Pipeline Configurator (2024-2)
 
-A Dom Rock possui uma arquitetura de processamento de dados em cadeia chamada pipeline, que inclui vários estágios.
-Esses estágios são orquestrados automaticamente com base nas características das fontes de dados e nas soluções de
-algoritmos de IA ou modelos matemáticos, conforme as necessidades dos clientes. Durante a implantação da solução, é
-necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. Atualmente, essa
-configuração é feita manualmente, o que é um passo crítico e demorado para os técnicos. O desafio, portanto, é criar uma
-interface amigável para facilitar essa configuração das fontes de dados.
+A **Dom Rock** possui uma arquitetura de processamento de dados em cadeia, chamada **pipeline**, que inclui vários
+estágios. Esses estágios são orquestrados automaticamente com base nas características das fontes de dados e nas
+soluções de algoritmos de IA ou modelos matemáticos, conforme as necessidades dos clientes.
 
-[GIT - Dom Rock Pipeline](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
+> [!NOTE]  
+> Durante a implantação da solução, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione
+> corretamente. Atualmente, essa configuração é feita manualmente, o que é um passo **crítico e demorado** para os
+> técnicos. O desafio, portanto, foi criar uma **interface amigável** para facilitar essa configuração.
 
-#### Tecnologias Utilizadas
+[**Repositório no GitHub**](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
 
-<!-- Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia
-para o projeto. -->
+### Tecnologias Utilizadas
+
+Aqui estão as principais tecnologias utilizadas no projeto, juntamente com sua importância:
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,vue,mysql,git,github,idea,webstorm,stackoverflow)
 
-1. **Java**  
-   Linguagem de programação amplamente usada para desenvolvimento da aplicação, utilizado somente no backend. Foi
-   importante para criar uma aplicação robusta e escalável.
+1. **Java**
+    - Linguagem de programação amplamente usada no desenvolvimento do **backend**.
+    - Foi essencial para criar uma aplicação **robusta e escalável**.
 
+2. **Spring**
+    - Framework para desenvolvimento de aplicações Java.
+    - Ofereceu suporte para **injeção de dependências**, **gerenciamento de transações** e criação de **APIs REST**.
+    - Facilitou a criação de aplicações web e microsserviços.
 
-2. **Spring**  
-   Framework para desenvolvimento de aplicações Java, ofereceu suporte para injeção de dependências, gerenciamento de
-   transações e criação de APIs REST. Facilitando a criação de aplicações web e microserviços.
+3. **HTML**
+    - Linguagem de marcação utilizada na construção de páginas web.
+    - Foi a base para a estruturação da interface do usuário.
 
+4. **CSS**
+    - Linguagem de estilo usada para descrever a apresentação de documentos HTML.
+    - Foi crucial para **estilizar e formatar** páginas web, melhorando a aparência e a experiência do usuário.
 
-3. **HTML**  
-   HTML é uma linguagem de marcação utilizada na construção de páginas na Web.
+5. **Vue.js**
+    - Framework JavaScript para construção de interfaces de usuário **interativas e reativas**.
+    - Facilitou a criação de aplicações web dinâmicas com uma arquitetura baseada em **componentes**.
 
+6. **MySQL**
+    - Sistema de gerenciamento de banco de dados relacional.
+    - Foi crucial para **armazenar e gerenciar** dados de forma estruturada em aplicações web.
 
-4. **CSS**  
-   Linguagem de estilo usada para descrever a apresentação de documentos HTML. Foi importante para estilizar e formatar
-   páginas web, melhorando a aparência e a experiência do usuário.
+7. **Git**
+    - Sistema de controle de versão distribuído.
+    - Essencial para **rastrear mudanças** no código-fonte e colaborar com outros desenvolvedores de forma eficiente.
 
+8. **GitHub**
+    - Plataforma de hospedagem para projetos que utilizam Git.
+    - Foi importante para o **compartilhamento de código**, **colaboração** e **controle de versão**.
 
-5. **Vue.js**  
-   Framework JavaScript para construção de interfaces de usuário interativas. Facilita a criação de aplicações web
-   dinâmicas e reativas com uma arquitetura de componentes.
+9. **IntelliJ IDEA**
+    - Ambiente de desenvolvimento integrado (IDE) para programação Java.
+    - Facilitou o desenvolvimento com suporte avançado para **código**, **debugging** e **testes**.
 
+10. **WebStorm**
+    - IDE da JetBrains focada em **JavaScript**, **HTML** e **CSS**.
+    - Ideal para o desenvolvimento de aplicações web modernas e front-end.
 
-6. **MySQL**  
-   Sistema de gerenciamento de banco de dados relacional. Crucial para armazenar e gerenciar dados de forma estruturada
-   em aplicações web.
+11. **Stack Overflow**
+    - Plataforma de perguntas e respostas para desenvolvedores.
+    - Foi fundamental para obter **suporte**, **resolver problemas** e aprender com a comunidade de programadores.
 
+### Destaques do Projeto
 
-7. **Git**  
-   Sistema de controle de versão distribuído. Essencial para rastrear mudanças no código-fonte e colaborar com outros
-   desenvolvedores de forma eficiente.
+- **Interface Amigável**: Desenvolvimento de uma interface intuitiva para simplificar a configuração das fontes de
+  dados.
+- **Arquitetura Escalável**: Utilização de tecnologias modernas para garantir uma solução robusta e adaptável.
 
+### Contribuições Pessoais
 
-8. **GitHub**  
-   Plataforma de hospedagem para projetos que utilizam Git. Importante para o compartilhamento de código, colaboração e
-   controle de versão em projetos de software.
-
-
-9. **IntelliJ IDEA**  
-   Ambiente de desenvolvimento integrado (IDE) para programação Java e outros idiomas. Facilita o desenvolvimento com
-   suporte avançado para código, debugging e testes.
-
-
-10. **WebStorm**  
-    IDE da JetBrains focada em JavaScript, HTML e CSS. Ideal para o desenvolvimento de aplicações web modernas e
-    front-end.
-
-
-11. **Stack Overflow**  
-    Plataforma de perguntas e respostas para desenvolvedores. Importante para obter suporte, resolver problemas e
-    aprender com a comunidade de programadores.
-
-<br>
-
-#### Contribuições Pessoais
-
-<!-- Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em
-detalhes, especificando que tecnologias você utilizou. -->
-
-Neste projeto atuei como FullStack, porém com maior participação no Frontend a partir da segunda sprint.
-
+Neste projeto, atuei como **FullStack**, com maior participação no **Frontend** a partir da segunda sprint. Abaixo estão
+detalhes das minhas principais contribuições:
 
 <details>
-<summary>Adição das versões iniciais para o processamento de CSV e JSON e sua dependência</summary>
+<summary>Adição das Versões Iniciais para o Processamento de CSV e JSON</summary>
 
-- Adição da dependência GSON ao projeto
-- Realizada a manipulação do arquivo pom.xml para incluir a dependência GSON.
-  A versão 2.10.1 da biblioteca GSON foi adicionada, permitindo a conversão de objetos Java para JSON e vice-versa.
-  Esta modificação aprimora o projeto, fornecendo suporte robusto para serialização e deserialização de dados JSON, o
-  que é essencial para a manipulação eficiente de dados no Spring Boot.
+- **Adição da dependência GSON**:
+    - Manipulação do arquivo `pom.xml` para incluir a dependência GSON (versão 2.10.1).
+    - A biblioteca GSON permite a **conversão de objetos Java para JSON** e vice-versa, essencial para a manipulação
+      eficiente de dados no Spring Boot.
 
+- **Criação de classes iniciais**:
+    - **CsvConverter**: Classe para futuras implementações de conversão e processamento de arquivos CSV.
+    - **JsonConverter**: Utiliza a biblioteca GSON para conversão de dados JSON.
+    - **JsonDataModel**: Modelagem dos dados JSON a serem processados.
+    - **SendJson**: Classe para envio ou manipulação de dados JSON.
 
-- Criados esboços iniciais das classes para processamento de dados CSV e JSON, localizadas no pacote com.domrock.utils.
-- **CsvConverter**: Classe inicial para futuras implementações de conversão e processamento de arquivos CSV.
-- **JsonConverter**: Classe que utiliza a biblioteca GSON para conversão de dados JSON.
-- **JsonDataModel**: Classe dedicada à modelagem dos dados JSON que serão processados.
-- **SendJson**: Classe que também utiliza GSON, possivelmente destinada ao envio ou manipulação de dados JSON.
-- Essas adições preparam a base para o desenvolvimento das funcionalidades de conversão e processamento de dados,
-  alinhadas com a arquitetura do projeto.
+> Essas classes formaram a base para o desenvolvimento das funcionalidades de conversão e processamento de dados,
+> alinhadas com a arquitetura do projeto.
 
 </details>
 
-
-
 <details>
-<summary>Adição do método de atualização de campos na classe LZMetadataConfig</summary>
+<summary>Adição do Método de Atualização de Campos na Classe LZMetadataConfig</summary>
 
-Implementado o método updateFields na classe LZMetadataConfig, permitindo a atualização dos campos do objeto com base
-nos dados fornecidos pelo MetadataConfigDTO.
-O método realiza as seguintes atualizações:
+- Implementação do método `updateFields`:
+    - Atualiza os campos do objeto com base nos dados fornecidos pelo `MetadataConfigDTO`.
+    - **Campos atualizados**:
+        - `name` e `fileName`: Se os valores correspondentes no DTO não forem nulos.
+        - `frequency`: Atualizado com o valor de `frequencyNumber` ou convertido a partir de `frequencyType`.
+        - `hasHeader`: Atualizado para `1` ou `0` dependendo do valor booleano no DTO.
 
-- name e fileName são atualizados se os valores correspondentes no MetadataConfigDTO não forem nulos.
-- frequency é atualizado com o valor de frequencyNumber ou convertido a partir de frequencyType.
-- hasHeader é atualizado para 1 ou 0 dependendo do valor booleano em MetadataConfigDTO.
-- Essas alterações aprimoram a classe, oferecendo maior flexibilidade para modificar os dados de configuração em tempo
-  de execução.
+> Esse método aumentou a flexibilidade da classe, permitindo a modificação dos dados de configuração em tempo de
+> execução.
 
-![img.png](assets/img.png)
 </details>
-
-
 
 <details>
 <summary>Implementação do Método PUT para Atualização de Configurações</summary>
 
-### 1. Método PUT para Atualização de Configurações
-
 - **Rota:** `/list-view`
-- **Método:** `updateConfig`
-    - Implementado o método `updateConfig` com a anotação `@PutMapping`.
+- **Método:** `updateConfig`:
+    - Implementado com a anotação `@PutMapping`.
     - Recebe um objeto `MetadataConfigDTO` via `@RequestBody`.
     - Localiza a configuração correspondente usando o `fileId`.
-    - Se encontrada, atualiza os campos com o método `updateFields` e salva a configuração no repositório.
+    - Atualiza os campos com o método `updateFields` e salva a configuração no repositório.
     - Retorna um `ResponseEntity` com o objeto atualizado em caso de sucesso, ou `ResponseEntity.notFound()` em caso de
       falha.
 
-  ![img_1.png](assets/img_1.png)
+> Esse método permitiu a atualização dinâmica das configurações, melhorando a usabilidade da aplicação.
 
 </details>
-
-
 
 <details>
 <summary>Alteração no Método GET para Melhor Manipulação de Valores Nulos</summary>
 
-### 2. Alteração no Método GET
-
-- **Método:** `details`
-    - Alterado o método de busca de `getReferenceById` para `findById`.
+- **Método:** `details`:
+    - Alterado de `getReferenceById` para `findById`.
     - Uso de `Optional` para lidar com valores nulos.
-    - Garantia de retorno adequado encapsulando o `Optional` em um `ResponseEntity`.
+    - Retorno adequado encapsulado em um `ResponseEntity`.
 
-  ![img_2.png](assets/img_2.png)
+> Essa alteração aumentou a robustez do método, evitando erros de referência nula e melhorando a experiência do usuário.
 
 </details>
-
-
 
 <details>
 <summary>Atualização da Classe MetadataConfigDTO para Sincronizar Campos</summary>
 
-### 3. Atualização da Classe MetadataConfigDTO
-
-- **Classe:** `MetadataConfigDTO`
-    - Atualizado o construtor da classe para refletir corretamente os campos da entidade `LZMetadataConfig`.
+- **Classe:** `MetadataConfigDTO`:
+    - Atualizado o construtor para refletir corretamente os campos da entidade `LZMetadataConfig`.
     - O construtor agora recebe um objeto `LZMetadataConfig` e uma lista de `ColumnConfig`, preenchendo os respectivos
       campos no DTO.
 
-  ![img_3.png](assets/img_3.png)
+> Essa atualização garantiu a sincronização entre o DTO e a entidade, facilitando a manipulação de dados.
 
 </details>
-
-
 
 <details>
 <summary>Aprimoramento do Método updateFields para Manipulação de Colunas</summary>
 
-### 4. Aprimoramento do Método updateFields
-
-- **Classe:** `LZMetadataConfig`
+- **Classe:** `LZMetadataConfig`:
     - Estendido o método `updateFields` para incluir a atualização da lista `columns` caso presente no
       `MetadataConfigDTO`.
     - Limpeza da lista `columns` existente antes de atualizá-la com os novos valores, evitando redundâncias.
 
-  ![img_4.png](assets/img_4.png)
+> Essa melhoria permitiu a atualização completa das configurações, incluindo as colunas associadas.
 
 </details>
-
-
 
 <details>
 <summary>Criação das Tabelas de Empresa, Usuário e Permissão</summary>
 
-### 1. Criação das Tabelas de Empresa, Usuário e Permissão
-
-- **Tabela:** `permission`
-    - Colunas criadas: `id_permission`, `description`, e `type`.
+- **Tabela:** `permission`:
+    - Colunas: `id_permission`, `description`, e `type`.
     - Restrição `CHECK` em `type`, limitando os valores a `'lz'`, `'bronze'`, ou `'silver'`.
 
-- **Tabela:** `user`
-    - Colunas criadas: `name`, `email`, e `password`.
+- **Tabela:** `user`:
+    - Colunas: `name`, `email`, e `password`.
     - `email` definido como chave primária.
 
-- **Tabela:** `company`
-    - Colunas criadas: `cnpj` e `fantasy_name`.
+- **Tabela:** `company`:
+    - Colunas: `cnpj` e `fantasy_name`.
     - `cnpj` definido como chave primária.
 
+> Essas tabelas formaram a base para o gerenciamento de usuários, empresas e permissões no sistema.
+
 </details>
-
-
 
 <details>
 <summary>Modificações na Tabela Existente de Arquivo</summary>
 
-### 2. Modificações na Tabela Existente
-
-- **Tabela:** `arquivo`
-    - Adicionada a coluna `file_has_header` (do tipo `INT`), indicando se o arquivo possui cabeçalho.
-    - Adicionada a coluna `cnpj` (do tipo `VARCHAR(18)`), associando o arquivo à tabela `company`.
+- **Tabela:** `arquivo`:
+    - Adicionada a coluna `file_has_header` (tipo `INT`), indicando se o arquivo possui cabeçalho.
+    - Adicionada a coluna `cnpj` (tipo `VARCHAR(18)`), associando o arquivo à tabela `company`.
     - Criada a restrição de chave estrangeira `fk_cnpj` para a coluna `cnpj`, referenciando a chave primária da tabela
       `company`.
 
-  ![img_5.png](assets/img_5.png)
+> Essas modificações melhoraram a integridade dos dados e a relação entre as tabelas.
 
 </details>
-
-
 
 <details>
 <summary>Criação da Tela Silver</summary>
 
-### 1. Estrutura do Componente
-
-- **Componente:** `Silver`
+- **Componente:** `Silver`:
     - Criado um novo componente Vue para a tela "Silver", utilizando TypeScript para tipagem forte.
-    - Propriedades recebidas: `configList`, `tagInfo`, e `bronzeConfig`, configuradas no `defineProps`.
+    - Propriedades recebidas: `configList`, `tagInfo`, e `bronzeConfig`.
+
+- **Lógica de Navegação**:
+    - Função `gotoSilverConfig` para navegar para a rota `/home` ao clicar em um dos botões de configuração.
+
+- **Validação de Colunas**:
+    - Função `validOrInvalid` para validar colunas dentro do `BConfig`.
+
+- **Template e Estilo**:
+    - Estrutura de layout com um `div` principal que contém uma classe `container`.
+    - Estilos definidos com SCSS, utilizando classes como `.grid-wrap`, `.banner`, `.invalid-tag`, e `.valid-tag`.
+
+> A tela Silver foi projetada para ser intuitiva e visualmente atraente, melhorando a experiência do usuário.
 
 </details>
-
-
-
-<details>
-<summary>Implementação da Lógica de Navegação</summary>
-
-### 2. Lógica de Navegação
-
-- **Função:** `gotoSilverConfig`
-    - Navega para a rota `/home` ao clicar em um dos botões de configuração.
-
-</details>
-
-
-
-<details>
-<summary>Validação de Colunas no BConfig</summary>
-
-### 3. Validação de Colunas
-
-- **Função:** `validOrInvalid`
-    - Desenvolvida para validar colunas dentro do `BConfig`, com parte do código comentada para futuras implementações.
-
-</details>
-
-
-
-<details>
-<summary>Criação do Template e Estilo para a Tela Silver</summary>
-
-### 4. Template e Estilo
-
-- **Template:**
-    - Estrutura de layout com um `div` principal que contém uma classe `container`, exibindo o título "Silver" e botões
-      gerados dinamicamente a partir de `configList`.
-    - Cada botão exibe o nome da configuração e chama `gotoSilverConfig` ao ser clicado.
-
-- **Estilos:**
-    - Definidos com SCSS, utilizando classes como `.grid-wrap`, `.banner`, `.invalid-tag`, e `.valid-tag` para
-      personalizar a aparência.
-    - Disposição dos elementos seguindo um grid layout flexível.
-
-</details>
-
-
 
 <details>
 <summary>Integração de Componentes e Gerenciamento de Estado</summary>
 
-### 5. Integração de Componentes e Modal
+- **Componentes Importados**:
+    - `AppHeader`, `DRModal`, e `LVSilverContainer`, utilizados para compor a interface da tela "Silver".
 
-- **Componentes Importados:**
-    - Componentes: `AppHeader`, `DRModal`, e `LVSilverContainer`, utilizados para compor a interface da tela "Silver".
-
-- **Gerenciamento de Estado:**
+- **Gerenciamento de Estado**:
     - Utilizadas referências (`ref`) para controlar a lista de configurações (`configList`), o estado do modal (
       `showModal`), e a configuração selecionada (`selectedConfig`).
 
+> A integração de componentes e o gerenciamento de estado foram essenciais para criar uma interface dinâmica e
+> responsiva.
+
 </details>
-
-
 
 <details>
 <summary>Chamada de API para Atualização da Lista de Configurações</summary>
 
-### 6. Chamada de API
-
-- **Função Assíncrona:** `getConfig`
+- **Função Assíncrona:** `getConfig`:
     - Realiza uma chamada `GET` para `http://localhost:8080/lz-config/list-view` e atualiza `configList` ao montar o
       componente.
 
+> Essa funcionalidade garantiu que a lista de configurações fosse sempre atualizada, proporcionando uma experiência de
+> usuário mais fluida.
+
 </details>
-
-
 
 <details>
 <summary>Atualização do Alinhamento do Botão de Cadastro</summary>
 
-1. Ajuste de Estilo para o Botão de Cadastro
+- **Ajuste de Estilo**:
+    - Modificação da margem da classe `.saveButton` para `-80px`, alinhando melhor o botão no layout.
+    - Manutenção da estrutura de layout grid, com espaçamento definido por `column-gap`.
 
-- Modificação de Margem:
-    - Ajustada a margem da classe saveButton, que contém o botão de cadastro (DRButton), para -80px, visando alinhar
-      melhor o botão no layout.
-
-
-- Estilização do Grid:
-    - Mantida a estrutura de layout grid, com espaçamento definido por column-gap, para distribuir os elementos na tela
-      de forma organizada.
-
-
-- Estilo da Caixa de Seleção (checkBox):
-    - A classe .checkBox foi mantida com display: flex e align-items: last baseline para garantir que os itens estejam
-      alinhados na base inferior.
-    - Direção dos itens dentro da checkBox definida como row e justificada para flex-start.
-
-- **Estilo:** Escopado ao componente principal para garantir que as regras CSS sejam aplicadas apenas no contexto do
-  componente "Silver".
+> Esses ajustes melhoraram a estética e a usabilidade da interface.
 
 </details>
-
-
 
 <details>
 <summary>Criação do Componente DonutChart</summary>
 
-### 1. Criação do Componente DonutChart
+- **Nova Dependência**:
+    - Adicionada a dependência `vue-chartjs` (versão 5.3.1) para criação de gráficos no Vue 3.
 
-- **Nova Dependência:**
-- Adicionada a dependência `vue-chartjs` versão 5.3.1 ao projeto, permitindo a criação de gráficos no Vue 3.
-
-- **Estrutura do Template:**
+- **Estrutura do Template**:
     - Criado o componente `DonutChart`, utilizando o gráfico de rosca (`Doughnut`) do `vue-chartjs`.
-    - O gráfico é renderizado dentro de um contêiner (`chart-container`), que define a largura máxima e altura do
-      gráfico.
 
-- **Lógica do Script:**
+- **Lógica do Script**:
     - Importados e registrados os elementos do `Chart.js` necessários para o gráfico de rosca: `Title`, `Tooltip`,
       `Legend`, `ArcElement`, e `CategoryScale`.
     - Definida a interface `ChartDataProps` para tipagem das propriedades recebidas (`labels`, `values`, `colors`,
       `title`).
     - Configurados os dados do gráfico (`chartData`) utilizando as propriedades recebidas via `defineProps`.
-    - Definidas as opções do gráfico (`chartOptions`), focadas em responsividade, manutenção da proporção e estilização
-      das legendas e título.
 
-### 2. Modificação das Cores do Gráfico de Rosca
+- **Modificação das Cores**:
+    - Atualização das cores do gráfico para uma nova paleta, garantindo maior contraste e diferenciação entre as seções.
 
-- **Alteração de Cores:**
-    - As cores utilizadas no gráfico de rosca (`DonutChart`) foram atualizadas para uma nova paleta, garantindo maior
-      contraste e diferenciação entre as seções do gráfico:
-        - `#fa2e59` (Vermelho intenso)
-        - `#ff703f` (Laranja)
-        - `#f7bc05` (Amarelo)
-        - `#ecf6bb` (Verde claro)
-        - `#76bcad` (Verde azulado)
-
-1. Ajuste de Estilo para o Botão de Cadastro
-
-- Modificação de Margem:
-    - Ajustada a margem da classe .saveButton, que contém o botão de cadastro (DRButton), para -80px, visando alinhar
-      melhor o botão no layout.
-
-
-- Estilização do Grid:
-    - Mantida a estrutura de layout grid, com espaçamento definido por column-gap, para distribuir os elementos na tela
-      de forma organizada.
-
-
-- Estilo da Caixa de Seleção (checkBox):
-    - A classe .checkBox foi mantida com display: flex e align-items: last baseline para garantir que os itens estejam
-      alinhados na base inferior.
-    - Direção dos itens dentro da checkBox definida como row e justificada para flex-start.
+> O componente `DonutChart` foi essencial para a visualização clara e intuitiva dos dados, melhorando a tomada de
+> decisão.
 
 </details>
 
-#### Hard Skills
+### Hard Skills
 
-<!-- Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo:
-CSS - Sei fazer com autonomia -->
+Aqui estão as **hard skills** que utilizei e desenvolvi durante o projeto, juntamente com o nível de proficiência
+alcançado em cada uma:
 
 <details>
-  <summary>Programação Java - Sei fazer com consulta</summary>
+<summary>Programação Java - Sei fazer com consulta</summary>
 
-- Desenvolvimento de aplicações backend robustas e escaláveis
-- Utilização de recursos da linguagem, como collections, threads, e exceptions
+- Desenvolvimento de aplicações **backend robustas e escaláveis**.
+- Utilização de recursos da linguagem, como **collections**, **threads**, e **exceptions**.
+- Implementação de lógica de negócios e integração com APIs.
+
+> Java foi a linguagem principal utilizada no backend, garantindo a criação de uma aplicação robusta e de alta
+> performance.
 
 </details>
 
 <details>
-  <summary>Desenvolvimento com Spring Framework - Sei fazer com consulta</summary>
+<summary>Desenvolvimento com Spring Framework - Sei fazer com consulta</summary>
 
-- Criação de APIs REST
-- Injeção de dependências e gerenciamento de beans com Spring IoC Container
-- Gerenciamento de transações e configuração de segurança com Spring Security
-- Integração com bancos de dados usando Spring Data JPA
+- Criação de **APIs REST**.
+- Injeção de dependências e gerenciamento de beans com **Spring IoC Container**.
+- Gerenciamento de transações e configuração de segurança com **Spring Security**.
+- Integração com bancos de dados usando **Spring Data JPA**.
 
-</details>
-
-<details>
-  <summary>Estilização e Layout com CSS - Sei fazer com certa autonomia, mas preciso de consulta</summary>
-
-- Design responsivo usando media queries
-- Flexbox e Grid Layout para criação de layouts avançados
-- Aplicação de animações e transições CSS
-- Customização de temas e estilos para componente web
+> O Spring Framework foi essencial para simplificar o desenvolvimento de aplicações Java, oferecendo suporte a diversas
+> funcionalidades críticas.
 
 </details>
 
 <details>
-  <summary>Desenvolvimento Frontend com Vue.js - Sei fazer com consulta</summary>
+<summary>Estilização e Layout com CSS - Sei fazer com consulta</summary>
 
-- Criação de componentes dinâmicos e reutilizáveis
-- Gerenciamento de estado com Vuex
-- Manipulação de eventos e ciclo de vida dos componentes
-- Integração com APIs REST e manipulação de dados assíncronos
+- Design **responsivo** usando **media queries**.
+- **Flexbox** e **Grid Layout** para criação de layouts avançados.
+- Aplicação de **animações** e **transições CSS**.
+- Customização de temas e estilos para componentes web.
 
-</details>
-
-<details>
-  <summary>Gerenciamento de Bancos de Dados MySQL - Sei fazer com consulta</summary>
-
-- Criação e manipulação de tabelas, índices e relações
-- Escrita e otimização de consultas SQL complexas
-- Gerenciamento de transações e controle de concorrência
+> O CSS foi crucial para garantir uma interface visualmente atraente e responsiva, melhorando a experiência do usuário.
 
 </details>
 
 <details>
-  <summary>Controle de Versão com Git - Sei utilizar com autonomia</summary>
+<summary>Desenvolvimento Frontend com Vue.js - Sei fazer com consulta</summary>
 
-- Gerenciamento de branches e fusão de código
-- Resolução de conflitos de código durante o merge
-- Uso de rebase para manter um histórico de commits limpo
+- Criação de **componentes dinâmicos e reutilizáveis**.
+- Gerenciamento de estado com **Vuex**.
+- Manipulação de eventos e ciclo de vida dos componentes.
+- Integração com APIs REST e manipulação de dados assíncronos.
 
-</details>
-
-<details>
-  <summary>Colaboração e Hospedagem de Projetos com GitHub - Sei utilizar com autonomia</summary>
-
-- Criação e gestão de repositórios
-- Revisão de código e pull requests
+> Vue.js foi escolhido por sua simplicidade e eficiência, permitindo a criação de interfaces interativas e de alta
+> performance.
 
 </details>
 
 <details>
-  <summary>Desenvolvimento com IntelliJ IDEA - Sei utilizar com autonomia</summary>
+<summary>Gerenciamento de Bancos de Dados MySQL - Sei fazer com consulta</summary>
 
-- Navegação eficiente no código e refatoração automatizada
-- Debugging avançado e uso de breakpoints condicionais
-- Testes automatizados e integração com ferramentas de build como Maven ou Gradle
-- Configuração de plugins e temas para personalização do ambiente
+- Criação e manipulação de **tabelas**, **índices** e **relações**.
+- Escrita e otimização de **consultas SQL complexas**.
+- Gerenciamento de **transações** e controle de **concorrência**.
 
-</details>
-
-<details>
-  <summary>Desenvolvimento com WebStorm - Sei utilizar com autonomia</summary>
-
-- Desenvolvimento frontend utilizando JavaScript, HTML e CSS
-- Debugging e profilamento de código JavaScript
-- Suporte a frameworks modernos como Vue.js e React
-- Uso de ferramentas de build e task runners (Webpack, npm scripts)
+> MySQL foi fundamental para o armazenamento e gerenciamento eficiente dos dados da aplicação.
 
 </details>
 
 <details>
-  <summary>Pesquisa e Resolução de Problemas com Stack Overflow - Sei utilizar com autonomia</summary>
+<summary>Controle de Versão com Git - Sei utilizar com autonomia</summary>
 
-- Busca de soluções para problemas específicos de programação
-- Participação em discussões e compartilhamento de conhecimento
-- Adaptação de soluções existentes para contextos específicos do projeto
+- Gerenciamento de **branches** (criação, fusão e exclusão).
+- Resolução de **conflitos** durante o merge de branches.
+- Uso de **rebase** para manter um histórico de commits limpo e organizado.
+- Boas práticas de commit (mensagens claras e descritivas).
+
+> Git foi essencial para o controle de versão do projeto, permitindo colaboração eficiente e rastreamento de mudanças.
+
+</details>
+
+<details>
+<summary>Colaboração e Hospedagem de Projetos com GitHub - Sei utilizar com autonomia</summary>
+
+- Criação e gestão de **repositórios**.
+- Revisão de código e aprovação de **pull requests**.
+- Uso de **issues** para gerenciamento de tarefas e bugs.
+- Configuração de **GitHub Actions** para integração contínua (CI/CD).
+
+> GitHub foi a plataforma central para hospedagem do código, colaboração em equipe e revisão de contribuições.
+
+</details>
+
+<details>
+<summary>Desenvolvimento com IntelliJ IDEA - Sei utilizar com autonomia</summary>
+
+- Navegação eficiente no código e **refatoração automatizada**.
+- **Debugging** avançado com uso de breakpoints condicionais.
+- Configuração de **plugins** e **temas** para personalização do ambiente.
+- Integração com ferramentas de teste e build.
+
+> O IntelliJ IDEA foi a ferramenta principal de desenvolvimento, oferecendo um ambiente altamente personalizável e
+> produtivo.
+
+</details>
+
+<details>
+<summary>Desenvolvimento com WebStorm - Sei utilizar com autonomia</summary>
+
+- Desenvolvimento frontend utilizando **JavaScript**, **HTML** e **CSS**.
+- **Debugging** e **profilamento** de código JavaScript.
+- Suporte a frameworks modernos como **Vue.js** e **React**.
+- Uso de ferramentas de build e task runners (**Webpack**, **npm scripts**).
+
+> O WebStorm foi essencial para o desenvolvimento frontend, oferecendo suporte avançado para JavaScript e frameworks
+> modernos.
+
+</details>
+
+<details>
+<summary>Pesquisa e Resolução de Problemas com Stack Overflow - Sei utilizar com autonomia</summary>
+
+- Busca de soluções para problemas específicos de programação.
+- Participação em discussões e compartilhamento de conhecimento.
+- Adaptação de soluções existentes para contextos específicos do projeto.
+
+> O Stack Overflow foi uma ferramenta valiosa para resolver desafios técnicos e aprender com a comunidade de
+> desenvolvedores.
 
 </details>
 
 #### Soft Skills
-
-<!-- Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais.
-Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando
-em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas. -->
 
 <details>
 <summary>Comunicação</summary>
