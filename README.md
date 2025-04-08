@@ -44,7 +44,7 @@ aprofundar ao longo da minha carreira:
 
 ## Objetivos Futuros
 
-- Aprofundar meus conhecimentos em **Inteligência Artificial** e **Machine Learning**.
+- Aprofundar meus conhecimentos em **Inteligência Artificial** e **Machine Learning** (Ciência de Dados).
 
 ## Meus Projetos
 
@@ -64,7 +64,7 @@ sistema oferece dois níveis de acesso: **Administrador** e **Aluno**, cada um c
 
 Aqui estão as principais tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-![My Skills](https://skillicons.dev/icons?i=python,git,github,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=python,git,github,stackoverflow,vscode)
 
 1. **Python**
     - Linguagem de programação utilizada para o desenvolvimento do **backend** da aplicação.
@@ -102,9 +102,6 @@ Aqui estão as principais tecnologias e ferramentas utilizadas no desenvolviment
 - **Colaboração Eficiente**: Uso de Git e GitHub para garantir um fluxo de trabalho colaborativo e organizado.
 
 ### Contribuições Pessoais
-
-Neste projeto, atuei como **FullStack**, com maior participação no **Backend**. Abaixo estão detalhes das minhas
-principais contribuições:
 
 <details>
 <summary>Adição da Interface de Aluno</summary>
@@ -365,9 +362,387 @@ fundamentais para o sucesso das atividades:
 
 </details>
 
-### Em 2023-8
+## Projeto: Sistema de Avaliação de Trabalhos de Graduação (2023-8)
 
-Mesmo formato
+O projeto consiste no desenvolvimento de uma aplicação para facilitar a visualização e gestão das avaliações dos
+Trabalhos de Graduação (TG) dos alunos. A aplicação permitirá a leitura de um arquivo ".csv" contendo respostas de
+formulários preenchidos pelos alunos, possibilitando a atribuição de notas, feedbacks e a geração de relatórios úteis
+para o gerenciamento das turmas. Além disso, a aplicação permitirá o agendamento de entregas e a definição da quantidade
+de entregas, com a nota final sendo calculada com base em uma média das notas distribuídas ao longo dessas entregas.
+
+[**Repositório no GitHub**](https://github.com/wiz-fatec/api-2BD)
+
+### Tecnologias Utilizadas
+
+Aqui estão as principais tecnologias utilizadas no projeto, juntamente com sua importância:
+
+![My Skills](https://skillicons.dev/icons?i=java,git,github,stackoverflow,vscode)
+
+1. **Java**
+    - Linguagem de programação amplamente usada no desenvolvimento da aplicação.
+    - Foi essencial para criar uma aplicação **robusta e escalável**, capaz de manipular grandes volumes de dados.
+
+2. **JavaFX**
+    - Framework para desenvolvimento de interfaces gráficas em Java.
+    - Permitiu a criação de uma interface **amigável e intuitiva** para os usuários, facilitando a visualização e
+      interação com os dados.
+
+3. **Git**
+    - Sistema de controle de versão distribuído.
+    - Essencial para **rastrear mudanças** no código-fonte e colaborar com outros desenvolvedores de forma eficiente.
+
+4. **GitHub**
+    - Plataforma de hospedagem para projetos que utilizam Git.
+    - Foi importante para o **compartilhamento de código**, **colaboração** e **controle de versão**.
+
+5. **Stack Overflow**
+    - Plataforma de perguntas e respostas para desenvolvedores.
+    - Foi uma ferramenta valiosa para obter suporte, resolver problemas e aprender com a comunidade de programadores.
+
+6. **Visual Studio Code (VSCode)**
+    - Editor de código-fonte leve.
+    - Facilitou o desenvolvimento com suporte para **diversas linguagens**, **extensões** e **integração com Git**.
+
+### Destaques do Projeto
+
+- **Leitura e Visualização de Dados**: A aplicação permite a leitura de arquivos ".csv" e a visualização dos dados de
+  forma clara e organizada, facilitando a análise das respostas dos alunos.
+- **Atribuição de Notas e Feedbacks**: A aplicação oferece uma interface para atribuição de notas e feedbacks aos
+  alunos, com a possibilidade de salvar essas informações para consultas futuras.
+- **Agendamento de Entregas**: A funcionalidade de agendamento de entregas permite definir prazos e quantidades de
+  entregas, com a nota final sendo calculada com base em uma média das notas distribuídas ao longo dessas entregas.
+- **Geração de Relatórios**: A aplicação gera relatórios úteis para o gerenciamento das turmas, facilitando a rotina e o
+  acompanhamento das pendências das apresentações.
+
+### Contribuições Pessoais
+
+<details>
+<summary>Implementação do Processador de CSV</summary>
+
+- **Adição das dependências no `pom.xml`**:
+    - **Apache Commons CSV**: Adicionada a dependência `commons-csv` (versão 1.9.0) para facilitar a leitura e
+      manipulação de arquivos CSV.
+    - **JavaFX**: Adicionada a dependência `javafx-controls` (versão 15.0.1) para suporte à interface gráfica.
+
+- **Criação da classe `CSVProcessor`**:
+    - **Função `readCSVToListOfLists`**: Implementação de um método para ler um arquivo CSV e convertê-lo em uma lista
+      de listas de strings.
+    - **Uso da biblioteca Apache Commons CSV**: Utilização de `CSVParser` e `CSVFormat` para processar o arquivo CSV de
+      forma eficiente.
+    - **Tratamento de exceções**: Captura de exceções de I/O (`IOException`) para garantir robustez no processamento de
+      arquivos.
+
+> Esta classe fornece a base para o processamento de arquivos CSV, permitindo a leitura e conversão dos dados para uma
+> estrutura manipulável em Java.
+
+</details>
+
+<details>
+<summary>Implementação da Tela HomeScreen com JavaFX</summary>
+
+- **Criação da classe `HomeScreen`**:
+    - **Uso de `FXMLLoader`**: Carregamento do arquivo FXML (`HomeScreen.fxml`) para definir a interface gráfica.
+    - **Configuração da cena e palco**: Definição da cena (`Scene`) e configuração do palco (`Stage`) para exibição da
+      tela.
+    - **Restrição de redimensionamento**: A tela foi configurada para não ser redimensionável (`setResizable(false)`).
+
+> A interface gráfica e o controlador foram desenvolvidos para permitir a interação do usuário com o sistema,
+> integrando-se ao backend para processamento de arquivos CSV.
+
+</details>
+
+<details>
+<summary>Tratamento de Conflitos e Configuração do `.gitignore`</summary>
+
+- **Adição de entradas no `.gitignore`**:
+    - **IntelliJ**: Ignorar pastas e arquivos gerados pelo IntelliJ (`out/`, `.idea`).
+    - **Maven**: Ignorar a pasta `target`, que contém os arquivos compilados e gerados pelo Maven.
+
+```plaintext
+# IntelliJ
+out/
+.idea
+target
+```
+
+> Essas configurações ajudam a evitar o versionamento de arquivos desnecessários ou específicos do ambiente de
+> desenvolvimento, reduzindo conflitos e mantendo o repositório limpo.
+
+</details>
+
+<details>
+<summary>Implementação da Conexão com o Banco de Dados</summary>
+
+- **Criação da classe `ConnectionDataBase`**:
+    - **Configuração da conexão**: Definição da URL, usuário e senha para conexão com um banco de dados PostgreSQL.
+    - **Uso de `DriverManager`**: Utilização do `DriverManager` para estabelecer a conexão com o banco de dados.
+    - **Tratamento de exceções**: Captura de exceções como `SQLException` e `ClassNotFoundException` para garantir
+      robustez na conexão.
+    - **Singleton pattern**: Implementação de um padrão singleton para garantir que apenas uma instância da conexão seja
+      criada.
+
+- **Teste da conexão na classe `Main`**:
+    - **Inicialização da conexão**: Chamada do método `getConexao()` para verificar a conexão com o banco de dados.
+    - **Mensagem de confirmação**: Exibição de uma mensagem no console indicando que a conexão foi estabelecida com
+      sucesso.
+
+> A implementação da conexão com o banco de dados permite a integração do sistema com um banco de dados PostgreSQL,
+> seguindo boas práticas de tratamento de exceções e gerenciamento de recursos.
+
+</details>
+
+<details>
+<summary>Implementação dos Models para Persistência de Dados</summary>
+
+- **Adição dos models**:
+    - Foram criadas classes para representar e manipular os dados das entidades do sistema, utilizando JDBC para
+      interação com o banco de dados.
+    - Cada model contém métodos para inserir dados no banco de dados, seguindo boas práticas de tratamento de exceções e
+      gerenciamento de recursos.
+
+#### **AdvisorModel**:
+
+- **Responsabilidade**: Manipulação dos dados relacionados aos orientadores.
+- **Método `addAdvisor`**: Insere um novo orientador no banco de dados, com os campos `nome` e `email_fatec`.
+
+#### **StudentModel**:
+
+- **Responsabilidade**: Manipulação dos dados relacionados aos alunos.
+- **Método `addStudent`**: Insere um novo aluno no banco de dados, com os campos `nome`, `email`, `email_fatec`,
+  `idOrientador` e `idturma`.
+
+#### **TGModel**:
+
+- **Responsabilidade**: Manipulação dos dados relacionados aos Trabalhos de Graduação (TG).
+- **Método `addTG`**: Insere um novo TG no banco de dados, com os campos `descricao`, `tipo`, `problema`, `empresa`,
+  `disciplina` e `idAluno`.
+
+#### **TeamModel**:
+
+- **Responsabilidade**: Manipulação dos dados relacionados às turmas.
+- **Método `addTeam`**: Insere uma nova turma no banco de dados, com os campos `halfYear`, `year`, `idTeam`, `idStudent`
+  e `idTG`.
+
+#### **ToDoModel**:
+
+- **Responsabilidade**: Manipulação dos dados relacionados às tarefas (To-Do).
+- **Método `addToDo`**: Insere uma nova tarefa no banco de dados, com os campos `feedbacks`, `notes` e `idToDo`.
+
+> Esses models formam a base para a manipulação de dados no sistema, permitindo a inserção de registros nas tabelas
+> correspondentes do banco de dados.
+
+</details>
+
+<details>
+<summary>Implementação da Funcionalidade de Exibição de Dados em Tabela</summary>
+
+- **Objetivo**: Adicionar uma funcionalidade que permite exibir dados de forma organizada e legível em uma tabela,
+  utilizando JavaFX.
+- **Alterações e adições**:
+    - **Alteração na classe `Main`**: Substituição da tela inicial (`HomeScreen`) pela nova tela com tabela (
+      `HomeScreenWithTable`).
+    - **Modificação no `StudentModel`**: Adição de métodos getters para permitir a exibição dos dados na tabela.
+    - **Criação da classe `ButtonCell`**: Implementação de uma célula personalizada com botões para ações na tabela.
+    - **Criação da tela `HomeScreenWithTable`**: Definição da interface gráfica com uma tabela para exibição de dados.
+    - **Criação do controlador `HomeScreenWithTableController`**: Configuração da tabela e vinculação dos dados.
+
+#### **Alteração na Classe `Main`**:
+
+- **Mudança na tela inicial**: Substituição da tela `HomeScreen` pela tela `HomeScreenWithTable`.
+
+#### **Modificação no `StudentModel`**:
+
+- **Adição de getters**: Métodos para acessar os atributos `student` e `institutionalEmail`, necessários para exibição
+  na tabela.
+
+#### **Criação da Classe `ButtonCell`**:
+
+- **Responsabilidade**: Implementação de uma célula personalizada com botões para ações na tabela.
+- **Funcionalidade**: Exibe um botão "Ação" que, ao ser clicado, executa uma ação personalizada (neste caso, imprime o
+  nome do estudante no console).
+
+#### **Criação da Tela `HomeScreenWithTable`**:
+
+- **Interface gráfica**: Definição da tela com uma tabela para exibição de dados, utilizando FXML.
+- **Colunas da tabela**: Configuração das colunas para exibir informações como nome do estudante, e-mail institucional,
+  e botões para ações.
+
+#### **Criação do Controlador `HomeScreenWithTableController`**:
+
+- **Configuração da tabela**: Vinculação dos dados da tabela com a lista de estudantes.
+- **Uso de `ButtonCell`**: Adição de botões personalizados nas colunas de ações.
+
+</details>
+
+<details>
+<summary>Implementação de Navegação entre Telas</summary>
+
+- **Objetivo**: Adicionar a funcionalidade de navegação entre telas, permitindo que o usuário transite entre diferentes
+  interfaces do sistema.
+- **Alterações**:
+    - **Adição do método `abrirTelaHomeScreenWithTable`**: Implementação de um método para abrir a tela
+      `HomeScreenWithTable` e fechar a tela atual.
+
+#### **Adição do Método `abrirTelaHomeScreenWithTable`**:
+
+- **Responsabilidade**: Navegar para a tela `HomeScreenWithTable` e fechar a tela atual.
+- **Funcionalidade**:
+    - Cria uma nova instância da tela `HomeScreenWithTable`.
+    - Inicia a nova tela em um novo `Stage`.
+    - Fecha a tela atual, se necessário.
+
+</details>
+
+<details>
+<summary>Implementação do CSVHandler e Aprimoramento dos Models</summary>
+
+- **Objetivo**: Adicionar funcionalidade para processar dados de um arquivo CSV e populá-los no banco de dados, além de
+  aprimorar os models com métodos adicionais para manipulação de dados.
+- **Alterações**:
+    - **Criação da classe `CSVHandler`**: Implementação de um handler para processar dados CSV e inserir no banco de
+      dados.
+    - **Aprimoramento dos models**:
+        - Adição de métodos `getSubmit()` para recuperar dados do banco.
+        - Adição de métodos getters e setters para manipulação de atributos.
+        - Implementação de métodos para inserção de dados no banco.
+
+#### **Criação da Classe `CSVHandler`**:
+
+- **Responsabilidade**: Processar dados de um arquivo CSV e inserir no banco de dados.
+- **Funcionalidade**:
+    - Recebe uma lista de listas de strings (`dataList`), onde cada sublista representa uma linha do CSV.
+    - Popula as tabelas `orientador`, `aluno`, `tg` e `turma` no banco de dados com base nos dados do CSV.
+
+#### **Aprimoramento do `AdvisorModel`**:
+
+- **Adição de métodos**:
+    - `getFatecEmail()`, `setFatecEmail()`, `getName()`, `setName()`, `getId()`, `setId()`: Getters e setters para os
+      atributos.
+    - `getSubmit()`: Recupera todos os orientadores do banco de dados.
+
+#### **Aprimoramento do `SubmitModel`**:
+
+- **Adição de métodos**:
+    - `getSubmit()`: Recupera todas as entregas do banco de dados.
+
+#### **Aprimoramento do `TGModel`**:
+
+- **Adição de métodos**:
+    - Getters e setters para os atributos.
+    - `getSubmit()`: Recupera todos os TGs do banco de dados.
+
+#### **Aprimoramento do `TeamModel`**:
+
+- **Adição de métodos**:
+    - Getters e setters para os atributos.
+    - `addTeam()`: Insere uma nova turma no banco de dados.
+    - `getSubmit()`: Recupera todas as turmas do banco de dados.
+
+</details>
+
+<details>
+<summary>Implementação do AdvisorController</summary>
+
+**Funcionalidades Principais:**
+
+- Processa dados de orientadores a partir de CSV
+- Normaliza nomes (maiúsculas) e emails (minúsculas)
+- Previne duplicação de orientadores
+- Delega validação para `AdvisorModel`
+
+> **PONTO DE INTEGRAÇÃO**  
+> Chamado pelo `CSVHandler` durante o pipeline de processamento
+</details>
+
+<details>
+<summary>Implementação do Controller StudentController</summary>
+
+
+**Funcionalidades Principais:**
+
+- Validação completa de emails (pessoal e Fatec)
+- Normalização de dados
+- Associação automática a equipes por tipo de TG
+- Integração com validação de orientador
+
+> **FLUXO DE VALIDAÇÃO**  
+> Usa `EmailValidator` antes de passar dados para a camada de modelo
+</details>
+
+<details>
+<summary>Implementação do Controller StudentModel</summary>
+
+
+**Lógica de Equipes:**
+
+**Principais Características:**
+
+- Validação em cadeia para dados de alunos
+- Lógica de associação automática a equipes
+- Verificação de existência de orientador
+- Atribuição de equipe baseada no tipo de TG
+
+> **REGRAS DE NEGÓCIO**  
+> Alunos são automaticamente alocados em equipes conforme seu tipo de TG
+</details>
+
+<details>
+<summary>Implementação do Validator EmailValidator</summary>
+
+**Características:**
+
+- Validação básica de formato de email
+- Lógica de fallback para emails institucionais
+- Uso consistente em todas as entidades
+
+> **DICA**  
+> Pode ser estendido para incluir validação por regex mais robusta
+</details>
+
+<details>
+<summary>Implementação do Método limparLabels</summary>
+
+**Funcionalidades:**
+
+- Reseta todos os campos de exibição de feedback e nota
+- Define o status padrão "SEM NOTA" em vermelho
+- Prepara a interface para uma nova consulta
+
+> **CASO DE USO**  
+> Chamado quando não há notas/feedback cadastrados ou quando ocorre mudança na seleção
+</details>
+
+<details>
+<summary>Implementação do Método atualizarLabels</summary>
+
+**Fluxo Lógico:**
+
+1. Verifica se há entrega e TG selecionados
+2. Obtém o ID do aluno atual
+3. Busca no modelo os dados de nota e feedback
+4. Se existir:
+    - Armazena em cache (Maps)
+    - Atualiza a interface
+    - Ajusta o status
+5. Se não existir:
+    - Limpa os campos
+
+> **MELHORIA FUTURA**  
+> Poderíamos adicionar um loading state durante a consulta
+</details>
+
+<details>
+<summary>Implementação do Método atualizarStatusEntrega</summary>
+
+**Estados Possíveis:**
+
+- `SEM NOTA` (Vermelho) - Estado inicial
+- `PENDENTE` (Laranja) - Entrega existente sem avaliação
+- `AVALIADO` (Verde) - Entrega com nota/feedback cadastrados
+
+> **FEEDBACK VISUAL**  
+> Código de cores intuitivo para rápida identificação do status
+</details>
 
 ## Projeto: Dom Rock Pipeline Configurator (2024-2)
 
@@ -440,9 +815,6 @@ Aqui estão as principais tecnologias utilizadas no projeto, juntamente com sua 
 - **Arquitetura Escalável**: Utilização de tecnologias modernas para garantir uma solução robusta e adaptável.
 
 ### Contribuições Pessoais
-
-Neste projeto, atuei como **FullStack**, com maior participação no **Frontend** a partir da segunda sprint. Abaixo estão
-detalhes das minhas principais contribuições:
 
 <details>
 <summary>Adição das Versões Iniciais para o Processamento de CSV e JSON</summary>
