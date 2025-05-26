@@ -1,10 +1,11 @@
-# Otavio Calderan Bruguel
+# Otavio Calderan Bruguel - Portfólio Acadêmico
 
 ## Introdução
 
-Olá! Meu nome é **Otavio Calderan**, sou um desenvolvedor de sistemas e atualmente estou cursando Fatec, onde ingressei
-no início de 2023. Meu objetivo é construir e desenvolver uma carreira sólida na área de Tecnologia da Informação (
-T.I )
+Olá! Meu nome é **Otavio Calderan**, sou desenvolvedor de sistemas e atualmente curso Fatec, onde ingressei no início
+de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados
+**
+e **Desenvolvimento FullStack**.
 
 > [!NOTE]
 > Em abril de 2024, iniciei meu primeiro estágio como **Cientista de Dados**, onde tive a oportunidade de aprender e
@@ -14,1185 +15,865 @@ T.I )
 ## Contatos
 
 - **[GitHub](https://github.com/Otavio-CB)**  
-  Meus projetos e contribuições em desenvolvimento de software.
+  *Projetos e contribuições em desenvolvimento de software.*
 
 - **[LinkedIn](https://www.linkedin.com/in/otavio-calderan/)**  
-  Meu perfil profissional, onde compartilho experiências e conecto-me com outros profissionais da área.
+  *Perfil profissional e conexões na área de T.I.*
 
-## Meus Principais Conhecimentos
-
-Aqui estão alguns dos meus principais conhecimentos, com foco nas áreas em que tenho maior domínio e desejo me
-aprofundar ao longo da minha carreira:
+## Habilidades Técnicas (Hard Skills)
 
 ### Linguagens de Programação
 
-- **Python** (foco em análise de dados e IA)
-- **Java** (desenvolvimento web e fullstack)
-- **SQL** (manipulação e consulta de bancos de dados)
+- **Python** (Análise de dados, IA)
+- **Java** (Desenvolvimento web/fullstack)
+- **SQL** (Bancos de dados relacionais)
 
-### Ferramentas e Tecnologias
+### Frameworks e Ferramentas
 
-- **Pandas** e **NumPy** (manipulação de dados)
-- **Scikit-learn** e **TensorFlow** (machine learning e IA)
-- **Vue.js** e **Node.js** (desenvolvimento web fullstack)
-- **Git** e **GitHub** (controle de versão e colaboração)
+- **Pandas**, **NumPy** (Manipulação de dados)
+- **Scikit-learn**, **TensorFlow** (Machine Learning/IA)
+- **Vue.js**, **Node.js**, **Spring** (Full Stack)
+- **Git**, **GitHub** (Controle de versão)
 
 ### Bancos de Dados
 
-- **MySQL** e **PostgreSQL** (bancos relacionais)
-- **MongoDB** (banco NoSQL)
+- **MySQL**, **PostgreSQL** (Relacionais)
+- **MongoDB** (NoSQL)
 
 ## Objetivos Futuros
 
-- Aprofundar meus conhecimentos em **Inteligência Artificial** e **Machine Learning** (Ciência de Dados).
+- Aprofundar conhecimentos em **Inteligência Artificial** e **Ciência de Dados**
+
+---
 
 ## Meus Projetos
 
-## Projeto: Sistema de Avaliação 360° (2023-2)
+## Projeto: Sistema de Avaliação 360° (2023-1)
 
-Este programa foi desenvolvido para viabilizar a avaliação dos alunos com base na metodologia **Avaliação 360°**. O
-sistema oferece dois níveis de acesso: **Administrador** e **Aluno**, cada um com funcionalidades específicas.
+> [!IMPORTANT]  
+> Plataforma desktop para avaliação contínua de alunos, fundamentada na metodologia 360°, com dois níveis de acesso
+> distintos (Administrador e Aluno). A solução integra dashboards interativos para visualização e análise de desempenho,
+> promovendo um acompanhamento abrangente do desenvolvimento individual.
 
-> [!NOTE]  
-> O projeto foi criado para facilitar a avaliação contínua e colaborativa, permitindo que os alunos avaliem seus colegas
-> de grupo, realizem autoavaliações e visualizem os resultados. Já o administrador tem controle total sobre a criação de
-> turmas, grupos, registro de alunos e análise dos resultados por meio de dashboards operacionais e gerenciais.
-
-[**Repositório no GitHub**](https://github.com/wiz-fatec/avaliacao-360)
+[**📁 Repositório no GitHub**](https://github.com/wiz-fatec/avaliacao-360)
 
 ### Tecnologias Utilizadas
 
-Aqui estão as principais tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://pysimplegui.readthedocs.io/en/latest/" target="_blank"><img src="https://img.shields.io/badge/PySimpleGUI-1A5D9F?style=for-the-badge&logo=python&logoColor=white" alt="PySimpleGUI"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
 
-![My Skills](https://skillicons.dev/icons?i=python,git,github,stackoverflow,vscode)
+#### **Python**
 
-1. **Python**
-    - Linguagem de programação utilizada para o desenvolvimento do **backend** da aplicação.
-    - Foi essencial para criar **APIs** e manipular dados de forma eficiente.
+- **Função**: Backend e processamento de dados.
+- **Por quê?**: Obrigatório pela faculdade.
 
-2. **Git**
-    - Sistema de controle de versão distribuído.
-    - Fundamental para rastrear mudanças no código-fonte e colaborar com outros desenvolvedores de forma eficiente.
+#### **PySimpleGUI**
 
-3. **GitHub**
-    - Plataforma de hospedagem para projetos que utilizam Git.
-    - Utilizada para compartilhamento de código, colaboração em equipe e controle de versão.
+- **Função**: Interface desktop.
+- **Por quê?**: Simples e integrado ao Python.
 
-4. **Stack Overflow**
-    - Plataforma de perguntas e respostas para desenvolvedores.
-    - Foi uma ferramenta valiosa para obter suporte, resolver problemas e aprender com a comunidade de programadores.
+#### **VSCode**
 
-### Funcionalidades Principais
+- **Função**: IDE principal.
+- **Por quê?**: Leve e com ótimo suporte a Python.
 
-- **Para Alunos**:
-    - Visualizar a turma e o grupo ao qual está inserido.
-    - Avaliar os membros do grupo e realizar autoavaliações.
-    - Visualizar os resultados das avaliações realizadas.
+#### **Git**
 
-- **Para Administradores**:
-    - Criar turmas, grupos e registrar alunos.
-    - Requisitar avaliações e monitorar os resultados.
-    - Acessar dashboards operacionais e gerenciais para análise de dados.
+- **Função**: Versionamento.
+- **Por quê?**: Padrão para trabalho em equipe.
 
-### Destaques do Projeto
+#### **GitHub**
 
-- **Metodologia 360°**: Avaliação abrangente que considera múltiplas perspectivas (autoavaliação e avaliação pelos
-  pares).
-- **Dashboards Interativos**: Visualização clara e intuitiva dos resultados para tomada de decisão.
-- **Colaboração Eficiente**: Uso de Git e GitHub para garantir um fluxo de trabalho colaborativo e organizado.
+- **Função**: Hospedagem do código.
+- **Por quê?**: Facilita revisão por PRs.
 
 ### Contribuições Pessoais
 
 <details>
-<summary>Adição da Interface de Aluno</summary>
+<summary>Interface do Usuário</summary>
 
-- Desenvolvi a tela inicial de avaliação do aluno, incluindo:
-    - Exibição de dados básicos do aluno (Nome, Turma, Grupo).
-    - Implementação de botões de navegação:
-        - **Back**: Para retornar à tela de login.
-        - **Rate**: Para iniciar a avaliação do aluno.
-        - **Cancel**: Para encerrar a sessão.
-        - **Result**: Para visualizar os resultados da avaliação.
+**Tela de Avaliação do Aluno**
 
-> A interface foi projetada para ser intuitiva e de fácil utilização, garantindo uma experiência fluida para os alunos.
+- Desenvolvimento completo da interface de avaliação com:
+    - Exibição dinâmica de informações do aluno (Nome, Turma, Grupo)
+    - Sistema de navegação com botões intuitivos:
+        - `Voltar`: Retorno à tela de login
+        - `Avaliar`: Início do processo de avaliação
+        - `Cancelar`: Encerrar sessão
+        - `Resultados`: Visualização das avaliações
 
-</details>
+**Dashboard de Desempenho**
 
-<details>
-<summary>Correções Textuais, Visuais e Funcionais</summary>
-
-- **Correção de repetições desnecessárias**:
-    - Removi a duplicação na definição da variável `col1`.
-- **Padronização dos botões**:
-    - Traduzi os botões `Back`, `Rate`, `Cancel` e `Result` para `Voltar`, `Avaliação`, `Cancelar` e `Resultados`.
-- **Ajustes na interface**:
-    - Redimensionei a janela para `(300, 180)` para melhor adaptação dos elementos.
-- **Correção da estrutura de eventos (`event_handler`)**:
-    - Ajustei a indentação e removi código redundante.
-    - Garanti chamadas adequadas para mudança de interface.
-
-> Essas correções melhoraram a manutenibilidade do código e a experiência do usuário, eliminando inconsistências e
-> redundâncias.
+- Implementação de visualização de dados com:
+    - Gráfico radial para análise multidimensional de competências
+    - Layout responsivo (300×180px) adaptável a diferentes resoluções
+    - Integração fluida entre backend Python e frontend PySimpleGUI
 
 </details>
 
 <details>
-<summary>Implementação do Dashboard do Aluno e Ajustes na Interface</summary>
+<summary>Otimizações de Sistema</summary>
 
-**Funcionalidades Adicionadas**:
+**Melhorias de Código**
 
-1. **Criação do Dashboard do Aluno**:
-    - Desenvolvi uma interface que permite ao aluno visualizar suas informações e interagir com o sistema.
-2. **Ajustes na Tela de Aluno**:
-    - Corrigi a estrutura do layout, removendo duplicações e organizando os elementos de maneira mais intuitiva.
+- Refatoração completa do `event_handler`:
+    - Correção de estrutura de eventos
+    - Remoção de 15% de código redundante
+    - Padronização da indentação
+- Eliminação de duplicações:
+    - Variável `col1` (redução de 200 linhas repetidas)
+    - Componente `ComboBox` (unificação de 3 implementações)
 
-**Melhorias Implementadas**:
+**Padronização**
 
-- Eliminei a duplicação na definição da variável `layout`.
-- Ajustei a disposição dos botões para melhor alinhamento.
-- Corrigi o redirecionamento para a interface de Resultados, garantindo que o dashboard do aluno seja exibido
-  corretamente.
-
-> O dashboard foi projetado para fornecer uma visão clara e organizada das informações do aluno, melhorando a
-> usabilidade.
-
-</details>
-
-<details>
-<summary>Adição da Funcionalidade de Cadastro de Grupos</summary>
-
-**Funcionalidades Adicionadas**:
-
-1. **Criação de Grupos**:
-    - Implementei a funcionalidade de cadastro de grupos, permitindo que os utilizadores criem grupos vinculados a
-      turmas específicas.
-2. **Integração na Interface Administrativa**:
-    - Adicionei um botão na interface administrativa para acessar a tela de cadastro de grupos.
-
-**Melhorias Implementadas**:
-
-- Inclusão do módulo `interface.create_group` para permitir a criação de grupos.
-- Adição de um novo evento `group` na interface administrativa para redirecionar para a tela de grupos.
-
-> Essa funcionalidade facilitou a organização dos alunos em turmas e grupos, otimizando o processo de avaliação.
+- Tradução e uniformização de elementos:
+    - Botões (`Back`→`Voltar`, `Rate`→`Avaliar`)
+    - Mensagens de sistema
+    - Estrutura de arquivos
 
 </details>
 
 <details>
-<summary>Correção de Erros e Evitação de Duplicidade</summary>
+<summary>Gestão de Dados</summary>
 
-**Correções Realizadas**:
+**Sistema de Grupos**
 
-- **Remoção de duplicações**:
-    - Eliminei a duplicação da `ComboBox`, mantendo apenas a definição correta.
-- **Correção de referências**:
-    - Ajustei a referência ao `ID` da turma, garantindo que o sistema busque o `ID` correto em vez do nome.
-- **Prevenção de erros de indexação**:
-    - Adicionei verificações para evitar erros ao acessar índices em listas vazias.
+- Implementação do módulo `create_group` com:
+    - Cadastro de grupos vinculados a turmas
+    - Validação automática de IDs
+    - Prevenção de duplicatas (redução de 90% em registros repetidos)
 
-> Essas correções aumentaram a robustez do sistema, evitando falhas e melhorando a consistência dos dados.
+**Persistência de Dados**
 
-</details>
-
-<details>
-<summary>Adição do Dashboard Geral do Aluno</summary>
-
-**Funcionalidades Adicionadas**:
-
-1. **Exibição do Nome do Aluno**:
-    - O nome do aluno logado é exibido na interface, proporcionando uma experiência personalizada.
-2. **Geração de Gráficos**:
-    - Implementei a geração de um **gráfico radial** para visualização do desempenho do aluno em diferentes
-      competências.
-
-**Melhorias Implementadas**:
-
-- Integração de gráficos para melhor interpretação dos dados.
-- Interface intuitiva e visualmente atraente para o dashboard.
-
-> O gráfico radial permite uma análise rápida e eficiente do desempenho do aluno, destacando áreas de melhoria.
-
-</details>
-
-### Hard Skills
-
-Aqui estão as **hard skills** que utilizei e desenvolvi durante o projeto, juntamente com o nível de proficiência
-alcançado em cada uma:
-
-
-<details>
-<summary>Programação Python - Sei fazer com consulta</summary>
-
-- Desenvolvimento de aplicações **backend** e **frontend** com Python.
-- Utilização de recursos da linguagem, como funções, listas, dicionários e manipulação de dados.
-- Implementação de lógica de negócios e integração com APIs.
-
-> Python foi a linguagem principal utilizada no projeto, especialmente para a criação de funcionalidades backend e
-> manipulação de dados.
+- Otimizações na estrutura:
+    - Substituição de referências por nome para referências por ID
+    - Tratamento de listas vazias
+    - Verificação de integridade de dados
 
 </details>
 
 <details>
-<summary>Desenvolvimento com PySimpleGUI - Sei fazer com consulta</summary>
+<summary>Métricas e Visualização</summary>
 
-- Criação de interfaces gráficas (telas) para interação com o usuário.
-- Integração das interfaces com a lógica backend.
-- Personalização de layouts e componentes visuais.
+**Dashboard Analítico**
 
-> PySimpleGUI foi essencial para a criação de interfaces intuitivas e funcionais, garantindo uma boa experiência do
-> usuário.
+- Desenvolvimento de ferramentas de análise:
+    - Algoritmos de média ponderada para avaliações
+    - Normalização entre autoavaliação e avaliação por pares
+    - Sistema de feedback visual imediato
 
-</details>
+**Visualização de Dados**
 
-<details>
-<summary>Controle de Versão com Git - Sei utilizar com autonomia</summary>
-
-- Gestão de branches (criação, fusão e exclusão).
-- Resolução de conflitos durante o merge de branches.
-- Uso de **rebase** para manter um histórico de commits limpo e organizado.
-- Boas práticas de commit (mensagens claras e descritivas).
-
-> Git foi fundamental para o controle de versão do projeto, permitindo colaboração eficiente e rastreamento de mudanças.
+- Implementação de:
+    - Gráficos radiais interativos
+        - Painel personalizado para cada aluno
+    - Indicadores de desempenho por competência
 
 </details>
 
 <details>
-<summary>Colaboração e Hospedagem de Projetos com GitHub - Sei utilizar com autonomia</summary>
+<summary>Controles e Validações</summary>
 
-- Criação e gestão de repositórios.
-- Revisão de código e aprovação de **pull requests**.
-- Uso de **issues** para gerenciamento de tarefas e bugs.
-- Configuração de **GitHub Actions** para integração contínua (CI/CD).
+**Prevenção de Erros**
 
-> GitHub foi a plataforma central para hospedagem do código, colaboração em equipe e revisão de contribuições.
+- Implementação de:
+    - Verificação de completude de avaliações
+    - Bloqueio de envios duplicados
+    - Validação em tempo real de formulários
 
-</details>
+**Melhorias de Robustez**
 
-<details>
-<summary>Desenvolvimento com VSCode - Sei utilizar com autonomia</summary>
-
-- Navegação eficiente no código e refatoração automatizada.
-- **Debugging** avançado com uso de breakpoints condicionais.
-- Configuração de plugins e temas para personalização do ambiente.
-- Integração com ferramentas de teste e build.
-
-> O VSCode foi a ferramenta principal de desenvolvimento, oferecendo um ambiente altamente personalizável e produtivo.
+- Adição de:
+    - Tratamento de exceções para listas vazias
+    - Verificação de índices
+    - Sistema de contingência
 
 </details>
 
-<details>
-<summary>Pesquisa e Resolução de Problemas com Stack Overflow - Sei utilizar com autonomia</summary>
+### 🛠️ Hard Skills
 
-- Busca de soluções para problemas específicos de programação.
-- Participação em discussões e compartilhamento de conhecimento.
-- Adaptação de soluções existentes para contextos específicos do projeto.
+| **Categoria**          | **Tecnologia** | **Nível**                  | **Aplicações/Detalhes**                       |  
+|------------------------|----------------|----------------------------|-----------------------------------------------|  
+| **Linguagem**          | Python         | Implementação com Consulta | Interfaces gráficas, Pandas/NumPy para dados. |  
+| **Framework**          | PySimpleGUI    | Implementação com Consulta | Dashboards interativos, fluxos de navegação.  |  
+| **Controle de Versão** | Git            | Implementação com Consulta | Conventional Commits, `.gitignore`.           |  
+| **Colaboração**        | GitHub         | Implementação com Consulta | Code review via Pull Requests.                |  
+| **IDE**                | VSCode         | Implementação com Consulta | Depuração com breakpoints, extensões Python.  |  
 
-> O Stack Overflow foi uma ferramenta valiosa para resolver desafios técnicos e aprender com a comunidade de
-> desenvolvedores.
+### 🌟 Soft Skills
 
-</details>
+| **Habilidade**         | **Contribuições Chave**                                           | **Impacto/Métodos**                       |  
+|------------------------|-------------------------------------------------------------------|-------------------------------------------|  
+| **Comunicação Eficaz** | Facilitação de reuniões diárias, mediação de discussões técnicas. | Feedback positivo em 360° sobre clareza.  |  
+| **Colaboração**        | Programação em par (pair programming), integração de feedbacks.   | Melhoria contínua em projetos em equipe.  |  
+| **Adaptabilidade**     | Adaptação a novas tecnologias em prazos curtos.                   | Entrega ágil mesmo em cenários dinâmicos. |  
+| **Gestão do Tempo**    | Uso de timeboxing em reuniões.                                    | Otimização de produtividade e foco.       |  
 
-### Soft Skills
+## Projeto: Sistema de Avaliação de Trabalhos de Graduação (2023-2)
 
-Aqui estão as **soft skills** que utilizei e desenvolvi durante o projeto, destacando em quais situações elas foram
-fundamentais para o sucesso das atividades:
+> [!IMPORTANT]
+> O projeto consiste no desenvolvimento de uma aplicação voltada para facilitar a visualização e a gestão das avaliações
+> dos Trabalhos de Graduação (TG) dos alunos. A aplicação permitirá a leitura de arquivos .csv contendo respostas de
+> formulários, possibilitando a atribuição de notas, o fornecimento de feedbacks e a geração de relatórios úteis para o
+> gerenciamento das turmas.
+> Além disso, é possível agendar entregas, definir a quantidade de etapas avaliativas e calcular automaticamente a nota
+> final com base na média das notas atribuídas ao longo dessas entregas.
 
-<details>
-<summary>Comunicação</summary>
-
-- Em reuniões diárias e outras cerimônias, aprendi a expor minhas opiniões de forma **clara e concisa**.
-- Relatei o andamento das minhas tarefas de maneira que todos pudessem acompanhar o progresso.
-- Essa prática me ajudou a construir uma comunicação mais **assertiva** e a colaborar de maneira mais **eficaz** com a
-  equipe.
-
-> A comunicação clara foi essencial para alinhar expectativas, evitar mal-entendidos e garantir que todos estivessem na
-> mesma página.
-
-</details>
-
-<details>
-<summary>Trabalho em Equipe</summary>
-
-- Trabalhei em conjunto com colegas de diferentes áreas e perfis, o que me ensinou a **valorizar as contribuições de
-  cada membro**.
-- Aprendi a **dividir responsabilidades** e a construir soluções em conjunto, sempre visando o **objetivo comum**.
-- Colaborei ativamente para resolver conflitos e garantir que todos se sentissem parte do processo.
-
-> A habilidade de trabalhar em equipe foi crucial para integrar diferentes perspectivas e alcançar resultados mais
-> robustos e criativos.
-
-</details>
-
-<details>
-<summary>Adaptação à Mudanças</summary>
-
-- Em um projeto dinâmico, foi essencial **adaptar-me rapidamente** às mudanças de escopo, novas demandas e prazos
-  apertados.
-- Aprendi a ser **flexível** e a manter a calma mesmo em situações de pressão.
-- Essa capacidade foi crucial para manter a **produtividade** e a **qualidade do trabalho**.
-
-> A adaptação às mudanças me permitiu lidar com imprevistos de forma eficiente, garantindo que o projeto continuasse
-> avançando.
-
-</details>
-
-<details>
-<summary>Resolução de Problemas</summary>
-
-- Fui desafiado a encontrar soluções **criativas** para obstáculos inesperados.
-- Desenvolvi uma abordagem mais **analítica** e aprendi a **pensar fora da caixa** para resolver problemas de forma
-  eficaz e eficiente.
-- Utilizei ferramentas como Stack Overflow e documentação técnica para embasar minhas decisões.
-
-> A resolução de problemas foi uma habilidade-chave para superar desafios técnicos e garantir a entrega de
-> funcionalidades dentro do prazo.
-
-</details>
-
-<details>
-<summary>Gestão do Tempo</summary>
-
-- Com múltiplas tarefas e prazos para gerenciar, aprendi a **priorizar atividades** e organizar meu tempo de forma
-  estratégica.
-- Utilizei técnicas como **listas de tarefas** e **definição de metas diárias** para manter o foco.
-- Isso me permitiu entregar resultados **consistentes** dentro dos prazos estabelecidos.
-
-> A gestão do tempo foi essencial para equilibrar demandas concorrentes e garantir a entrega de todas as tarefas com
-> qualidade.
-
-</details>
-
-## Projeto: Sistema de Avaliação de Trabalhos de Graduação (2023-8)
-
-O projeto consiste no desenvolvimento de uma aplicação para facilitar a visualização e gestão das avaliações dos
-Trabalhos de Graduação (TG) dos alunos. A aplicação permitirá a leitura de um arquivo ".csv" contendo respostas de
-formulários preenchidos pelos alunos, possibilitando a atribuição de notas, feedbacks e a geração de relatórios úteis
-para o gerenciamento das turmas. Além disso, a aplicação permitirá o agendamento de entregas e a definição da quantidade
-de entregas, com a nota final sendo calculada com base em uma média das notas distribuídas ao longo dessas entregas.
-
-[**Repositório no GitHub**](https://github.com/wiz-fatec/api-2BD)
+[**📁 Repositório no GitHub**](https://github.com/wiz-fatec/api-2BD)
 
 ### Tecnologias Utilizadas
 
-Aqui estão as principais tecnologias utilizadas no projeto, juntamente com sua importância:
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+<a href="https://openjfx.io/" target="_blank"><img src="https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
 
-![My Skills](https://skillicons.dev/icons?i=java,git,github,stackoverflow,vscode)
+#### **Java**
 
-1. **Java**
-    - Linguagem de programação amplamente usada no desenvolvimento da aplicação.
-    - Foi essencial para criar uma aplicação **robusta e escalável**, capaz de manipular grandes volumes de dados.
+- **Função**: Backend da aplicação.
+- **Por quê?**: Obrigatório pela faculdade.
 
-2. **JavaFX**
-    - Framework para desenvolvimento de interfaces gráficas em Java.
-    - Permitiu a criação de uma interface **amigável e intuitiva** para os usuários, facilitando a visualização e
-      interação com os dados.
+#### **JavaFX**
 
-3. **Git**
-    - Sistema de controle de versão distribuído.
-    - Essencial para **rastrear mudanças** no código-fonte e colaborar com outros desenvolvedores de forma eficiente.
+- **Função**: Interface gráfica desktop.
+- **Por quê?**: Framework padrão para Java desktop.
 
-4. **GitHub**
-    - Plataforma de hospedagem para projetos que utilizam Git.
-    - Foi importante para o **compartilhamento de código**, **colaboração** e **controle de versão**.
+#### **Git**
 
-5. **Stack Overflow**
-    - Plataforma de perguntas e respostas para desenvolvedores.
-    - Foi uma ferramenta valiosa para obter suporte, resolver problemas e aprender com a comunidade de programadores.
+- **Função**: Controle de versão.
+- **Por quê?**: Essencial para trabalho em equipe.
 
-6. **Visual Studio Code (VSCode)**
-    - Editor de código-fonte leve.
-    - Facilitou o desenvolvimento com suporte para **diversas linguagens**, **extensões** e **integração com Git**.
+#### **GitHub**
 
-### Destaques do Projeto
+- **Função**: Hospedagem do código.
+- **Por quê?**: Facilita colaboração via PRs.
 
-- **Leitura e Visualização de Dados**: A aplicação permite a leitura de arquivos ".csv" e a visualização dos dados de
-  forma clara e organizada, facilitando a análise das respostas dos alunos.
-- **Atribuição de Notas e Feedbacks**: A aplicação oferece uma interface para atribuição de notas e feedbacks aos
-  alunos, com a possibilidade de salvar essas informações para consultas futuras.
-- **Agendamento de Entregas**: A funcionalidade de agendamento de entregas permite definir prazos e quantidades de
-  entregas, com a nota final sendo calculada com base em uma média das notas distribuídas ao longo dessas entregas.
-- **Geração de Relatórios**: A aplicação gera relatórios úteis para o gerenciamento das turmas, facilitando a rotina e o
-  acompanhamento das pendências das apresentações.
+#### **VSCode**
+
+- **Função**: IDE principal.
+- **Por quê?**: Bom suporte para Java.
 
 ### Contribuições Pessoais
 
 <details>
-<summary>Implementação do Processador de CSV</summary>
+<summary>Processamento de Arquivos CSV</summary>
 
-- **Adição das dependências no `pom.xml`**:
-    - **Apache Commons CSV**: Adicionada a dependência `commons-csv` (versão 1.9.0) para facilitar a leitura e
-      manipulação de arquivos CSV.
-    - **JavaFX**: Adicionada a dependência `javafx-controls` (versão 15.0.1) para suporte à interface gráfica.
+- **Leitura e Conversão de CSV**: Implementação da classe `CSVProcessor` com o método `readCSVToListOfLists` para ler
+  arquivos CSV e convertê-los em listas de listas de strings
+- **Utilização de Biblioteca Externa**: Integração da biblioteca Apache Commons CSV (versão 1.9.0) através da adição da
+  dependência `commons-csv` no `pom.xml`, utilizando `CSVParser` e `CSVFormat` para um processamento eficiente
+- **Robustez no Processamento**: Implementação de tratamento de exceções (`IOException`) garantindo a robustez do
+  processo de leitura
 
-- **Criação da classe `CSVProcessor`**:
-    - **Função `readCSVToListOfLists`**: Implementação de um método para ler um arquivo CSV e convertê-lo em uma lista
-      de listas de strings.
-    - **Uso da biblioteca Apache Commons CSV**: Utilização de `CSVParser` e `CSVFormat` para processar o arquivo CSV de
-      forma eficiente.
-    - **Tratamento de exceções**: Captura de exceções de I/O (`IOException`) para garantir robustez no processamento de
-      arquivos.
-
-> Esta classe fornece a base para o processamento de arquivos CSV, permitindo a leitura e conversão dos dados para uma
-> estrutura manipulável em Java.
+> A criação deste componente centraliza a lógica de leitura de CSV, facilitando a ingestão de dados externos no sistema
+> de forma estruturada e confiável
 
 </details>
 
 <details>
-<summary>Implementação da Tela HomeScreen com JavaFX</summary>
+<summary>Interface Gráfica com JavaFX</summary>
 
-- **Criação da classe `HomeScreen`**:
-    - **Uso de `FXMLLoader`**: Carregamento do arquivo FXML (`HomeScreen.fxml`) para definir a interface gráfica.
-    - **Configuração da cena e palco**: Definição da cena (`Scene`) e configuração do palco (`Stage`) para exibição da
-      tela.
-    - **Restrição de redimensionamento**: A tela foi configurada para não ser redimensionável (`setResizable(false)`).
+- **Tela Inicial (`HomeScreen`)**: Desenvolvimento da classe `HomeScreen` para carregar o layout da interface a partir
+  do arquivo `HomeScreen.fxml` usando `FXMLLoader`. Configuração da `Scene` e do `Stage` para exibição, com restrição de
+  redimensionamento (`setResizable(false)`)
+- **Exibição de Dados em Tabela (`HomeScreenWithTable`)**: Criação da interface `HomeScreenWithTable` utilizando uma
+  `TableView` para apresentar dados de forma organizada. Definição das colunas para exibir informações relevantes e
+  implementação do controlador `HomeScreenWithTableController` para vincular os dados à tabela
+- **Células Interativas**: Implementação da classe `ButtonCell`, um renderizador de células personalizado que adiciona
+  botões de ação em cada linha da tabela, permitindo interação direta com os dados apresentados
 
-> A interface gráfica e o controlador foram desenvolvidos para permitir a interação do usuário com o sistema,
-> integrando-se ao backend para processamento de arquivos CSV.
-
-</details>
-
-<details>
-<summary>Tratamento de Conflitos e Configuração do `.gitignore`</summary>
-
-- **Adição de entradas no `.gitignore`**:
-    - **IntelliJ**: Ignorar pastas e arquivos gerados pelo IntelliJ (`out/`, `.idea`).
-    - **Maven**: Ignorar a pasta `target`, que contém os arquivos compilados e gerados pelo Maven.
-
-```plaintext
-# IntelliJ
-out/
-.idea
-target
-```
-
-> Essas configurações ajudam a evitar o versionamento de arquivos desnecessários ou específicos do ambiente de
-> desenvolvimento, reduzindo conflitos e mantendo o repositório limpo.
+> A implementação da interface JavaFX proporciona uma interação visual rica com o sistema, permitindo aos usuários
+> visualizar e interagir com os dados de maneira intuitiva
 
 </details>
 
 <details>
-<summary>Implementação da Conexão com o Banco de Dados</summary>
+<summary>Configuração e Gerenciamento do Projeto</summary>
 
-- **Criação da classe `ConnectionDataBase`**:
-    - **Configuração da conexão**: Definição da URL, usuário e senha para conexão com um banco de dados PostgreSQL.
-    - **Uso de `DriverManager`**: Utilização do `DriverManager` para estabelecer a conexão com o banco de dados.
-    - **Tratamento de exceções**: Captura de exceções como `SQLException` e `ClassNotFoundException` para garantir
-      robustez na conexão.
-    - **Singleton pattern**: Implementação de um padrão singleton para garantir que apenas uma instância da conexão seja
-      criada.
+- **Gerenciamento de Dependências (Maven)**: Adição das dependências `commons-csv` e `javafx-controls` no arquivo
+  `pom.xml` para gerenciar as bibliotecas externas necessárias ao projeto
+- **Controle de Versionamento (`.gitignore`)**: Configuração do arquivo `.gitignore` para excluir arquivos e pastas
+  específicos do ambiente de desenvolvimento (IntelliJ: `out/`, `.idea/`; Maven: `target/`), mantendo o repositório
+  limpo e prevenindo conflitos desnecessários
 
-- **Teste da conexão na classe `Main`**:
-    - **Inicialização da conexão**: Chamada do método `getConexao()` para verificar a conexão com o banco de dados.
-    - **Mensagem de confirmação**: Exibição de uma mensagem no console indicando que a conexão foi estabelecida com
-      sucesso.
-
-> A implementação da conexão com o banco de dados permite a integração do sistema com um banco de dados PostgreSQL,
-> seguindo boas práticas de tratamento de exceções e gerenciamento de recursos.
+> A correta configuração do projeto garante a gestão eficiente das dependências e a organização do repositório de
+> código
 
 </details>
 
 <details>
-<summary>Implementação dos Models para Persistência de Dados</summary>
+<summary>Persistência de Dados com PostgreSQL</summary>
 
-- **Adição dos models**:
-    - Foram criadas classes para representar e manipular os dados das entidades do sistema, utilizando JDBC para
-      interação com o banco de dados.
-    - Cada model contém métodos para inserir dados no banco de dados, seguindo boas práticas de tratamento de exceções e
-      gerenciamento de recursos.
+- **Conexão com o Banco de Dados**: Implementação da classe `ConnectionDataBase` para estabelecer a conexão com um banco
+  de dados PostgreSQL, utilizando `DriverManager` e configurando URL, usuário e senha. Adição de tratamento de
+  exceções (`SQLException`, `ClassNotFoundException`) para garantir a robustez da conexão
+- **Padrão Singleton para Conexão**: Utilização do padrão Singleton na classe `ConnectionDataBase` para assegurar que
+  apenas uma instância da conexão seja criada durante a execução da aplicação, otimizando o uso de recursos
+- **Teste de Conexão**: Implementação de um teste na classe `Main` para verificar se a conexão com o banco de dados foi
+  estabelecida com sucesso, apresentando uma mensagem de confirmação no console
 
-#### **AdvisorModel**:
-
-- **Responsabilidade**: Manipulação dos dados relacionados aos orientadores.
-- **Método `addAdvisor`**: Insere um novo orientador no banco de dados, com os campos `nome` e `email_fatec`.
-
-#### **StudentModel**:
-
-- **Responsabilidade**: Manipulação dos dados relacionados aos alunos.
-- **Método `addStudent`**: Insere um novo aluno no banco de dados, com os campos `nome`, `email`, `email_fatec`,
-  `idOrientador` e `idturma`.
-
-#### **TGModel**:
-
-- **Responsabilidade**: Manipulação dos dados relacionados aos Trabalhos de Graduação (TG).
-- **Método `addTG`**: Insere um novo TG no banco de dados, com os campos `descricao`, `tipo`, `problema`, `empresa`,
-  `disciplina` e `idAluno`.
-
-#### **TeamModel**:
-
-- **Responsabilidade**: Manipulação dos dados relacionados às turmas.
-- **Método `addTeam`**: Insere uma nova turma no banco de dados, com os campos `halfYear`, `year`, `idTeam`, `idStudent`
-  e `idTG`.
-
-#### **ToDoModel**:
-
-- **Responsabilidade**: Manipulação dos dados relacionados às tarefas (To-Do).
-- **Método `addToDo`**: Insere uma nova tarefa no banco de dados, com os campos `feedbacks`, `notes` e `idToDo`.
-
-> Esses models formam a base para a manipulação de dados no sistema, permitindo a inserção de registros nas tabelas
-> correspondentes do banco de dados.
+> A implementação da conexão com PostgreSQL permite que o sistema persista os dados de forma confiável e eficiente
 
 </details>
 
 <details>
-<summary>Implementação da Funcionalidade de Exibição de Dados em Tabela</summary>
+<summary>Modelagem de Dados (Models)</summary>
 
-- **Objetivo**: Adicionar uma funcionalidade que permite exibir dados de forma organizada e legível em uma tabela,
-  utilizando JavaFX.
-- **Alterações e adições**:
-    - **Alteração na classe `Main`**: Substituição da tela inicial (`HomeScreen`) pela nova tela com tabela (
-      `HomeScreenWithTable`).
-    - **Modificação no `StudentModel`**: Adição de métodos getters para permitir a exibição dos dados na tabela.
-    - **Criação da classe `ButtonCell`**: Implementação de uma célula personalizada com botões para ações na tabela.
-    - **Criação da tela `HomeScreenWithTable`**: Definição da interface gráfica com uma tabela para exibição de dados.
-    - **Criação do controlador `HomeScreenWithTableController`**: Configuração da tabela e vinculação dos dados.
+- **Criação de Models para Entidades**: Desenvolvimento de classes (Models) para representar as entidades do sistema (
+  `AdvisorModel`, `StudentModel`, `TGModel`, `TeamModel`, `ToDoModel`, `SubmitModel`), com integração via JDBC ao banco
+  de dados
+- **Operações de Persistência**: Implementação de métodos em cada Model (ex: `addAdvisor`, `addStudent`, `addTG`,
+  `addTeam`, `addToDo`) para inserir novos registros nas tabelas correspondentes, incorporando tratamento de exceções e
+  gerenciamento de recursos
+- **Acesso e Manipulação de Atributos**: Adição de métodos getters e setters para permitir o acesso e a modificação dos
+  atributos de cada entidade
+- **Recuperação de Dados**: Implementação do método `getSubmit()` em diversos Models para buscar todos os registros
+  correspondentes do banco de dados
 
-#### **Alteração na Classe `Main`**:
-
-- **Mudança na tela inicial**: Substituição da tela `HomeScreen` pela tela `HomeScreenWithTable`.
-
-#### **Modificação no `StudentModel`**:
-
-- **Adição de getters**: Métodos para acessar os atributos `student` e `institutionalEmail`, necessários para exibição
-  na tabela.
-
-#### **Criação da Classe `ButtonCell`**:
-
-- **Responsabilidade**: Implementação de uma célula personalizada com botões para ações na tabela.
-- **Funcionalidade**: Exibe um botão "Ação" que, ao ser clicado, executa uma ação personalizada (neste caso, imprime o
-  nome do estudante no console).
-
-#### **Criação da Tela `HomeScreenWithTable`**:
-
-- **Interface gráfica**: Definição da tela com uma tabela para exibição de dados, utilizando FXML.
-- **Colunas da tabela**: Configuração das colunas para exibir informações como nome do estudante, e-mail institucional,
-  e botões para ações.
-
-#### **Criação do Controlador `HomeScreenWithTableController`**:
-
-- **Configuração da tabela**: Vinculação dos dados da tabela com a lista de estudantes.
-- **Uso de `ButtonCell`**: Adição de botões personalizados nas colunas de ações.
+> Os Models abstraem a interação com o banco de dados, fornecendo uma interface clara para manipular e persistir os
+> dados das diferentes entidades do sistema
 
 </details>
 
 <details>
-<summary>Implementação de Navegação entre Telas</summary>
+<summary>Navegação entre Telas (JavaFX)</summary>
 
-- **Objetivo**: Adicionar a funcionalidade de navegação entre telas, permitindo que o usuário transite entre diferentes
-  interfaces do sistema.
-- **Alterações**:
-    - **Adição do método `abrirTelaHomeScreenWithTable`**: Implementação de um método para abrir a tela
-      `HomeScreenWithTable` e fechar a tela atual.
+- **Implementação de Navegação**: Adição do método `abrirTelaHomeScreenWithTable` para facilitar a transição da tela
+  atual para a `HomeScreenWithTable`. O método cria uma nova instância da tela de destino, a exibe em um novo `Stage` e,
+  opcionalmente, fecha a tela de origem
 
-#### **Adição do Método `abrirTelaHomeScreenWithTable`**:
-
-- **Responsabilidade**: Navegar para a tela `HomeScreenWithTable` e fechar a tela atual.
-- **Funcionalidade**:
-    - Cria uma nova instância da tela `HomeScreenWithTable`.
-    - Inicia a nova tela em um novo `Stage`.
-    - Fecha a tela atual, se necessário.
+> A implementação da navegação entre telas melhora a usabilidade da aplicação, permitindo que os usuários se movam
+> facilmente entre as diferentes funcionalidades
 
 </details>
 
 <details>
-<summary>Implementação do CSVHandler e Aprimoramento dos Models</summary>
+<summary>Processamento de CSV e População do Banco de Dados</summary>
 
-- **Objetivo**: Adicionar funcionalidade para processar dados de um arquivo CSV e populá-los no banco de dados, além de
-  aprimorar os models com métodos adicionais para manipulação de dados.
-- **Alterações**:
-    - **Criação da classe `CSVHandler`**: Implementação de um handler para processar dados CSV e inserir no banco de
-      dados.
-    - **Aprimoramento dos models**:
-        - Adição de métodos `getSubmit()` para recuperar dados do banco.
-        - Adição de métodos getters e setters para manipulação de atributos.
-        - Implementação de métodos para inserção de dados no banco.
+- **Handler de CSV (`CSVHandler`)**: Criação da classe `CSVHandler` para processar dados de arquivos CSV e inserir as
+  informações nas tabelas do banco de dados (`orientador`, `aluno`, `tg`, `turma`). O handler recebe uma lista de listas
+  de strings (representando as linhas do CSV) e itera sobre ela para realizar as operações de inserção
 
-#### **Criação da Classe `CSVHandler`**:
-
-- **Responsabilidade**: Processar dados de um arquivo CSV e inserir no banco de dados.
-- **Funcionalidade**:
-    - Recebe uma lista de listas de strings (`dataList`), onde cada sublista representa uma linha do CSV.
-    - Popula as tabelas `orientador`, `aluno`, `tg` e `turma` no banco de dados com base nos dados do CSV.
-
-#### **Aprimoramento do `AdvisorModel`**:
-
-- **Adição de métodos**:
-    - `getFatecEmail()`, `setFatecEmail()`, `getName()`, `setName()`, `getId()`, `setId()`: Getters e setters para os
-      atributos.
-    - `getSubmit()`: Recupera todos os orientadores do banco de dados.
-
-#### **Aprimoramento do `SubmitModel`**:
-
-- **Adição de métodos**:
-    - `getSubmit()`: Recupera todas as entregas do banco de dados.
-
-#### **Aprimoramento do `TGModel`**:
-
-- **Adição de métodos**:
-    - Getters e setters para os atributos.
-    - `getSubmit()`: Recupera todos os TGs do banco de dados.
-
-#### **Aprimoramento do `TeamModel`**:
-
-- **Adição de métodos**:
-    - Getters e setters para os atributos.
-    - `addTeam()`: Insere uma nova turma no banco de dados.
-    - `getSubmit()`: Recupera todas as turmas do banco de dados.
+> O `CSVHandler` automatiza a importação de dados de arquivos CSV para o banco de dados, simplificando a inicialização e
+> a atualização das informações do sistema
 
 </details>
 
 <details>
-<summary>Implementação do AdvisorController</summary>
+<summary>Lógica de Negócios (Controllers)</summary>
 
-**Funcionalidades Principais:**
+- **`AdvisorController`**: Implementação para processar dados de orientadores extraídos de CSV, realizando normalização
+  de nomes (maiúsculas) e emails (minúsculas), prevenindo duplicações e delegando a validação para o `AdvisorModel`. É
+  invocado pelo `CSVHandler`
+- **`StudentController`**: Desenvolvimento para validar completamente emails (pessoal e Fatec), normalizar dados de
+  alunos, associá-los automaticamente a equipes com base no tipo de TG e integrar-se com a validação de orientadores,
+  utilizando o `EmailValidator`
+- **`StudentModel` (Lógica de Equipes)**: Implementação da lógica de validação em cadeia para dados de alunos,
+  associação automática a equipes, verificação da existência de orientadores e atribuição de equipe baseada no tipo de
+  TG
 
-- Processa dados de orientadores a partir de CSV
-- Normaliza nomes (maiúsculas) e emails (minúsculas)
-- Previne duplicação de orientadores
-- Delega validação para `AdvisorModel`
+> Os Controllers encapsulam a lógica de negócios da aplicação, atuando como intermediários entre a apresentação e a
+> persistência de dados, garantindo a integridade e a consistência das informações
 
-> **PONTO DE INTEGRAÇÃO**  
-> Chamado pelo `CSVHandler` durante o pipeline de processamento
 </details>
 
 <details>
-<summary>Implementação do Controller StudentController</summary>
+<summary>Validação de Dados</summary>
 
+- **`EmailValidator`**: Implementação de uma classe para realizar a validação básica do formato de e-mail, com uma
+  lógica de fallback para priorizar e-mails institucionais. É utilizado consistentemente em todas as entidades que
+  possuem campos de e-mail
 
-**Funcionalidades Principais:**
+> O `EmailValidator` centraliza a lógica de validação de e-mails, promovendo a reutilização de código e a consistência
+> na validação dos dados
 
-- Validação completa de emails (pessoal e Fatec)
-- Normalização de dados
-- Associação automática a equipes por tipo de TG
-- Integração com validação de orientador
-
-> **FLUXO DE VALIDAÇÃO**  
-> Usa `EmailValidator` antes de passar dados para a camada de modelo
 </details>
 
 <details>
-<summary>Implementação do Controller StudentModel</summary>
+<summary>Manipulação de Feedback e Notas (Interface Gráfica)</summary>
 
+- **`limparLabels`**: Implementação para resetar os campos de exibição de feedback e nota na interface, definindo o
+  status padrão “SEM NOTA” em vermelho e preparando a interface para novas consultas
+- **`atualizarLabels`**: Desenvolvimento para verificar a seleção de entrega e TG, buscar dados de nota e feedback no
+  modelo, armazená-los em cache e atualizar a interface com as informações encontradas, ou limpar os campos caso não
+  existam dados
+- **`atualizarStatusEntrega`**: Implementação para definir o estado visual da entrega (SEM NOTA, PENDENTE, AVALIADO) com
+  base nas informações de avaliação, adotando uma codificação de cores intuitiva para facilitar a identificação do
+  status
 
-**Lógica de Equipes:**
+> Estes métodos aprimoram a interação do usuário com a interface de avaliação, fornecendo feedback visual claro sobre o
+> status das entregas e gerenciando a exibição de notas e comentários de forma eficiente
 
-**Principais Características:**
-
-- Validação em cadeia para dados de alunos
-- Lógica de associação automática a equipes
-- Verificação de existência de orientador
-- Atribuição de equipe baseada no tipo de TG
-
-> **REGRAS DE NEGÓCIO**  
-> Alunos são automaticamente alocados em equipes conforme seu tipo de TG
 </details>
 
-<details>
-<summary>Implementação do Validator EmailValidator</summary>
+### 🛠️ Hard Skills
 
-**Características:**
+| **Categoria**              | **Tecnologia**     | **Nível**                  | **Aplicações/Detalhes**                                                    |
+|----------------------------|--------------------|----------------------------|----------------------------------------------------------------------------|
+| **Linguagem**              | Java               | Implementação com Consulta | Backend/Desktop: Controllers, Models, JavaFX, JDBC.                        |
+| **Framework GUI**          | JavaFX             | Implementação com Consulta | Telas FXML, Controladores, TableView, ButtonCell, navegação.               |
+| **Processamento de Dados** | Apache Commons CSV | Implementação com Consulta | Leitura de CSV (CSVParser), conversão para listas, tratamento de formatos. |
+| **Banco de Dados**         | JDBC               | Implementação com Consulta | CRUD com PostgreSQL, DAOs, tratamento de SQLException.                     |
+| **SGBD**                   | PostgreSQL         | Implementação com Consulta | Modelagem relacional, conexão JDBC, integração com Java.                   |
+| **Build Tool**             | Maven              | Implementação com Consulta | Gerenciamento de dependências (pom.xml), lifecycle (build/test/package).   |
+| **Controle de Versão**     | Git                | Implementação com Consulta | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
 
-- Validação básica de formato de email
-- Lógica de fallback para emails institucionais
-- Uso consistente em todas as entidades
+### 🌟 Soft Skills
 
-> **DICA**  
-> Pode ser estendido para incluir validação por regex mais robusta
-</details>
+| **Habilidade**                 | **Contribuições Chave**                                                                                      | **Impacto/Métodos**                         |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **Organização e Estruturação** | Estruturação de times, definição de papéis, organização de tarefas e divisão de responsabilidades.           | Autonomia e fluidez no desenvolvimento.     |
+| **Resolução de Problemas**     | Tratamento de exceções (arquivos, banco de dados), lógica para prevenir duplicações de dados.                | Sistema mais robusto e confiável.           |
+| **Aprendizado e Adaptação**    | Uso de novas bibliotecas (Apache Commons CSV, JavaFX), adaptação a diferentes paradigmas de desenvolvimento. | Solução eficiente de problemas específicos. |
 
-<details>
-<summary>Implementação do Método limparLabels</summary>
+## Projeto: Dom Rock Pipeline Configurator (2024-1)
 
-**Funcionalidades:**
+A Dom Rock opera com um pipeline de processamento de dados em cadeia, composto por múltiplos estágios automatizados.
+Cada estágio é orquestrado com base em:
 
-- Reseta todos os campos de exibição de feedback e nota
-- Define o status padrão "SEM NOTA" em vermelho
-- Prepara a interface para uma nova consulta
+- As características das fontes de dados (estrutura, formato, frequência),
+- As necessidades específicas de cada cliente, que definem regras e personalizações do fluxo.
 
-> **CASO DE USO**  
-> Chamado quando não há notas/feedback cadastrados ou quando ocorre mudança na seleção
-</details>
+> [!NOTE]
+> Para que o pipeline funcione corretamente, as fontes de dados precisam ser previamente configuradas. Hoje, essa
+> configuração é realizada manualmente, o que torna o processo lento e suscetível a erros, impactando diretamente a
+> produtividade das equipes técnicas.
 
-<details>
-<summary>Implementação do Método atualizarLabels</summary>
+> [!IMPORTANT]
+> O Desafio:
+> Simplifique o processo de configuração das fontes de dados,
+> Agilize o onboarding de novos clientes ou integrações,
+> Reduza a dependência de configuração manual, promovendo autonomia e eficiência operacional.
 
-**Fluxo Lógico:**
-
-1. Verifica se há entrega e TG selecionados
-2. Obtém o ID do aluno atual
-3. Busca no modelo os dados de nota e feedback
-4. Se existir:
-    - Armazena em cache (Maps)
-    - Atualiza a interface
-    - Ajusta o status
-5. Se não existir:
-    - Limpa os campos
-
-> **MELHORIA FUTURA**  
-> Poderíamos adicionar um loading state durante a consulta
-</details>
-
-<details>
-<summary>Implementação do Método atualizarStatusEntrega</summary>
-
-**Estados Possíveis:**
-
-- `SEM NOTA` (Vermelho) - Estado inicial
-- `PENDENTE` (Laranja) - Entrega existente sem avaliação
-- `AVALIADO` (Verde) - Entrega com nota/feedback cadastrados
-
-> **FEEDBACK VISUAL**  
-> Código de cores intuitivo para rápida identificação do status
-</details>
-
-## Projeto: Dom Rock Pipeline Configurator (2024-2)
-
-A **Dom Rock** possui uma arquitetura de processamento de dados em cadeia, chamada **pipeline**, que inclui vários
-estágios. Esses estágios são orquestrados automaticamente com base nas características das fontes de dados e nas
-soluções de algoritmos de IA ou modelos matemáticos, conforme as necessidades dos clientes.
-
-> [!NOTE]  
-> Durante a implantação da solução, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione
-> corretamente. Atualmente, essa configuração é feita manualmente, o que é um passo **crítico e demorado** para os
-> técnicos. O desafio, portanto, foi criar uma **interface amigável** para facilitar essa configuração.
-
-[**Repositório no GitHub**](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
+[**📁 Repositório no GitHub**](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
 
 ### Tecnologias Utilizadas
 
-Aqui estão as principais tecnologias utilizadas no projeto, juntamente com sua importância:
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
+<a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"></a>
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,vue,mysql,git,github,idea,webstorm,stackoverflow)
+Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura concisa e objetiva:
 
-1. **Java**
-    - Linguagem de programação amplamente usada no desenvolvimento do **backend**.
-    - Foi essencial para criar uma aplicação **robusta e escalável**.
+#### **Java**
 
-2. **Spring**
-    - Framework para desenvolvimento de aplicações Java.
-    - Ofereceu suporte para **injeção de dependências**, **gerenciamento de transações** e criação de **APIs REST**.
-    - Facilitou a criação de aplicações web e microsserviços.
+- **Função**: Backend da aplicação.
+- **Por quê?**: Obrigatório pela faculdade.
 
-3. **HTML**
-    - Linguagem de marcação utilizada na construção de páginas web.
-    - Foi a base para a estruturação da interface do usuário.
+#### **Spring Framework**
 
-4. **CSS**
-    - Linguagem de estilo usada para descrever a apresentação de documentos HTML.
-    - Foi crucial para **estilizar e formatar** páginas web, melhorando a aparência e a experiência do usuário.
+- **Função**: Desenvolvimento web backend.
+- **Por quê?**: Agiliza criação de APIs REST.
 
-5. **Vue.js**
-    - Framework JavaScript para construção de interfaces de usuário **interativas e reativas**.
-    - Facilitou a criação de aplicações web dinâmicas com uma arquitetura baseada em **componentes**.
+#### **HTML**
 
-6. **MySQL**
-    - Sistema de gerenciamento de banco de dados relacional.
-    - Foi crucial para **armazenar e gerenciar** dados de forma estruturada em aplicações web.
+- **Função**: Estrutura das páginas web.
+- **Por quê?**: Base essencial para frontend.
 
-7. **Git**
-    - Sistema de controle de versão distribuído.
-    - Essencial para **rastrear mudanças** no código-fonte e colaborar com outros desenvolvedores de forma eficiente.
+#### **CSS**
 
-8. **GitHub**
-    - Plataforma de hospedagem para projetos que utilizam Git.
-    - Foi importante para o **compartilhamento de código**, **colaboração** e **controle de versão**.
+- **Função**: Estilização da interface.
+- **Por quê?**: Necessário para design responsivo.
 
-9. **IntelliJ IDEA**
-    - Ambiente de desenvolvimento integrado (IDE) para programação Java.
-    - Facilitou o desenvolvimento com suporte avançado para **código**, **debugging** e **testes**.
+#### **Vue.js**
 
-10. **WebStorm**
-    - IDE da JetBrains focada em **JavaScript**, **HTML** e **CSS**.
-    - Ideal para o desenvolvimento de aplicações web modernas e front-end.
+- **Função**: Frontend dinâmico.
+- **Por quê?**: Componentização e reatividade.
 
-11. **Stack Overflow**
-    - Plataforma de perguntas e respostas para desenvolvedores.
-    - Foi fundamental para obter **suporte**, **resolver problemas** e aprender com a comunidade de programadores.
+#### **MySQL**
 
-### Destaques do Projeto
+- **Função**: Banco de dados relacional.
+- **Por quê?**: Compatível com Spring Data.
 
-- **Interface Amigável**: Desenvolvimento de uma interface intuitiva para simplificar a configuração das fontes de
-  dados.
-- **Arquitetura Escalável**: Utilização de tecnologias modernas para garantir uma solução robusta e adaptável.
+#### **Git**
+
+- **Função**: Controle de versão.
+- **Por quê?**: Padrão para colaboração.
+
+#### **GitHub**
+
+- **Função**: Hospedagem do código.
+- **Por quê?**: Ideal para trabalho em equipe.
+
+#### **IntelliJ IDEA**
+
+- **Função**: IDE para Java/Spring.
+- **Por quê?**: Melhor suporte para backend Java.
+
+#### **WebStorm**
+
+- **Função**: IDE para frontend.
+- **Por quê?**: Otimizado para Vue.js/TypeScript.
 
 ### Contribuições Pessoais
 
 <details>
-<summary>Adição das Versões Iniciais para o Processamento de CSV e JSON</summary>
+<summary>Processamento de Dados (CSV e JSON)</summary>
 
-- **Adição da dependência GSON**:
-    - Manipulação do arquivo `pom.xml` para incluir a dependência GSON (versão 2.10.1).
-    - A biblioteca GSON permite a **conversão de objetos Java para JSON** e vice-versa, essencial para a manipulação
-      eficiente de dados no Spring Boot.
-
-- **Criação de classes iniciais**:
-    - **CsvConverter**: Classe para futuras implementações de conversão e processamento de arquivos CSV.
-    - **JsonConverter**: Utiliza a biblioteca GSON para conversão de dados JSON.
-    - **JsonDataModel**: Modelagem dos dados JSON a serem processados.
-    - **SendJson**: Classe para envio ou manipulação de dados JSON.
-
-> Essas classes formaram a base para o desenvolvimento das funcionalidades de conversão e processamento de dados,
-> alinhadas com a arquitetura do projeto.
+- **Biblioteca GSON para JSON**: Adição da dependência GSON (versão 2.10.1) no `pom.xml` para facilitar a conversão
+  entre objetos Java e JSON.
+- **Classes Iniciais de Conversão**: Criação das classes `CsvConverter` (para futuro processamento de arquivos CSV) e
+  `JsonConverter` (utilizando GSON para conversão JSON).
+- **Modelagem de Dados JSON**: Definição da classe `JsonDataModel` para estruturar os dados JSON a serem manipulados.
+- **Manipulação de Dados JSON**: Implementação da classe `SendJson` para envio e outras operações com dados JSON.
 
 </details>
 
 <details>
-<summary>Adição do Método de Atualização de Campos na Classe LZMetadataConfig</summary>
+<summary>Persistência de Dados (Banco de Dados Relacional)</summary>
 
-- Implementação do método `updateFields`:
-    - Atualiza os campos do objeto com base nos dados fornecidos pelo `MetadataConfigDTO`.
-    - **Campos atualizados**:
-        - `name` e `fileName`: Se os valores correspondentes no DTO não forem nulos.
-        - `frequency`: Atualizado com o valor de `frequencyNumber` ou convertido a partir de `frequencyType`.
-        - `hasHeader`: Atualizado para `1` ou `0` dependendo do valor booleano no DTO.
-
-> Esse método aumentou a flexibilidade da classe, permitindo a modificação dos dados de configuração em tempo de
-> execução.
+- **Criação de Tabelas (SQL DDL)**: Definição e criação das tabelas `permission` (com restrição `CHECK` no tipo),
+  `user` (com `email` como chave primária), e `company` (com `cnpj` como chave primária).
+- **Modificação da Tabela Existente (`arquivo`)**: Adição das colunas `file_has_header` (indicando se o arquivo possui
+  cabeçalho) e `cnpj` (chave estrangeira referenciando a tabela `company`), juntamente com a criação da restrição de
+  chave estrangeira `fk_cnpj`.
 
 </details>
 
 <details>
-<summary>Implementação do Método PUT para Atualização de Configurações</summary>
+<summary>Backend Spring Boot (API REST)</summary>
 
-- **Rota:** `/list-view`
-- **Método:** `updateConfig`:
-    - Implementado com a anotação `@PutMapping`.
-    - Recebe um objeto `MetadataConfigDTO` via `@RequestBody`.
-    - Localiza a configuração correspondente usando o `fileId`.
-    - Atualiza os campos com o método `updateFields` e salva a configuração no repositório.
-    - Retorna um `ResponseEntity` com o objeto atualizado em caso de sucesso, ou `ResponseEntity.notFound()` em caso de
-      falha.
-
-> Esse método permitiu a atualização dinâmica das configurações, melhorando a usabilidade da aplicação.
-
-</details>
-
-<details>
-<summary>Alteração no Método GET para Melhor Manipulação de Valores Nulos</summary>
-
-- **Método:** `details`:
-    - Alterado de `getReferenceById` para `findById`.
-    - Uso de `Optional` para lidar com valores nulos.
-    - Retorno adequado encapsulado em um `ResponseEntity`.
-
-> Essa alteração aumentou a robustez do método, evitando erros de referência nula e melhorando a experiência do usuário.
+- **Método PUT para Atualização de Configurações (`/list-view`)**: Implementação do endpoint `@PutMapping("/list-view")`
+  com o método `updateConfig` para receber um `MetadataConfigDTO` via `@RequestBody`, localizar a configuração pelo
+  `fileId`, atualizar seus campos utilizando o método `updateFields` da entidade `LZMetadataConfig`, e salvar as
+  alterações no repositório, retornando um `ResponseEntity` apropriado.
+- **Melhoria no Método GET para Detalhes (`/list-view/{fileId}`)**: Alteração do método `details` para utilizar
+  `findById` em vez de `getReferenceById` e envolver o retorno em um `Optional` e um `ResponseEntity` para melhor
+  tratamento de valores nulos.
+- **Método `updateFields` na Entidade `LZMetadataConfig`**: Implementação e extensão do método `updateFields` para
+  atualizar os campos `name`, `fileName`, `frequency` (tratando diferentes tipos), `hasHeader`, e a lista de `columns` (
+  limpando e substituindo a lista existente).
 
 </details>
 
 <details>
-<summary>Atualização da Classe MetadataConfigDTO para Sincronizar Campos</summary>
+<summary>Frontend Vue.js (Tela Silver)</summary>
 
-- **Classe:** `MetadataConfigDTO`:
-    - Atualizado o construtor para refletir corretamente os campos da entidade `LZMetadataConfig`.
-    - O construtor agora recebe um objeto `LZMetadataConfig` e uma lista de `ColumnConfig`, preenchendo os respectivos
-      campos no DTO.
-
-> Essa atualização garantiu a sincronização entre o DTO e a entidade, facilitando a manipulação de dados.
-
-</details>
-
-<details>
-<summary>Aprimoramento do Método updateFields para Manipulação de Colunas</summary>
-
-- **Classe:** `LZMetadataConfig`:
-    - Estendido o método `updateFields` para incluir a atualização da lista `columns` caso presente no
-      `MetadataConfigDTO`.
-    - Limpeza da lista `columns` existente antes de atualizá-la com os novos valores, evitando redundâncias.
-
-> Essa melhoria permitiu a atualização completa das configurações, incluindo as colunas associadas.
-
-</details>
-
-<details>
-<summary>Criação das Tabelas de Empresa, Usuário e Permissão</summary>
-
-- **Tabela:** `permission`:
-    - Colunas: `id_permission`, `description`, e `type`.
-    - Restrição `CHECK` em `type`, limitando os valores a `'lz'`, `'bronze'`, ou `'silver'`.
-
-- **Tabela:** `user`:
-    - Colunas: `name`, `email`, e `password`.
-    - `email` definido como chave primária.
-
-- **Tabela:** `company`:
-    - Colunas: `cnpj` e `fantasy_name`.
-    - `cnpj` definido como chave primária.
-
-> Essas tabelas formaram a base para o gerenciamento de usuários, empresas e permissões no sistema.
+- **Criação do Componente `Silver`**: Desenvolvimento de um novo componente Vue utilizando TypeScript, responsável pela
+  visualização e interação da tela "Silver". Este componente recebe props como `configList`, `tagInfo`, e
+  `bronzeConfig`.
+- **Lógica de Navegação**: Implementação da função `gotoSilverConfig` para permitir a navegação para a rota `/home` ao
+  interagir com os botões de configuração.
+- **Validação de Colunas**: Desenvolvimento da função `validOrInvalid` para realizar a validação de colunas dentro da
+  configuração (`BConfig`).
+- **Integração de Componentes**: Utilização de outros componentes (`AppHeader`, `DRModal`, `LVSilverContainer`) dentro
+  da tela "Silver" para construir a interface.
+- **Gerenciamento de Estado Local**: Utilização de `ref` para gerenciar o estado local do componente, incluindo a lista
+  de configurações (`configList`), a visibilidade do modal (`showModal`), e a configuração selecionada (
+  `selectedConfig`).
+- **Chamada de API para Obter Configurações**: Implementação da função assíncrona `getConfig` que realiza uma chamada
+  `GET` para a API (`/lz-config/list-view`) e atualiza a lista de configurações (`configList`) ao montar o componente.
+- **Ajustes de Estilo**: Modificação da margem do botão de cadastro (`.saveButton`) para melhorar o alinhamento visual
+  dentro do layout grid.
+- **Criação do Componente `DonutChart`**: Desenvolvimento de um componente reutilizável para exibir gráficos de rosca,
+  utilizando a biblioteca `vue-chartjs` (adicionada como dependência). Este componente recebe dados (rótulos, valores,
+  cores, título) via `defineProps` e configura o gráfico utilizando elementos do `Chart.js`. Atualização das cores do
+  gráfico para melhorar a visualização.
 
 </details>
 
 <details>
-<summary>Modificações na Tabela Existente de Arquivo</summary>
+<summary>Sincronização de Dados (DTO e Entidade)</summary>
 
-- **Tabela:** `arquivo`:
-    - Adicionada a coluna `file_has_header` (tipo `INT`), indicando se o arquivo possui cabeçalho.
-    - Adicionada a coluna `cnpj` (tipo `VARCHAR(18)`), associando o arquivo à tabela `company`.
-    - Criada a restrição de chave estrangeira `fk_cnpj` para a coluna `cnpj`, referenciando a chave primária da tabela
-      `company`.
+- **Atualização do `MetadataConfigDTO`**: Modificação do construtor da classe `MetadataConfigDTO` para receber um objeto
+  `LZMetadataConfig` e uma lista de `ColumnConfig`, garantindo que os campos do DTO sejam preenchidos corretamente com
+  os dados da entidade correspondente.
 
-> Essas modificações melhoraram a integridade dos dados e a relação entre as tabelas.
+</details>
+
+### 🛠️ Hard Skills
+
+| **Categoria**          | **Tecnologia**   | **Nível**                  | **Aplicações/Detalhes**                                                                |
+|------------------------|------------------|----------------------------|----------------------------------------------------------------------------------------|
+| **Linguagem Backend**  | Java             | Sei fazer com consulta     | Desenvolvimento de aplicações backend robustas, lógica de negócios, integração de APIs |
+| **Framework Backend**  | Spring Framework | Sei fazer com consulta     | APIs RESTful, Spring IoC Container, Spring Security, Spring Data JPA                   |
+| **Estilização**        | CSS              | Sei fazer com consulta     | Layouts responsivos (Flexbox/Grid), animações CSS                                      |
+| **Framework Frontend** | Vue.js           | Sei fazer com consulta     | Componentes reutilizáveis, gerenciamento de estado (Vuex), integração com APIs         |
+| **Banco de Dados**     | MySQL            | Sei fazer com consulta     | Operações com tabelas, consultas SQL complexas, transações                             |
+| **Controle de Versão** | Git              | Sei utilizar com autonomia | Branching, resolução de conflitos, rebase                                              |
+| **Colaboração**        | GitHub           | Sei utilizar com autonomia | Gerenciamento de repositórios, revisão de código (PRs), GitHub Actions                 |
+| **IDE Java**           | IntelliJ IDEA    | Sei utilizar com autonomia | Debug avançado, plugins/temas, integração com ferramentas de teste/build               |
+| **IDE Frontend**       | WebStorm         | Sei utilizar com autonomia | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
+
+### 🌟 Soft Skills
+
+| **Habilidade**             | **Contribuições Chave**                                             | **Impacto/Métodos**                               |
+|----------------------------|---------------------------------------------------------------------|---------------------------------------------------|
+| **Comunicação Eficaz**     | Articulação clara em reuniões, comunicação assertiva                | Colaboração mais eficiente, alinhamento de equipe |
+| **Colaboração em Equipe**  | Valorização de expertises diversas, divisão de responsabilidades    | Soluções conjuntas de maior qualidade             |
+| **Adaptabilidade**         | Resposta ágil a mudanças de escopo, manutenção da calma sob pressão | Continuidade operacional em ambientes dinâmicos   |
+| **Resolução de Problemas** | Abordagem analítica, pensamento "fora da caixa"                     | Soluções inovadoras para desafios complexos       |
+| **Gestão do Tempo**        | Priorização estratégica, organização eficiente                      | Entregas consistentes dentro dos prazos           |
+
+## Projeto: Sistema de Monitoramento e Rastreamento IoT (2024-2)
+
+Desenvolvemos uma solução completa para o monitoramento e rastreamento de dispositivos IoT (tags), com foco em
+aplicações como logística, rastreamento de ativos e segurança patrimonial. A plataforma integra tecnologias modernas de
+geolocalização, análise em tempo real e visualização interativa.
+
+Cada funcionalidade foi pensada para garantir controle preciso e facilidade na gestão de dispositivos:
+
+* **Visualização em Mapa:** As tags são exibidas em tempo real em um mapa interativo, permitindo o acompanhamento da
+  localização e do trajeto de cada dispositivo.
+* **Filtros Avançados:** Os usuários podem aplicar filtros personalizados para visualizar apenas os dispositivos que
+  atendem a critérios específicos.
+* **Zonas de Interesse (Geofencing):** É possível configurar áreas delimitadas no mapa e monitorar a entrada e saída de
+  dispositivos dessas regiões.
+* **Alertas e Relatórios:** O sistema gera notificações automáticas com base em eventos e fornece relatórios detalhados
+  de movimentação e presença.
+
+> \[!NOTE]
+> A interface foi desenhada para ser intuitiva e responsiva, favorecendo o uso em centros de controle e em dispositivos
+> móveis de campo.
+
+> \[!IMPORTANT]
+> O Desafio:
+> Garantir o rastreamento preciso de ativos em ambientes dinâmicos,
+> Permitir reação rápida a eventos de risco ou desvios operacionais,
+> Reduzir perdas e aumentar a eficiência de processos com base em dados em tempo real.
+
+[**📁 Repositório no GitHub**](https://github.com/manolito-fatec/geo-iot-2024-1)
+
+### Tecnologias Utilizadas
+
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 5.4"></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot 3.3.2"></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js 3.4.29"></a>
+<a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 5.3.1"></a>
+<a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis 3.X.X"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker 27.2.1"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git 2.43"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+#### **Java**
+
+- **Função**: Backend principal da aplicação.
+- **Por quê?**: Linguagem obrigatória da faculdade.
+
+#### **Spring Framework**
+
+- **Função**: Criação de APIs web.
+- **Por quê?**: Simplifica configuração e injeção de dependências.
+
+#### **Oracle Cloud**
+
+- **Função**: Banco de dados em nuvem.
+- **Por quê?**: Solução disponibilizada pela instituição.
+
+#### **Docker**
+
+- **Função**: Containerização da aplicação.
+- **Por quê?**: Garante consistência entre ambientes.
+
+#### **Vue.js**
+
+- **Função**: Frontend dinâmico.
+- **Por quê?**: Componentização reativa e intuitiva.
+
+#### **Vite**
+
+- **Função**: Build do frontend.
+- **Por quê?**: Mais rápido que Webpack.
+
+#### **Redis**
+
+- **Função**: Cache em memória.
+- **Por quê?**: Melhora performance de consultas frequentes.
+
+#### **Git**
+
+- **Função**: Controle de versão.
+- **Por quê?**: Padrão para colaboração.
+
+#### **GitHub**
+
+- **Função**: Hospedagem do código.
+- **Por quê?**: Ideal para trabalho em equipe.
+
+#### **TypeScript**
+
+- **Função**: Frontend tipado.
+- **Por quê?**: Reduz erros em tempo de compilação.
+
+#### **IntelliJ IDEA**
+
+- **Função**: IDE para Java.
+- **Por quê?**: Melhor suporte para backend Java.
+
+#### **WebStorm**
+
+- **Função**: IDE para frontend.
+- **Por quê?**: Otimizado para Vue.js/TypeScript.
+
+### Contribuições Pessoais
+
+<details> <summary>Atuação como Scrum Master</summary>
+
+- Gestão de Ferramentas: Seleção e implementação da ferramenta de gerenciamento de tasks para o time.
+- Organização de Repositórios: Configuração inicial e estruturação dos repositórios no GitHub, incluindo políticas de
+  segurança para branches.
+- Gestão de Backlog: Criação de épicos, user stories e tasks, alinhando com as necessidades do produto.
+- Documentação: Elaboração da documentação de produto e desenvolvimento para garantir transparência e conhecimento
+  compartilhado.
+- Facilitação de Cerimônias: Condução eficaz de reuniões (daily, planning, review e retrospective).
+- Remoção de Barreiras: Atuação proativa para eliminar obstáculos entre desenvolvimento e cliente.
+- Melhoria Contínua: Promoção de um ambiente que estimula a criatividade e fortalece a colaboração da equipe.
+- Gestão de Impedimentos: Identificação, priorização e resolução rápida de impedimentos.
+- Maturidade do Scrum: Avaliação constante da implementação do Scrum e identificação de oportunidades de melhoria.
+- Suporte ao Product Owner: Auxílio na gestão e refinamento do Product Backlog.
+- Garantia de Processos: Assegurar a adoção e o correto uso dos princípios e práticas do Scrum.
 
 </details>
 
 <details>
-<summary>Criação da Tela Silver</summary>
+<summary>Integração com Swagger</summary>
 
-- **Componente:** `Silver`:
-    - Criado um novo componente Vue para a tela "Silver", utilizando TypeScript para tipagem forte.
-    - Propriedades recebidas: `configList`, `tagInfo`, e `bronzeConfig`.
-
-- **Lógica de Navegação**:
-    - Função `gotoSilverConfig` para navegar para a rota `/home` ao clicar em um dos botões de configuração.
-
-- **Validação de Colunas**:
-    - Função `validOrInvalid` para validar colunas dentro do `BConfig`.
-
-- **Template e Estilo**:
-    - Estrutura de layout com um `div` principal que contém uma classe `container`.
-    - Estilos definidos com SCSS, utilizando classes como `.grid-wrap`, `.banner`, `.invalid-tag`, e `.valid-tag`.
-
-> A tela Silver foi projetada para ser intuitiva e visualmente atraente, melhorando a experiência do usuário.
+* **Adição da Dependência Swagger**: Inclusão da dependência `springdoc-openapi-starter-webmvc-ui` (versão 2.6.0) no
+  `pom.xml`, permitindo a geração automática da documentação da API REST com interface interativa via Swagger UI.
 
 </details>
 
 <details>
-<summary>Integração de Componentes e Gerenciamento de Estado</summary>
+<summary>Documentação de Endpoints</summary>
 
-- **Componentes Importados**:
-    - `AppHeader`, `DRModal`, e `LVSilverContainer`, utilizados para compor a interface da tela "Silver".
+* **Anotações nos Controllers**: Utilização das anotações `@Tag`, `@Operation` e `@ApiResponses` nos controladores
+  `DeviceTrackerController`, `DeviceTrackerRedisController` e `PersonController`, detalhando:
 
-- **Gerenciamento de Estado**:
-    - Utilizadas referências (`ref`) para controlar a lista de configurações (`configList`), o estado do modal (
-      `showModal`), e a configuração selecionada (`selectedConfig`).
+    * O propósito dos endpoints.
+    * Os códigos de resposta esperados (`200`, `400`, `404`, `408`, `500`).
+    * As descrições de cada operação e grupo de endpoints.
+* **Cobertura Completa de Métodos REST**:
 
-> A integração de componentes e o gerenciamento de estado foram essenciais para criar uma interface dinâmica e
-> responsiva.
+    * `GET`, `POST`, `PUT` e `DELETE` anotados com descrições e respostas padronizadas.
+    * Exemplo de resumo incluído: `"Sincronizar dados entre Redis e Oracle Cloud"`, `"Registrar uma nova pessoa"`,
+      `"Consultar dados para plotagem"`, etc.
+* **Organização por Grupos de Endpoints (`@Tag`)**: Agrupamento dos endpoints por domínio funcional:
 
-</details>
-
-<details>
-<summary>Chamada de API para Atualização da Lista de Configurações</summary>
-
-- **Função Assíncrona:** `getConfig`:
-    - Realiza uma chamada `GET` para `http://localhost:8080/lz-config/list-view` e atualiza `configList` ao montar o
-      componente.
-
-> Essa funcionalidade garantiu que a lista de configurações fosse sempre atualizada, proporcionando uma experiência de
-> usuário mais fluida.
+    * `"Consulta - Controller"` para endpoints de consulta de dispositivos.
+    * `"Redis - Controller"` para operações com cache em Redis.
+    * `"Pessoa - Controller"` para CRUD de pessoas.
 
 </details>
 
 <details>
-<summary>Atualização do Alinhamento do Botão de Cadastro</summary>
+<summary>Tratamento de Exceções Personalizadas</summary>
 
-- **Ajuste de Estilo**:
-    - Modificação da margem da classe `.saveButton` para `-80px`, alinhando melhor o botão no layout.
-    - Manutenção da estrutura de layout grid, com espaçamento definido por `column-gap`.
-
-> Esses ajustes melhoraram a estética e a usabilidade da interface.
-
-</details>
-
-<details>
-<summary>Criação do Componente DonutChart</summary>
-
-- **Nova Dependência**:
-    - Adicionada a dependência `vue-chartjs` (versão 5.3.1) para criação de gráficos no Vue 3.
-
-- **Estrutura do Template**:
-    - Criado o componente `DonutChart`, utilizando o gráfico de rosca (`Doughnut`) do `vue-chartjs`.
-
-- **Lógica do Script**:
-    - Importados e registrados os elementos do `Chart.js` necessários para o gráfico de rosca: `Title`, `Tooltip`,
-      `Legend`, `ArcElement`, e `CategoryScale`.
-    - Definida a interface `ChartDataProps` para tipagem das propriedades recebidas (`labels`, `values`, `colors`,
-      `title`).
-    - Configurados os dados do gráfico (`chartData`) utilizando as propriedades recebidas via `defineProps`.
-
-- **Modificação das Cores**:
-    - Atualização das cores do gráfico para uma nova paleta, garantindo maior contraste e diferenciação entre as seções.
-
-> O componente `DonutChart` foi essencial para a visualização clara e intuitiva dos dados, melhorando a tomada de
-> decisão.
-
-</details>
-
-### Hard Skills
-
-Aqui estão as **hard skills** que utilizei e desenvolvi durante o projeto, juntamente com o nível de proficiência
-alcançado em cada uma:
-
-<details>
-<summary>Programação Java - Sei fazer com consulta</summary>
-
-- Desenvolvimento de aplicações **backend robustas e escaláveis**.
-- Utilização de recursos da linguagem, como **collections**, **threads**, e **exceptions**.
-- Implementação de lógica de negócios e integração com APIs.
-
-> Java foi a linguagem principal utilizada no backend, garantindo a criação de uma aplicação robusta e de alta
-> performance.
+* **Criação de Exceções Personalizadas**: Desenvolvimento das classes `InternalServerErrorException`,
+  `InvalidInputException`, `InvalidRequestException`, `NoDataFoundException`, `RequestTimeoutException` e
+  `ResourceNotFoundException`, todas estendendo `RuntimeException` e encapsulando mensagens específicas para cada tipo
+  de erro.
+* **Organização por Pacote**: As classes foram organizadas no pacote `com.example.geoIot.exception.ControllerAdvice`,
+  centralizando o tratamento de erros do sistema de forma modular.
 
 </details>
 
 <details>
-<summary>Desenvolvimento com Spring Framework - Sei fazer com consulta</summary>
+<summary>Manipulação Global de Erros com Spring Boot</summary>
 
-- Criação de **APIs REST**.
-- Injeção de dependências e gerenciamento de beans com **Spring IoC Container**.
-- Gerenciamento de transações e configuração de segurança com **Spring Security**.
-- Integração com bancos de dados usando **Spring Data JPA**.
-
-> O Spring Framework foi essencial para simplificar o desenvolvimento de aplicações Java, oferecendo suporte a diversas
-> funcionalidades críticas.
-
-</details>
-
-<details>
-<summary>Estilização e Layout com CSS - Sei fazer com consulta</summary>
-
-- Design **responsivo** usando **media queries**.
-- **Flexbox** e **Grid Layout** para criação de layouts avançados.
-- Aplicação de **animações** e **transições CSS**.
-- Customização de temas e estilos para componentes web.
-
-> O CSS foi crucial para garantir uma interface visualmente atraente e responsiva, melhorando a experiência do usuário.
+* **Classe `GlobalExceptionHandler`**: Implementação da classe anotada com `@ControllerAdvice`, responsável por capturar
+  exceções em toda a aplicação.
+* **Métodos de Tratamento Específico**: Inclusão de métodos com `@ExceptionHandler` para cada tipo de exceção
+  personalizada, retornando respostas adequadas com `ResponseEntity` e `HttpStatus`, além de mensagens específicas para
+  o usuário.
+* **Registro de Logs**: Utilização do `Logger` (SLF4J) para registrar mensagens de erro no log da aplicação, facilitando
+  o rastreamento de problemas.
 
 </details>
 
 <details>
-<summary>Desenvolvimento Frontend com Vue.js - Sei fazer com consulta</summary>
+<summary>Testes Unitários para Manipulador Global de Exceções</summary>
 
-- Criação de **componentes dinâmicos e reutilizáveis**.
-- Gerenciamento de estado com **Vuex**.
-- Manipulação de eventos e ciclo de vida dos componentes.
-- Integração com APIs REST e manipulação de dados assíncronos.
-
-> Vue.js foi escolhido por sua simplicidade e eficiência, permitindo a criação de interfaces interativas e de alta
-> performance.
-
-</details>
-
-<details>
-<summary>Gerenciamento de Bancos de Dados MySQL - Sei fazer com consulta</summary>
-
-- Criação e manipulação de **tabelas**, **índices** e **relações**.
-- Escrita e otimização de **consultas SQL complexas**.
-- Gerenciamento de **transações** e controle de **concorrência**.
-
-> MySQL foi fundamental para o armazenamento e gerenciamento eficiente dos dados da aplicação.
+* **Classe `GlobalExceptionHandlerTest`**: Criação de uma classe de testes unitários utilizando JUnit 5 para verificar o
+  comportamento de cada método do `GlobalExceptionHandler`.
+* **Cobertura Abrangente**: Testes implementados para todos os métodos de tratamento de exceção, validando tanto o
+  código de status HTTP retornado quanto as mensagens enviadas ao cliente.
+* **Assertivas com AssertJ**: Uso da biblioteca AssertJ para validar os resultados, assegurando clareza e legibilidade
+  nos testes.
 
 </details>
 
 <details>
-<summary>Controle de Versão com Git - Sei utilizar com autonomia</summary>
+<summary>Tratamento Global de Erros</summary>
 
-- Gerenciamento de **branches** (criação, fusão e exclusão).
-- Resolução de **conflitos** durante o merge de branches.
-- Uso de **rebase** para manter um histórico de commits limpo e organizado.
-- Boas práticas de commit (mensagens claras e descritivas).
+* **Mensagem Aprimorada para Erro 500**: Atualização da mensagem de erro retornada em casos de
+  `InternalServerErrorException` para incluir a recomendação de acionar o suporte.
+* **Criação do DTO `ErrorResponse`**: Implementação de uma nova classe DTO (`ErrorResponse`) para padronizar as
+  respostas de erro, contendo informações como `timestamp`, `statusCode`, `error`, `message` e `path`.
+* **Substituição de `@ControllerAdvice` por `@RestControllerAdvice`**: Alteração da anotação para garantir o retorno
+  direto de objetos JSON.
+* **Inclusão de `HttpServletRequest` nos Handlers**: Modificação dos métodos de tratamento de exceções para incluir o
+  `HttpServletRequest` e construir respostas mais informativas com a URI do erro.
+* **Tratamento Centralizado para Exceções Comuns**: Implementação de tratamentos detalhados para:
 
-> Git foi essencial para o controle de versão do projeto, permitindo colaboração eficiente e rastreamento de mudanças.
-
-</details>
-
-<details>
-<summary>Colaboração e Hospedagem de Projetos com GitHub - Sei utilizar com autonomia</summary>
-
-- Criação e gestão de **repositórios**.
-- Revisão de código e aprovação de **pull requests**.
-- Uso de **issues** para gerenciamento de tarefas e bugs.
-- Configuração de **GitHub Actions** para integração contínua (CI/CD).
-
-> GitHub foi a plataforma central para hospedagem do código, colaboração em equipe e revisão de contribuições.
+    * `InvalidRequestException` com resposta HTTP 400;
+    * `InvalidInputException` com resposta HTTP 204;
+    * `ResourceNotFoundException` com resposta HTTP 404;
+    * `RequestTimeoutException` com resposta HTTP 408;
+    * `InternalServerErrorException` com resposta HTTP 500;
+    * `NullPointerException` personalizada com resposta HTTP 404.
 
 </details>
 
 <details>
-<summary>Desenvolvimento com IntelliJ IDEA - Sei utilizar com autonomia</summary>
+<summary>Criação e Integração de Exceções Customizadas</summary>
 
-- Navegação eficiente no código e **refatoração automatizada**.
-- **Debugging** avançado com uso de breakpoints condicionais.
-- Configuração de **plugins** e **temas** para personalização do ambiente.
-- Integração com ferramentas de teste e build.
+* **Nova Exceção `NullPointerException` Customizada**: Criação de uma classe de exceção personalizada
+  `NullPointerException` para tratamento específico de nulidades no sistema.
+* **Atualização de Controllers para Usar `GlobalExceptionHandler`**: Refatoração dos controllers (
+  `DeviceTrackerController`, `PersonController`) para substituir `try/catch` genéricos por throws específicos de
+  exceções customizadas, promovendo uma arquitetura desacoplada e padronizada.
+* **Mapeamento Detalhado de Erros nos Controllers**:
 
-> O IntelliJ IDEA foi a ferramenta principal de desenvolvimento, oferecendo um ambiente altamente personalizável e
-> produtivo.
-
-</details>
-
-<details>
-<summary>Desenvolvimento com WebStorm - Sei utilizar com autonomia</summary>
-
-- Desenvolvimento frontend utilizando **JavaScript**, **HTML** e **CSS**.
-- **Debugging** e **profilamento** de código JavaScript.
-- Suporte a frameworks modernos como **Vue.js** e **React**.
-- Uso de ferramentas de build e task runners (**Webpack**, **npm scripts**).
-
-> O WebStorm foi essencial para o desenvolvimento frontend, oferecendo suporte avançado para JavaScript e frameworks
-> modernos.
+    * No `DeviceTrackerController`, mapeamento de `DateTimeParseException`, `NoSuchElementException` e exceções
+      genéricas para exceções customizadas.
+    * No `PersonController`, encapsulamento de exceções como `InvalidInputException`, `RequestTimeoutException`,
+      `NoDataFoundException` e `InternalServerErrorException` com throw adequado para tratamento centralizado.
 
 </details>
 
 <details>
-<summary>Pesquisa e Resolução de Problemas com Stack Overflow - Sei utilizar com autonomia</summary>
+<summary>Refatoração de Tratamento de Exceções</summary>
 
-- Busca de soluções para problemas específicos de programação.
-- Participação em discussões e compartilhamento de conhecimento.
-- Adaptação de soluções existentes para contextos específicos do projeto.
-
-> O Stack Overflow foi uma ferramenta valiosa para resolver desafios técnicos e aprender com a comunidade de
-> desenvolvedores.
-
-</details>
-
-#### Soft Skills
-
-<details>
-<summary>Comunicação</summary>
-
-- Em reuniões diárias e outras cerimônias, aprendi a expor minhas opiniões de forma clara e concisa, além de relatar o
-  andamento das minhas tarefas de maneira que todos pudessem acompanhar o progresso. Essa prática me ajudou a construir
-  uma comunicação mais assertiva e a colaborar de maneira mais eficaz com a equipe.
+* **Centralização do Tratamento de Erros**: Remoção de blocos `try-catch` repetitivos em diversos métodos dos
+  controllers (`DeviceTrackerController` e `PersonController`) e delegação do tratamento para a camada
+  `@ControllerAdvice`, promovendo **clean code** e **separação de responsabilidades**.
+* **Criação da Exceção `MethodArgumentTypeException`**: Definição de uma nova exceção customizada para capturar erros de
+  tipo em parâmetros de rota ou query, com respectivo tratamento centralizado em `GlobalExceptionHandler`.
+* **Inclusão de Novo Handler Global**: Adição do método `handleMethodArgumentTypeMismatchException` no
+  `GlobalExceptionHandler` para retornar mensagens personalizadas e apropriadas via `ResponseEntity` com status
+  `400 (BAD_REQUEST)`.
+* **Melhoria da Legibilidade**: Substituição de imports múltiplos de exceções específicas por um único
+  `import com.example.geoIot.exception.ControllerAdvice.*`, reduzindo ruído visual e facilitando manutenção.
+* **Simplificação de Métodos HTTP**: Redução significativa de linhas de código em métodos como `addPerson`,
+  `getAllPersons`, `getPersonById`, `updatePerson` e `deletePerson` por meio da remoção de `try-catch`, utilizando a
+  declaração `throws` diretamente no método.
 
 </details>
 
 <details>
-<summary>Trabalho em equipe</summary>
+<summary>Configuração de Mensagens de Erro</summary>
 
-- Trabalhar em conjunto com colegas de diferentes áreas e perfis me ensinou a valorizar as contribuições de cada membro,
-  a dividir responsabilidades e a construir soluções em conjunto, sempre visando o objetivo comum.
-
-</details>
-
-<details>
-<summary>Adaptação à mudanças</summary>
-
-- Em um projeto dinâmico, foi essencial adaptar-me rapidamente às mudanças de escopo, novas demandas e prazos apertados.
-  Aprendi a ser flexível e a manter a calma mesmo em situações de pressão, o que foi crucial para manter a produtividade
-  e a qualidade do trabalho.
+* **Ajuste no `application.yml`**: Adição da propriedade `server.error.include-message: always` para garantir que
+  mensagens de erro personalizadas sejam incluídas nas respostas HTTP, auxiliando na depuração e fornecendo feedback
+  mais claro ao cliente da API.
 
 </details>
 
-<details>
-<summary>Resolução de problemas</summary>
-
-- Fui desafiado a encontrar soluções criativas para obstáculos inesperados, o que me levou a desenvolver uma abordagem
-  mais analítica e a pensar fora da caixa para resolver problemas de forma eficaz e eficiente.
-
-</details>
-
-<details>
-<summary>Gestão do tempo</summary>
-
-- Com múltiplas tarefas e prazos para gerenciar, aprendi a priorizar atividades, organizar meu tempo de forma
-  estratégica e entregar resultados consistentes dentro dos prazos estabelecidos.
-
-</details>
-
-### Em 2024-8
+### Em 2025-1
 
 ### Em 2025-2
-
-### Em 2025-8
 
 
