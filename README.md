@@ -194,13 +194,13 @@ e **Desenvolvimento FullStack**.
 
 ### Hard Skills
 
-| **Categoria**          | **Tecnologia** | **Nível**                  | **Aplicações/Detalhes**                       |  
-|------------------------|----------------|----------------------------|-----------------------------------------------|  
-| **Linguagem**          | Python         | Implementação com Consulta | Interfaces gráficas, Pandas/NumPy para dados. |  
-| **Framework**          | PySimpleGUI    | Implementação com Consulta | Dashboards interativos, fluxos de navegação.  |  
-| **Controle de Versão** | Git            | Implementação com Consulta | Conventional Commits, `.gitignore`.           |  
-| **Colaboração**        | GitHub         | Implementação com Consulta | Code review via Pull Requests.                |  
-| **IDE**                | VSCode         | Implementação com Consulta | Depuração com breakpoints, extensões Python.  |  
+| **Categoria**          | **Tecnologia** | **Nível**              | **Aplicações/Detalhes**                       |  
+|------------------------|----------------|------------------------|-----------------------------------------------|  
+| **Linguagem**          | Python         | Sei fazer com Consulta | Interfaces gráficas, Pandas/NumPy para dados. |  
+| **Framework**          | PySimpleGUI    | Sei fazer com Consulta | Dashboards, fluxos de navegação.              |  
+| **Controle de Versão** | Git            | Sei fazer com Consulta | `.gitignore`.                                 |  
+| **Colaboração**        | GitHub         | Sei fazer com Consulta | Code review via Pull Requests.                |  
+| **IDE**                | VSCode         | Sei fazer com Consulta | Depuração com breakpoints, extensões Python.  |  
 
 ### Soft Skills
 
@@ -413,15 +413,15 @@ e **Desenvolvimento FullStack**.
 
 ### Hard Skills
 
-| **Categoria**              | **Tecnologia**     | **Nível**                  | **Aplicações/Detalhes**                                                    |
-|----------------------------|--------------------|----------------------------|----------------------------------------------------------------------------|
-| **Linguagem**              | Java               | Implementação com Consulta | Backend/Desktop: Controllers, Models, JavaFX, JDBC.                        |
-| **Framework GUI**          | JavaFX             | Implementação com Consulta | Telas FXML, Controladores, TableView, ButtonCell, navegação.               |
-| **Processamento de Dados** | Apache Commons CSV | Implementação com Consulta | Leitura de CSV (CSVParser), conversão para listas, tratamento de formatos. |
-| **Banco de Dados**         | JDBC               | Implementação com Consulta | CRUD com PostgreSQL, DAOs, tratamento de SQLException.                     |
-| **SGBD**                   | PostgreSQL         | Implementação com Consulta | Modelagem relacional, conexão JDBC, integração com Java.                   |
-| **Build Tool**             | Maven              | Implementação com Consulta | Gerenciamento de dependências (pom.xml), lifecycle (build/test/package).   |
-| **Controle de Versão**     | Git                | Implementação com Consulta | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
+| **Categoria**              | **Tecnologia**     | **Nível**              | **Aplicações/Detalhes**                                                    |
+|----------------------------|--------------------|------------------------|----------------------------------------------------------------------------|
+| **Linguagem**              | Java               | Sei fazer com Consulta | Backend/Desktop: Controllers, Models, JavaFX, JDBC.                        |
+| **Framework GUI**          | JavaFX             | Sei fazer com Consulta | Telas FXML, Controladores, TableView, ButtonCell, navegação.               |
+| **Processamento de Dados** | Apache Commons CSV | Sei fazer com Consulta | Leitura de CSV (CSVParser), conversão para listas, tratamento de formatos. |
+| **Banco de Dados**         | JDBC               | Sei fazer com Consulta | CRUD com PostgreSQL, tratamento de SQLException.                           |
+| **SGBD**                   | PostgreSQL         | Sei fazer com Consulta | Modelagem relacional, conexão JDBC, integração com Java.                   |
+| **Build Tool**             | Maven              | Sei fazer com Consulta | Gerenciamento de dependências (pom.xml).                                   |
+| **Controle de Versão**     | Git                | Sei fazer com Consulta | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
 
 ### Soft Skills
 
@@ -597,17 +597,17 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 
 ### Hard Skills
 
-| **Categoria**          | **Tecnologia**   | **Nível**                  | **Aplicações/Detalhes**                                                                |
-|------------------------|------------------|----------------------------|----------------------------------------------------------------------------------------|
-| **Linguagem Backend**  | Java             | Sei fazer com consulta     | Desenvolvimento de aplicações backend robustas, lógica de negócios, integração de APIs |
-| **Framework Backend**  | Spring Framework | Sei fazer com consulta     | APIs RESTful, Spring IoC Container, Spring Security, Spring Data JPA                   |
-| **Estilização**        | CSS              | Sei fazer com consulta     | Layouts responsivos (Flexbox/Grid), animações CSS                                      |
-| **Framework Frontend** | Vue.js           | Sei fazer com consulta     | Componentes reutilizáveis, gerenciamento de estado (Vuex), integração com APIs         |
-| **Banco de Dados**     | MySQL            | Sei fazer com consulta     | Operações com tabelas, consultas SQL complexas, transações                             |
-| **Controle de Versão** | Git              | Sei utilizar com autonomia | Branching, resolução de conflitos, rebase                                              |
-| **Colaboração**        | GitHub           | Sei utilizar com autonomia | Gerenciamento de repositórios, revisão de código (PRs), GitHub Actions                 |
-| **IDE Java**           | IntelliJ IDEA    | Sei utilizar com autonomia | Debug avançado, plugins/temas, integração com ferramentas de teste/build               |
-| **IDE Frontend**       | WebStorm         | Sei utilizar com autonomia | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
+| **Categoria**          | **Tecnologia**   | **Nível**               | **Aplicações/Detalhes**                                                                |
+|------------------------|------------------|-------------------------|----------------------------------------------------------------------------------------|
+| **Linguagem Backend**  | Java             | Sei fazer com consulta  | Desenvolvimento de aplicações backend robustas, lógica de negócios, integração de APIs |
+| **Framework Backend**  | Spring Framework | Sei fazer com consulta  | APIs RESTful, Spring Security, Spring Data JPA                                         |
+| **Estilização**        | CSS              | Sei fazer com consulta  | Layouts responsivos (Flexbox/Grid), animações CSS                                      |
+| **Framework Frontend** | Vue.js           | Sei fazer com consulta  | Componentes reutilizáveis, gerenciamento de estado, integração com APIs                |
+| **Banco de Dados**     | MySQL            | Sei fazer com consulta  | Operações com tabelas, consultas SQL, transações                                       |
+| **Controle de Versão** | Git              | Sei fazer com autonomia | Branching, resolução de conflitos, rebase                                              |
+| **Colaboração**        | GitHub           | Sei fazer com autonomia | Gerenciamento de repositórios, revisão de código (PRs), GitHub Actions                 |
+| **IDE Java**           | IntelliJ IDEA    | Sei fazer com autonomia | Debug, plugins/temas, integração com ferramentas de teste/build                        |
+| **IDE Frontend**       | WebStorm         | Sei fazer com autonomia | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
 
 ### Soft Skills
 
@@ -876,6 +876,32 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
   mais claro ao cliente da API.
 
 </details>
+
+### Hard Skills
+
+| **Categoria**              | **Tecnologia**            | **Nível**               | **Aplicações/Detalhes**                                                    |
+|----------------------------|---------------------------|-------------------------|----------------------------------------------------------------------------|
+| **Linguagem Backend**      | Java                      | Sei fazer com consulta  | Desenvolvimento do core do sistema, tratamento de exceções                 |
+| **Framework Backend**      | Spring Boot               | Sei fazer com consulta  | Criação de APIs RESTful, Spring Data, Spring Security, Swagger integration |
+| **Linguagem Frontend**     | TypeScript                | Sei fazer com consulta  | Tipagem estática para componentes Vue.js                                   |
+| **Framework Frontend**     | Vue.js                    | Sei fazer com consulta  | Componentes reativos, gerenciamento de estado, integração com mapas        |
+| **Build Tool Frontend**    | Vite                      | Sei fazer com consulta  | Otimização de builds e hot-reload                                          |
+| **Controle de Versão**     | Git                       | Sei fazer com autonomia | Gestão de branches, resolução de conflitos                                 |
+| **Colaboração**            | GitHub                    | Sei fazer com autonomia | Gestão de repositórios, code reviews                                       |
+| **Documentação de APIs**   | Swagger/OpenAPI           | Sei fazer com autonomia | Documentação interativa de endpoints                                       |
+| **Tratamento de Exceções** | Spring Exception Handling | Sei fazer com autonomia | Criação de handlers globais e exceções customizadas                        |
+
+### Soft Skills
+
+| **Habilidade**                 | **Contribuições Chave**                              | **Impacto**                                                         |
+|--------------------------------|------------------------------------------------------|---------------------------------------------------------------------|
+| **Liderança Ágil**             | Atuação como Scrum Master, facilitação de cerimônias | Aumento na velocidade de entrega através de sprints bem gerenciados |
+| **Comunicação Técnica**        | Documentação detalhada de APIs e tratamento de erros | Redução no tempo de onboarding de novos desenvolvedores             |
+| **Pensamento Sistêmico**       | Arquitetura de tratamento global de exceções         | Aumento da robustez do sistema                                      |
+| **Orientação a Detalhes**      | Implementação de testes unitários                    | Garantia de comportamento consistente em cenários de erro           |
+| **Gestão de Prioridades**      | Balanceamento entre tasks técnicas e organizacionais | Entrega simultânea de features e documentação                       |
+| **Colaboração Interfuncional** | Ponte entre desenvolvedores, PO e stakeholders       | Tradução de requisitos de negócio em tarefas técnicas               |
+| **Resolução de Problemas**     | Abordagem analítica para desafios técnicos complexos | Soluções para integração de sistemas                                |
 
 ### Em 2025-1
 
