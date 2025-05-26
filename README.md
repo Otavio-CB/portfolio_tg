@@ -3,8 +3,7 @@
 ## Introdução
 
 Olá! Meu nome é **Otavio Calderan**, sou desenvolvedor de sistemas e atualmente curso Fatec, onde ingressei no início
-de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados
-**
+de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados**
 e **Desenvolvimento FullStack**.
 
 > [!NOTE]
@@ -193,7 +192,7 @@ e **Desenvolvimento FullStack**.
 
 </details>
 
-### 🛠️ Hard Skills
+### Hard Skills
 
 | **Categoria**          | **Tecnologia** | **Nível**                  | **Aplicações/Detalhes**                       |  
 |------------------------|----------------|----------------------------|-----------------------------------------------|  
@@ -203,7 +202,7 @@ e **Desenvolvimento FullStack**.
 | **Colaboração**        | GitHub         | Implementação com Consulta | Code review via Pull Requests.                |  
 | **IDE**                | VSCode         | Implementação com Consulta | Depuração com breakpoints, extensões Python.  |  
 
-### 🌟 Soft Skills
+### Soft Skills
 
 | **Habilidade**         | **Contribuições Chave**                                           | **Impacto/Métodos**                       |  
 |------------------------|-------------------------------------------------------------------|-------------------------------------------|  
@@ -211,6 +210,8 @@ e **Desenvolvimento FullStack**.
 | **Colaboração**        | Programação em par (pair programming), integração de feedbacks.   | Melhoria contínua em projetos em equipe.  |  
 | **Adaptabilidade**     | Adaptação a novas tecnologias em prazos curtos.                   | Entrega ágil mesmo em cenários dinâmicos. |  
 | **Gestão do Tempo**    | Uso de timeboxing em reuniões.                                    | Otimização de produtividade e foco.       |  
+
+---
 
 ## Projeto: Sistema de Avaliação de Trabalhos de Graduação (2023-2)
 
@@ -410,7 +411,7 @@ e **Desenvolvimento FullStack**.
 
 </details>
 
-### 🛠️ Hard Skills
+### Hard Skills
 
 | **Categoria**              | **Tecnologia**     | **Nível**                  | **Aplicações/Detalhes**                                                    |
 |----------------------------|--------------------|----------------------------|----------------------------------------------------------------------------|
@@ -422,13 +423,15 @@ e **Desenvolvimento FullStack**.
 | **Build Tool**             | Maven              | Implementação com Consulta | Gerenciamento de dependências (pom.xml), lifecycle (build/test/package).   |
 | **Controle de Versão**     | Git                | Implementação com Consulta | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
 
-### 🌟 Soft Skills
+### Soft Skills
 
 | **Habilidade**                 | **Contribuições Chave**                                                                                      | **Impacto/Métodos**                         |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------|
 | **Organização e Estruturação** | Estruturação de times, definição de papéis, organização de tarefas e divisão de responsabilidades.           | Autonomia e fluidez no desenvolvimento.     |
 | **Resolução de Problemas**     | Tratamento de exceções (arquivos, banco de dados), lógica para prevenir duplicações de dados.                | Sistema mais robusto e confiável.           |
 | **Aprendizado e Adaptação**    | Uso de novas bibliotecas (Apache Commons CSV, JavaFX), adaptação a diferentes paradigmas de desenvolvimento. | Solução eficiente de problemas específicos. |
+
+---
 
 ## Projeto: Dom Rock Pipeline Configurator (2024-1)
 
@@ -592,7 +595,7 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 
 </details>
 
-### 🛠️ Hard Skills
+### Hard Skills
 
 | **Categoria**          | **Tecnologia**   | **Nível**                  | **Aplicações/Detalhes**                                                                |
 |------------------------|------------------|----------------------------|----------------------------------------------------------------------------------------|
@@ -606,7 +609,7 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 | **IDE Java**           | IntelliJ IDEA    | Sei utilizar com autonomia | Debug avançado, plugins/temas, integração com ferramentas de teste/build               |
 | **IDE Frontend**       | WebStorm         | Sei utilizar com autonomia | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
 
-### 🌟 Soft Skills
+### Soft Skills
 
 | **Habilidade**             | **Contribuições Chave**                                             | **Impacto/Métodos**                               |
 |----------------------------|---------------------------------------------------------------------|---------------------------------------------------|
@@ -615,6 +618,8 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 | **Adaptabilidade**         | Resposta ágil a mudanças de escopo, manutenção da calma sob pressão | Continuidade operacional em ambientes dinâmicos   |
 | **Resolução de Problemas** | Abordagem analítica, pensamento "fora da caixa"                     | Soluções inovadoras para desafios complexos       |
 | **Gestão do Tempo**        | Priorização estratégica, organização eficiente                      | Entregas consistentes dentro dos prazos           |
+
+---
 
 ## Projeto: Sistema de Monitoramento e Rastreamento IoT (2024-2)
 
