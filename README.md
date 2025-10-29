@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Olá! Meu nome é **Otavio Calderan**, sou desenvolvedor de sistemas e atualmente curso Fatec, onde ingressei no início
+Olá! Meu nome é **Otavio Calderan**, sou desenvolvedor de sistemas e atualmente curso Banco de Dados na Fatec, onde ingressei no início
 de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados**
 e **Desenvolvimento FullStack**.
 
@@ -67,27 +67,27 @@ e **Desenvolvimento FullStack**.
 #### **Python**
 
 - **Função**: Backend e processamento de dados.
-- **Por quê?**: Obrigatório pela faculdade.
+- **Por quê?**: Linguagem principal definida pela ementa, utilizada para o backend e manipulação de dados.
 
 #### **PySimpleGUI**
 
 - **Função**: Interface desktop.
-- **Por quê?**: Simples e integrado ao Python.
+- **Por quê?**: Biblioteca escolhida pela simplicidade e rápida integração com o backend Python para prototipagem de interfaces desktop.
 
 #### **VSCode**
 
 - **Função**: IDE principal.
-- **Por quê?**: Leve e com ótimo suporte a Python.
+- **Por quê?**: Leve e com ótimo suporte a extensões Python e depuração.
 
 #### **Git**
 
 - **Função**: Versionamento.
-- **Por quê?**: Padrão para trabalho em equipe.
+- **Por quê?**: Adotado como padrão de mercado para controle de versão e colaboração.
 
 #### **GitHub**
 
 - **Função**: Hospedagem do código.
-- **Por quê?**: Facilita revisão por PRs.
+- **Por quê?**: Facilita revisão de código via Pull Requests e integração da equipe.
 
 ### Contribuições Pessoais
 
@@ -108,7 +108,7 @@ e **Desenvolvimento FullStack**.
 
 - Implementação de visualização de dados com:
     - Gráfico radial para análise multidimensional de competências
-    - Layout responsivo (300×180px) adaptável a diferentes resoluções
+    - Layout adaptável a diferentes resoluções
     - Integração fluida entre backend Python e frontend PySimpleGUI
 
 </details>
@@ -194,13 +194,13 @@ e **Desenvolvimento FullStack**.
 
 ### Hard Skills
 
-| **Categoria**          | **Tecnologia** | **Nível**              | **Aplicações/Detalhes**                       |  
-|------------------------|----------------|------------------------|-----------------------------------------------|  
-| **Linguagem**          | Python         | Sei fazer com Consulta | Interfaces gráficas, Pandas/NumPy para dados. |  
-| **Framework**          | PySimpleGUI    | Sei fazer com Consulta | Dashboards, fluxos de navegação.              |  
-| **Controle de Versão** | Git            | Sei fazer com Consulta | `.gitignore`.                                 |  
-| **Colaboração**        | GitHub         | Sei fazer com Consulta | Code review via Pull Requests.                |  
-| **IDE**                | VSCode         | Sei fazer com Consulta | Depuração com breakpoints, extensões Python.  |  
+| **Categoria**          | **Tecnologia** | **Nível** | **Aplicações/Detalhes**                       |  
+|------------------------|----------------|-----------|-----------------------------------------------|  
+| **Linguagem**          | Python         | Aplicado  | Interfaces gráficas, Pandas/NumPy para dados. |  
+| **Framework**          | PySimpleGUI    | Aplicado  | Dashboards, fluxos de navegação.              |  
+| **Controle de Versão** | Git            | Aplicado  | `.gitignore`.                                 |  
+| **Colaboração**        | GitHub         | Aplicado  | Code review via Pull Requests.                |  
+| **IDE**                | VSCode         | Aplicado  | Depuração com breakpoints, extensões Python.  | 
 
 ### Soft Skills
 
@@ -236,27 +236,27 @@ e **Desenvolvimento FullStack**.
 #### **Java**
 
 - **Função**: Backend da aplicação.
-- **Por quê?**: Obrigatório pela faculdade.
+- **Por quê?**: Linguagem central da disciplina, requisito acadêmico para demonstrar proficiência no ecossistema Java.
 
 #### **JavaFX**
 
 - **Função**: Interface gráfica desktop.
-- **Por quê?**: Framework padrão para Java desktop.
+- **Por quê?**: Framework padrão do ecossistema Java para aplicações desktop modernas.
 
 #### **Git**
 
 - **Função**: Controle de versão.
-- **Por quê?**: Essencial para trabalho em equipe.
+- **Por quê?**: Essencial para o gerenciamento de código em equipe e rastreabilidade.
 
 #### **GitHub**
 
 - **Função**: Hospedagem do código.
-- **Por quê?**: Facilita colaboração via PRs.
+- **Por quê?**: Facilita a colaboração, revisão de código (PRs) e integração.
 
 #### **VSCode**
 
 - **Função**: IDE principal.
-- **Por quê?**: Bom suporte para Java.
+- **Por quê?**: IDE leve com bom suporte a extensões Java e integração com Maven.
 
 ### Contribuições Pessoais
 
@@ -413,16 +413,15 @@ e **Desenvolvimento FullStack**.
 
 ### Hard Skills
 
-| **Categoria**              | **Tecnologia**     | **Nível**              | **Aplicações/Detalhes**                                                    |
-|----------------------------|--------------------|------------------------|----------------------------------------------------------------------------|
-| **Linguagem**              | Java               | Sei fazer com Consulta | Backend/Desktop: Controllers, Models, JavaFX, JDBC.                        |
-| **Framework GUI**          | JavaFX             | Sei fazer com Consulta | Telas FXML, Controladores, TableView, ButtonCell, navegação.               |
-| **Processamento de Dados** | Apache Commons CSV | Sei fazer com Consulta | Leitura de CSV (CSVParser), conversão para listas, tratamento de formatos. |
-| **Banco de Dados**         | JDBC               | Sei fazer com Consulta | CRUD com PostgreSQL, tratamento de SQLException.                           |
-| **SGBD**                   | PostgreSQL         | Sei fazer com Consulta | Modelagem relacional, conexão JDBC, integração com Java.                   |
-| **Build Tool**             | Maven              | Sei fazer com Consulta | Gerenciamento de dependências (pom.xml).                                   |
-| **Controle de Versão**     | Git                | Sei fazer com Consulta | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
-
+| **Categoria**              | **Tecnologia**     | **Nível** | **Aplicações/Detalhes**                                                    |
+|----------------------------|--------------------|-----------|----------------------------------------------------------------------------|
+| **Linguagem**              | Java               | Aplicado  | Backend/Desktop: Controllers, Models, JavaFX, JDBC.                        |
+| **Framework GUI**          | JavaFX             | Aplicado  | Telas FXML, Controladores, TableView, ButtonCell, navegação.               |
+| **Processamento de Dados** | Apache Commons CSV | Aplicado  | Leitura de CSV (CSVParser), conversão para listas, tratamento de formatos. |
+| **Banco de Dados**         | JDBC               | Aplicado  | CRUD com PostgreSQL, tratamento de SQLException.                           |
+| **SGBD**                   | PostgreSQL         | Aplicado  | Modelagem relacional, conexão JDBC, integração com Java.                   |
+| **Build Tool**             | Maven              | Aplicado  | Gerenciamento de dependências (pom.xml).                                   |
+| **Controle de Versão**     | Git                | Aplicado  | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
 ### Soft Skills
 
 | **Habilidade**                 | **Contribuições Chave**                                                                                      | **Impacto/Métodos**                         |
@@ -472,52 +471,52 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 #### **Java**
 
 - **Função**: Backend da aplicação.
-- **Por quê?**: Obrigatório pela faculdade.
+- **Por quê?**: Requisito acadêmico para o desenvolvimento do backend, alinhado com a ementa da disciplina.
 
 #### **Spring Framework**
 
 - **Função**: Desenvolvimento web backend.
-- **Por quê?**: Agiliza criação de APIs REST.
+- **Por quê?**: Agiliza a criação de APIs REST robustas com injeção de dependências e configuração simplificada.
 
 #### **HTML**
 
 - **Função**: Estrutura das páginas web.
-- **Por quê?**: Base essencial para frontend.
+- **Por quê?**: Base essencial para a renderização de conteúdo no frontend.
 
 #### **CSS**
 
 - **Função**: Estilização da interface.
-- **Por quê?**: Necessário para design responsivo.
+- **Por quê?**: Necessário para a identidade visual e criação de layouts responsivos.
 
 #### **Vue.js**
 
 - **Função**: Frontend dinâmico.
-- **Por quê?**: Componentização e reatividade.
+- **Por quê?**: Escolhido pela sua arquitetura baseada em componentes reativos, facilitando a criação de interfaces dinâmicas.
 
 #### **MySQL**
 
 - **Função**: Banco de dados relacional.
-- **Por quê?**: Compatível com Spring Data.
+- **Por quê?**: SGBD relacional escolhido pela ampla compatibilidade com o ecossistema Spring (Spring Data JPA).
 
 #### **Git**
 
 - **Função**: Controle de versão.
-- **Por quê?**: Padrão para colaboração.
+- **Por quê?**: Ferramenta padrão de mercado para controle de versão e colaboração em equipe.
 
 #### **GitHub**
 
 - **Função**: Hospedagem do código.
-- **Por quê?**: Ideal para trabalho em equipe.
+- **Por quê?**: Ideal para colaboração, code review e gerenciamento de issues.
 
 #### **IntelliJ IDEA**
 
 - **Função**: IDE para Java/Spring.
-- **Por quê?**: Melhor suporte para backend Java.
+- **Por quê?**: IDE especializada com suporte avançado ao ecossistema Spring e ferramentas de depuração robustas.
 
 #### **WebStorm**
 
 - **Função**: IDE para frontend.
-- **Por quê?**: Otimizado para Vue.js/TypeScript.
+- **Por quê?**: Otimizado para o ecossistema JavaScript/TypeScript, com excelente suporte a Vue.js.
 
 ### Contribuições Pessoais
 
@@ -597,18 +596,17 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 
 ### Hard Skills
 
-| **Categoria**          | **Tecnologia**   | **Nível**               | **Aplicações/Detalhes**                                                                |
-|------------------------|------------------|-------------------------|----------------------------------------------------------------------------------------|
-| **Linguagem Backend**  | Java             | Sei fazer com consulta  | Desenvolvimento de aplicações backend robustas, lógica de negócios, integração de APIs |
-| **Framework Backend**  | Spring Framework | Sei fazer com consulta  | APIs RESTful, Spring Security, Spring Data JPA                                         |
-| **Estilização**        | CSS              | Sei fazer com consulta  | Layouts responsivos (Flexbox/Grid), animações CSS                                      |
-| **Framework Frontend** | Vue.js           | Sei fazer com consulta  | Componentes reutilizáveis, gerenciamento de estado, integração com APIs                |
-| **Banco de Dados**     | MySQL            | Sei fazer com consulta  | Operações com tabelas, consultas SQL, transações                                       |
-| **Controle de Versão** | Git              | Sei fazer com autonomia | Branching, resolução de conflitos, rebase                                              |
-| **Colaboração**        | GitHub           | Sei fazer com autonomia | Gerenciamento de repositórios, revisão de código (PRs), GitHub Actions                 |
-| **IDE Java**           | IntelliJ IDEA    | Sei fazer com autonomia | Debug, plugins/temas, integração com ferramentas de teste/build                        |
-| **IDE Frontend**       | WebStorm         | Sei fazer com autonomia | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
-
+| **Categoria**          | **Tecnologia**   | **Nível** | **Aplicações/Detalhes**                                                                |
+|------------------------|------------------|-----------|----------------------------------------------------------------------------------------|
+| **Linguagem Backend**  | Java             | Aplicado  | Desenvolvimento de aplicações backend robustas, lógica de negócios, integração de APIs |
+| **Framework Backend**  | Spring Framework | Aplicado  | APIs RESTful, Spring Security, Spring Data JPA                                         |
+| **Estilização**        | CSS              | Aplicado  | Layouts responsivos (Flexbox/Grid), animações CSS                                      |
+| **Framework Frontend** | Vue.js           | Aplicado  | Componentes reutilizáveis, gerenciamento de estado, integração com APIs                |
+| **Banco de Dados**     | MySQL            | Aplicado  | Operações com tabelas, consultas SQL, transações                                       |
+| **Controle de Versão** | Git              | Autônomo  | Branching, resolução de conflitos, rebase                                              |
+| **Colaboração**        | GitHub           | Autônomo  | Gerenciamento de repositórios, revisão de código (PRs), GitHub Actions                 |
+| **IDE Java**           | IntelliJ IDEA    | Autônomo  | Debug, plugins/temas, integração com ferramentas de teste/build                        |
+| **IDE Frontend**       | WebStorm         | Autônomo  | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
 ### Soft Skills
 
 | **Habilidade**             | **Contribuições Chave**                                             | **Impacto/Métodos**                               |
@@ -666,62 +664,62 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 #### **Java**
 
 - **Função**: Backend principal da aplicação.
-- **Por quê?**: Linguagem obrigatória da faculdade.
+- **Por quê?**: Linguagem principal definida pela ementa, utilizada para construir um backend robusto e escalável.
 
 #### **Spring Framework**
 
 - **Função**: Criação de APIs web.
-- **Por quê?**: Simplifica configuração e injeção de dependências.
+- **Por quê?**: Simplifica a configuração, segurança e injeção de dependências em aplicações Java.
 
 #### **Oracle Cloud**
 
 - **Função**: Banco de dados em nuvem.
-- **Por quê?**: Solução disponibilizada pela instituição.
+- **Por quê?**: Solução de banco de dados relacional robusta e disponibilizada pela instituição.
 
 #### **Docker**
 
 - **Função**: Containerização da aplicação.
-- **Por quê?**: Garante consistência entre ambientes.
+- **Por quê?**: Garante a consistência entre os ambientes de desenvolvimento, teste e produção.
 
 #### **Vue.js**
 
 - **Função**: Frontend dinâmico.
-- **Por quê?**: Componentização reativa e intuitiva.
+- **Por quê?**: Componentização reativa e intuitiva, permitindo criar interfaces complexas de forma gerenciável.
 
 #### **Vite**
 
 - **Função**: Build do frontend.
-- **Por quê?**: Mais rápido que Webpack.
+- **Por quê?**: Escolhido pela performance superior no build e *hot-reloading* (HMR), otimizando o ciclo de desenvolvimento.
 
 #### **Redis**
 
 - **Função**: Cache em memória.
-- **Por quê?**: Melhora performance de consultas frequentes.
+- **Por quê?**: Melhora a performance de consultas frequentes, reduzindo a carga no banco de dados principal.
 
 #### **Git**
 
 - **Função**: Controle de versão.
-- **Por quê?**: Padrão para colaboração.
+- **Por quê?**: Ferramenta padrão de mercado para controle de versão e colaboração.
 
 #### **GitHub**
 
 - **Função**: Hospedagem do código.
-- **Por quê?**: Ideal para trabalho em equipe.
+- **Por quê?**: Ideal para trabalho em equipe, gerenciamento de issues e CI/CD.
 
 #### **TypeScript**
 
 - **Função**: Frontend tipado.
-- **Por quê?**: Reduz erros em tempo de compilação.
+- **Por quê?**: Adiciona tipagem estática ao JavaScript, reduzindo erros em tempo de compilação.
 
 #### **IntelliJ IDEA**
 
 - **Função**: IDE para Java.
-- **Por quê?**: Melhor suporte para backend Java.
+- **Por quê?**: IDE com suporte avançado para o ecossistema Spring Boot, facilitando a depuração e o desenvolvimento.
 
 #### **WebStorm**
 
 - **Função**: IDE para frontend.
-- **Por quê?**: Otimizado para Vue.js/TypeScript.
+- **Por quê?**: Otimizado para o desenvolvimento moderno com Vue.js e TypeScript.
 
 ### Contribuições Pessoais
 
@@ -879,17 +877,17 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 
 ### Hard Skills
 
-| **Categoria**              | **Tecnologia**            | **Nível**               | **Aplicações/Detalhes**                                                    |
-|----------------------------|---------------------------|-------------------------|----------------------------------------------------------------------------|
-| **Linguagem Backend**      | Java                      | Sei fazer com consulta  | Desenvolvimento do core do sistema, tratamento de exceções                 |
-| **Framework Backend**      | Spring Boot               | Sei fazer com consulta  | Criação de APIs RESTful, Spring Data, Spring Security, Swagger integration |
-| **Linguagem Frontend**     | TypeScript                | Sei fazer com consulta  | Tipagem estática para componentes Vue.js                                   |
-| **Framework Frontend**     | Vue.js                    | Sei fazer com consulta  | Componentes reativos, gerenciamento de estado, integração com mapas        |
-| **Build Tool Frontend**    | Vite                      | Sei fazer com consulta  | Otimização de builds e hot-reload                                          |
-| **Controle de Versão**     | Git                       | Sei fazer com autonomia | Gestão de branches, resolução de conflitos                                 |
-| **Colaboração**            | GitHub                    | Sei fazer com autonomia | Gestão de repositórios, code reviews                                       |
-| **Documentação de APIs**   | Swagger/OpenAPI           | Sei fazer com autonomia | Documentação interativa de endpoints                                       |
-| **Tratamento de Exceções** | Spring Exception Handling | Sei fazer com autonomia | Criação de handlers globais e exceções customizadas                        |
+| **Categoria**              | **Tecnologia**            | **Nível** | **Aplicações/Detalhes**                                                    |
+|----------------------------|---------------------------|-----------|----------------------------------------------------------------------------|
+| **Linguagem Backend**      | Java                      | Aplicado  | Desenvolvimento do core do sistema, tratamento de exceções                 |
+| **Framework Backend**      | Spring Boot               | Aplicado  | Criação de APIs RESTful, Spring Data, Spring Security, Swagger integration |
+| **Linguagem Frontend**     | TypeScript                | Aplicado  | Tipagem estática para componentes Vue.js                                   |
+| **Framework Frontend**     | Vue.js                    | Aplicado  | Componentes reativos, gerenciamento de estado, integração com mapas        |
+| **Build Tool Frontend**    | Vite                      | Aplicado  | Otimização de builds e hot-reload                                          |
+| **Controle de Versão**     | Git                       | Autônomo  | Gestão de branches, resolução de conflitos                                 |
+| **Colaboração**            | GitHub                    | Autônomo  | Gestão de repositórios, code reviews                                       |
+| **Documentação de APIs**   | Swagger/OpenAPI           | Autônomo  | Documentação interativa de endpoints                                       |
+| **Tratamento de Exceções** | Spring Exception Handling | Autônomo  | Criação de handlers globais e exceções customizadas                        |
 
 ### Soft Skills
 
@@ -903,7 +901,114 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 | **Colaboração Interfuncional** | Ponte entre desenvolvedores, PO e stakeholders       | Tradução de requisitos de negócio em tarefas técnicas               |
 | **Resolução de Problemas**     | Abordagem analítica para desafios técnicos complexos | Soluções para integração de sistemas                                |
 
-### Em 2025-1
+---
+
+## Projeto: YOUTAN DASH (2025-1)
+
+> [!IMPORTANT]
+> O projeto consiste no desenvolvimento de uma plataforma de Business Intelligence (BI) integrada à ferramenta de gestão Taiga. O objetivo é gerar e visualizar indicadores de desempenho (KPIs) de projetos de software, como total de cards, tempo médio de execução e distribuição de tarefas por colaborador.
+>
+> A solução oferece dashboards personalizados para três níveis de acesso (Operador, Gestor e Admin), permitindo uma análise de métricas eficiente, transparente e acessível para todos os envolvivos.
+
+> [!NOTE]
+> Neste projeto, atuei com foco principal na gestão ágil, assumindo o papel de Scrum Master, além de contribuir tecnicamente para o pipeline de dados e documentação da API.
+
+[**📁 Repositório no GitHub**](https://github.com/manolito-fatec/dashflow-2025-1)
+
+### Tecnologias Utilizadas
+
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></a>
+<a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=Apache+Spark&logoColor=FFFFFF" alt="Apache Spark"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"></a>
+<a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger"></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></a>
+<a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank"><img src="https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=SonarCloud&logoColor=FFFFFF" alt="Sonar Cloud"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+#### **Java**
+- **Função**: Linguagem principal do backend.
+- **Por quê?**: Requisito acadêmico para o desenvolvimento de uma API robusta e escalável.
+
+#### **Spring Boot**
+- **Função**: API REST e segurança.
+- **Por quê?**: Ecossistema completo para APIs, incluindo Spring Security (JWT) e Spring Web.
+
+#### **PostgreSQL**
+- **Função**: Banco de dados relacional.
+- **Por quê?**: Armazenamento persistente dos dados de usuários, projetos e métricas consolidadas.
+
+#### **Apache Spark**
+- **Função**: Processamento de dados (ETL).
+- **Por quê?**: Ferramenta de alta performance para processar e agregar os dados extraídos do Taiga antes de servi-los ao dashboard.
+
+#### **Vue.js**
+- **Função**: Frontend dinâmico.
+- **Por quê?**: Reatividade ideal para a construção de dashboards interativos e visualização de dados.
+
+#### **TypeScript**
+- **Função**: Tipagem para o frontend.
+- **Por quê?**: Garante a manutenibilidade e reduz erros em tempo de compilação na interface.
+
+#### **Swagger**
+- **Função**: Documentação da API.
+- **Por quê?**: Geração de documentação interativa (RNF01), facilitando a integração e testes.
+
+#### **GitHub Actions**
+- **Função**: Integração Contínua (CI).
+- **Por quê?**: Automação do pipeline de build e testes a cada *push* e *pull request*.
+
+#### **SonarCloud**
+- **Função**: Análise de Qualidade de Código.
+- **Por quê?**: Ferramenta de análise estática integrada ao pipeline para garantir a qualidade e segurança do código.
+
+### Contribuições Pessoais
+
+<details>
+<summary>Atuação como Scrum Master (Gestão Ágil)</summary>
+
+- **Facilitação de Cerimônias**: Condução de todas as cerimônias ágeis (Sprint Planning, Daily Scrums, Sprint Review e Retrospective).
+- **Gestão do Product Backlog**: Criação, refinamento e priorização de 18 User Stories (US01 a US18), garantindo o alinhamento com as necessidades do cliente.
+- **Planejamento de Sprints**: Organização e divisão do backlog em três Sprints coesas, gerenciando o escopo e as entregas de valor.
+- **Mapeamento de Requisitos**: Tradução das necessidades de negócio em 29 Requisitos Funcionais (R1-R29) e 5 Não Funcionais (RNF01-RNF05).
+- **Remoção de Impedimentos**: Identificação e atuação proativa para remover bloqueios técnicos e de comunicação da equipe.
+- **Gestão de Artefatos**: Manutenção e transparência do Sprint Backlog e do Product Backlog para toda a equipe e stakeholders.
+
+</details>
+
+<details>
+<summary>Contribuições Técnicas e Documentação</summary>
+
+- **Backend (Java)**: Participei ativamente da implementação do *Exception Handler* global da API, centralizando o tratamento de erros.
+- **Frontend (Vue.js)**: Colaborei no desenvolvimento de telas e componentes da interface de visualização de dados.
+- **Documentação de DevOps**: Atuei na construção do ecossistema de documentação para o pipeline de CI/CD, incluindo guias de deploy e integração contínua.
+
+</details>
+
+### Hard Skills
+
+| **Categoria**            | **Tecnologia**  | **Nível** | **Aplicações/Detalhes**                                                         |
+|--------------------------|-----------------|-----------|---------------------------------------------------------------------------------|
+| **Gestão Ágil**          | Scrum           | Autônomo  | Gestão de backlog (18 USs), facilitação de cerimônias, planejamento de Sprints. |
+| **Linguagem Backend**    | Java            | Aplicado  | Implementação de `Exception Handler` global.                                    |
+| **Framework Backend**    | Spring Boot     | Aplicado  | Tratamento de exceções (@ControllerAdvice).                                     |
+| **Framework Frontend**   | Vue.js          | Aplicado  | Desenvolvimento de telas e componentes de visualização.                         |
+| **Documentação Técnica** | Markdown / Wiki | Aplicado  | Elaboração de guias de CI/CD e deploy.                                          |
+| **Controle de Versão**   | Git / GitHub    | Autônomo  | Gestão de repositório, branches e artefatos de projeto.                         |
+
+### Soft Skills
+
+| **Habilidade**                 | **Contribuições Chave**                                                    | **Impacto/Métodos**                                            |
+|--------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Liderança Servidora**        | Atuação como Scrum Master, removendo impedimentos e facilitando o time.    | Aumento da produtividade da equipe e foco na entrega de valor. |
+| **Comunicação e Negociação**   | Gestão do Product Backlog (18 USs) e alinhamento com stakeholders.         | Priorização clara e definição de escopo (Sprints).             |
+| **Organização e Planejamento** | Mapeamento de 29 requisitos funcionais e gestão dos artefatos.             | Visibilidade total do progresso e entregas consistentes.       |
+| **Facilitação**                | Condução de Dailies, Plannings, Reviews e Retrospectives.                  | Melhoria contínua do processo e engajamento da equipe.         |
+| **Comunicação Técnica**        | Elaboração da documentação de DevOps e contribuição no `ExceptionHandler`. | Criação de guias claros para o time e padronização de código.  |
+| **Colaboração Interfuncional** | Atuação simultânea em gestão (Scrum), backend (Java) e frontend (Vue).     | Visão holística do projeto, conectando processos à execução.   |
 
 ### Em 2025-2
 
