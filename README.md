@@ -2,8 +2,10 @@
 
 ## Introdução
 
-Olá! Meu nome é **Otavio Calderan**, sou desenvolvedor de sistemas e atualmente curso Banco de Dados na Fatec, onde ingressei no início
-de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados**
+Olá! Meu nome é **Otavio Calderan**, sou desenvolvedor de sistemas e atualmente curso Banco de Dados na Fatec, onde
+ingressei no início
+de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados
+**
 e **Desenvolvimento FullStack**.
 
 > [!NOTE]
@@ -64,30 +66,15 @@ e **Desenvolvimento FullStack**.
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
 
-#### **Python**
+- **Python** - **Função**: Backend e processamento de dados.
 
-- **Função**: Backend e processamento de dados.
-- **Por quê?**: Linguagem principal definida pela ementa, utilizada para o backend e manipulação de dados.
+- **PySimpleGUI** - **Função**: Interface desktop.
 
-#### **PySimpleGUI**
+- **VSCode** - **Função**: IDE principal.
 
-- **Função**: Interface desktop.
-- **Por quê?**: Biblioteca escolhida pela simplicidade e rápida integração com o backend Python para prototipagem de interfaces desktop.
+- **Git** - **Função**: Versionamento.
 
-#### **VSCode**
-
-- **Função**: IDE principal.
-- **Por quê?**: Leve e com ótimo suporte a extensões Python e depuração.
-
-#### **Git**
-
-- **Função**: Versionamento.
-- **Por quê?**: Adotado como padrão de mercado para controle de versão e colaboração.
-
-#### **GitHub**
-
-- **Função**: Hospedagem do código.
-- **Por quê?**: Facilita revisão de código via Pull Requests e integração da equipe.
+- **GitHub** - **Função**: Hospedagem do código.
 
 ### Contribuições Pessoais
 
@@ -194,13 +181,13 @@ e **Desenvolvimento FullStack**.
 
 ### Hard Skills
 
-| **Categoria**          | **Tecnologia** | **Nível** | **Aplicações/Detalhes**                       |  
-|------------------------|----------------|-----------|-----------------------------------------------|  
-| **Linguagem**          | Python         | Aplicado  | Interfaces gráficas, Pandas/NumPy para dados. |  
-| **Framework**          | PySimpleGUI    | Aplicado  | Dashboards, fluxos de navegação.              |  
-| **Controle de Versão** | Git            | Aplicado  | `.gitignore`.                                 |  
-| **Colaboração**        | GitHub         | Aplicado  | Code review via Pull Requests.                |  
-| **IDE**                | VSCode         | Aplicado  | Depuração com breakpoints, extensões Python.  | 
+| **Categoria**          | **Tecnologia** | **Nível**     | **Aplicações/Detalhes**                       |  
+|------------------------|----------------|---------------|-----------------------------------------------|  
+| **Linguagem**          | Python         | Uso com Ajuda | Interfaces gráficas, Pandas/NumPy para dados. |  
+| **Framework**          | PySimpleGUI    | Uso com Ajuda | Dashboards, fluxos de navegação.              |  
+| **Controle de Versão** | Git            | Uso com Ajuda | `.gitignore`.                                 |  
+| **Colaboração**        | GitHub         | Uso com Ajuda | Code review via Pull Requests.                |  
+| **IDE**                | VSCode         | Uso com Ajuda | Depuração com breakpoints, extensões Python.  | 
 
 ### Soft Skills
 
@@ -233,30 +220,15 @@ e **Desenvolvimento FullStack**.
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
 
-#### **Java**
+- **Java** - **Função**: Backend da aplicação.
 
-- **Função**: Backend da aplicação.
-- **Por quê?**: Linguagem central da disciplina, requisito acadêmico para demonstrar proficiência no ecossistema Java.
+- **JavaFX** - **Função**: Interface gráfica desktop.
 
-#### **JavaFX**
+- **Git** - **Função**: Controle de versão.
 
-- **Função**: Interface gráfica desktop.
-- **Por quê?**: Framework padrão do ecossistema Java para aplicações desktop modernas.
+- **GitHub** - **Função**: Hospedagem do código.
 
-#### **Git**
-
-- **Função**: Controle de versão.
-- **Por quê?**: Essencial para o gerenciamento de código em equipe e rastreabilidade.
-
-#### **GitHub**
-
-- **Função**: Hospedagem do código.
-- **Por quê?**: Facilita a colaboração, revisão de código (PRs) e integração.
-
-#### **VSCode**
-
-- **Função**: IDE principal.
-- **Por quê?**: IDE leve com bom suporte a extensões Java e integração com Maven.
+- **VSCode** - **Função**: IDE principal.
 
 ### Contribuições Pessoais
 
@@ -413,15 +385,16 @@ e **Desenvolvimento FullStack**.
 
 ### Hard Skills
 
-| **Categoria**              | **Tecnologia**     | **Nível** | **Aplicações/Detalhes**                                                    |
-|----------------------------|--------------------|-----------|----------------------------------------------------------------------------|
-| **Linguagem**              | Java               | Aplicado  | Backend/Desktop: Controllers, Models, JavaFX, JDBC.                        |
-| **Framework GUI**          | JavaFX             | Aplicado  | Telas FXML, Controladores, TableView, ButtonCell, navegação.               |
-| **Processamento de Dados** | Apache Commons CSV | Aplicado  | Leitura de CSV (CSVParser), conversão para listas, tratamento de formatos. |
-| **Banco de Dados**         | JDBC               | Aplicado  | CRUD com PostgreSQL, tratamento de SQLException.                           |
-| **SGBD**                   | PostgreSQL         | Aplicado  | Modelagem relacional, conexão JDBC, integração com Java.                   |
-| **Build Tool**             | Maven              | Aplicado  | Gerenciamento de dependências (pom.xml).                                   |
-| **Controle de Versão**     | Git                | Aplicado  | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
+| **Categoria**              | **Tecnologia**     | **Nível**     | **Aplicações/Detalhes**                                                    |
+|----------------------------|--------------------|---------------|----------------------------------------------------------------------------|
+| **Linguagem**              | Java               | Uso com Ajuda | Backend/Desktop: Controllers, Models, JavaFX, JDBC.                        |
+| **Framework GUI**          | JavaFX             | Uso com Ajuda | Telas FXML, Controladores, TableView, ButtonCell, navegação.               |
+| **Processamento de Dados** | Apache Commons CSV | Uso com Ajuda | Leitura de CSV (CSVParser), conversão para listas, tratamento de formatos. |
+| **Banco de Dados**         | JDBC               | Uso com Ajuda | CRUD com PostgreSQL, tratamento de SQLException.                           |
+| **SGBD**                   | PostgreSQL         | Uso com Ajuda | Modelagem relacional, conexão JDBC, integração com Java.                   |
+| **Build Tool**             | Maven              | Uso com Ajuda | Gerenciamento de dependências (pom.xml).                                   |
+| **Controle de Versão**     | Git                | Uso com Ajuda | Branches, conflitos, .gitignore, comandos básicos (commit/push/pull).      |
+
 ### Soft Skills
 
 | **Habilidade**                 | **Contribuições Chave**                                                                                      | **Impacto/Métodos**                         |
@@ -468,55 +441,25 @@ Cada estágio é orquestrado com base em:
 
 Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura concisa e objetiva:
 
-#### **Java**
+- **Java** - **Função**: Backend da aplicação.
 
-- **Função**: Backend da aplicação.
-- **Por quê?**: Requisito acadêmico para o desenvolvimento do backend, alinhado com a ementa da disciplina.
+- **Spring Framework** - **Função**: Desenvolvimento web backend.
 
-#### **Spring Framework**
+- **HTML** - **Função**: Estrutura das páginas web.
 
-- **Função**: Desenvolvimento web backend.
-- **Por quê?**: Agiliza a criação de APIs REST robustas com injeção de dependências e configuração simplificada.
+- **CSS** - **Função**: Estilização da interface.
 
-#### **HTML**
+- **Vue.js** - **Função**: Frontend dinâmico.
 
-- **Função**: Estrutura das páginas web.
-- **Por quê?**: Base essencial para a renderização de conteúdo no frontend.
+- **MySQL** - **Função**: Banco de dados relacional.
 
-#### **CSS**
+- **Git** - **Função**: Controle de versão.
 
-- **Função**: Estilização da interface.
-- **Por quê?**: Necessário para a identidade visual e criação de layouts responsivos.
+- **GitHub** - **Função**: Hospedagem do código.
 
-#### **Vue.js**
+- **IntelliJ IDEA** - **Função**: IDE para Java/Spring.
 
-- **Função**: Frontend dinâmico.
-- **Por quê?**: Escolhido pela sua arquitetura baseada em componentes reativos, facilitando a criação de interfaces dinâmicas.
-
-#### **MySQL**
-
-- **Função**: Banco de dados relacional.
-- **Por quê?**: SGBD relacional escolhido pela ampla compatibilidade com o ecossistema Spring (Spring Data JPA).
-
-#### **Git**
-
-- **Função**: Controle de versão.
-- **Por quê?**: Ferramenta padrão de mercado para controle de versão e colaboração em equipe.
-
-#### **GitHub**
-
-- **Função**: Hospedagem do código.
-- **Por quê?**: Ideal para colaboração, code review e gerenciamento de issues.
-
-#### **IntelliJ IDEA**
-
-- **Função**: IDE para Java/Spring.
-- **Por quê?**: IDE especializada com suporte avançado ao ecossistema Spring e ferramentas de depuração robustas.
-
-#### **WebStorm**
-
-- **Função**: IDE para frontend.
-- **Por quê?**: Otimizado para o ecossistema JavaScript/TypeScript, com excelente suporte a Vue.js.
+- **WebStorm** - **Função**: IDE para frontend.
 
 ### Contribuições Pessoais
 
@@ -596,17 +539,18 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 
 ### Hard Skills
 
-| **Categoria**          | **Tecnologia**   | **Nível** | **Aplicações/Detalhes**                                                                |
-|------------------------|------------------|-----------|----------------------------------------------------------------------------------------|
-| **Linguagem Backend**  | Java             | Aplicado  | Desenvolvimento de aplicações backend robustas, lógica de negócios, integração de APIs |
-| **Framework Backend**  | Spring Framework | Aplicado  | APIs RESTful, Spring Security, Spring Data JPA                                         |
-| **Estilização**        | CSS              | Aplicado  | Layouts responsivos (Flexbox/Grid), animações CSS                                      |
-| **Framework Frontend** | Vue.js           | Aplicado  | Componentes reutilizáveis, gerenciamento de estado, integração com APIs                |
-| **Banco de Dados**     | MySQL            | Aplicado  | Operações com tabelas, consultas SQL, transações                                       |
-| **Controle de Versão** | Git              | Autônomo  | Branching, resolução de conflitos, rebase                                              |
-| **Colaboração**        | GitHub           | Autônomo  | Gerenciamento de repositórios, revisão de código (PRs), GitHub Actions                 |
-| **IDE Java**           | IntelliJ IDEA    | Autônomo  | Debug, plugins/temas, integração com ferramentas de teste/build                        |
-| **IDE Frontend**       | WebStorm         | Autônomo  | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
+| **Categoria**          | **Tecnologia**   | **Nível**         | **Aplicações/Detalhes**                                                                |
+|------------------------|------------------|-------------------|----------------------------------------------------------------------------------------|
+| **Linguagem Backend**  | Java             | Uso com Ajuda     | Desenvolvimento de aplicações backend robustas, lógica de negócios, integração de APIs |
+| **Framework Backend**  | Spring Framework | Uso com Ajuda     | APIs RESTful, Spring Security, Spring Data JPA                                         |
+| **Estilização**        | CSS              | Uso com Ajuda     | Layouts responsivos (Flexbox/Grid), animações CSS                                      |
+| **Framework Frontend** | Vue.js           | Uso com Ajuda     | Componentes reutilizáveis, gerenciamento de estado, integração com APIs                |
+| **Banco de Dados**     | MySQL            | Uso com Ajuda     | Operações com tabelas, consultas SQL, transações                                       |
+| **Controle de Versão** | Git              | Uso com Autonomia | Branching, resolução de conflitos, rebase                                              |
+| **Colaboração**        | GitHub           | Uso com Autonomia | Gerenciamento de repositórios, revisão de código (PRs), GitHub Actions                 |
+| **IDE Java**           | IntelliJ IDEA    | Uso com Autonomia | Debug, plugins/temas, integração com ferramentas de teste/build                        |
+| **IDE Frontend**       | WebStorm         | Uso com Autonomia | Desenvolvimento JS/HTML/CSS, suporte a Vue.js, debugging                               |
+
 ### Soft Skills
 
 | **Habilidade**             | **Contribuições Chave**                                             | **Impacto/Métodos**                               |
@@ -661,65 +605,29 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git 2.43"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-#### **Java**
+- **Java** - **Função**: Backend principal da aplicação.
 
-- **Função**: Backend principal da aplicação.
-- **Por quê?**: Linguagem principal definida pela ementa, utilizada para construir um backend robusto e escalável.
+- **Spring Framework** - **Função**: Criação de APIs web.
 
-#### **Spring Framework**
+- **Oracle Cloud** - **Função**: Banco de dados em nuvem.
 
-- **Função**: Criação de APIs web.
-- **Por quê?**: Simplifica a configuração, segurança e injeção de dependências em aplicações Java.
+- **Docker** - **Função**: Containerização da aplicação.
 
-#### **Oracle Cloud**
+- **Vue.js** - **Função**: Frontend dinâmico.
 
-- **Função**: Banco de dados em nuvem.
-- **Por quê?**: Solução de banco de dados relacional robusta e disponibilizada pela instituição.
+- **Vite** - **Função**: Build do frontend.
 
-#### **Docker**
+- **Redis** - **Função**: Cache em memória.
 
-- **Função**: Containerização da aplicação.
-- **Por quê?**: Garante a consistência entre os ambientes de desenvolvimento, teste e produção.
+- **Git** - **Função**: Controle de versão.
 
-#### **Vue.js**
+- **GitHub** - **Função**: Hospedagem do código.
 
-- **Função**: Frontend dinâmico.
-- **Por quê?**: Componentização reativa e intuitiva, permitindo criar interfaces complexas de forma gerenciável.
+- **TypeScript** - **Função**: Frontend tipado.
 
-#### **Vite**
+- **IntelliJ IDEA** - **Função**: IDE para Java.
 
-- **Função**: Build do frontend.
-- **Por quê?**: Escolhido pela performance superior no build e *hot-reloading* (HMR), otimizando o ciclo de desenvolvimento.
-
-#### **Redis**
-
-- **Função**: Cache em memória.
-- **Por quê?**: Melhora a performance de consultas frequentes, reduzindo a carga no banco de dados principal.
-
-#### **Git**
-
-- **Função**: Controle de versão.
-- **Por quê?**: Ferramenta padrão de mercado para controle de versão e colaboração.
-
-#### **GitHub**
-
-- **Função**: Hospedagem do código.
-- **Por quê?**: Ideal para trabalho em equipe, gerenciamento de issues e CI/CD.
-
-#### **TypeScript**
-
-- **Função**: Frontend tipado.
-- **Por quê?**: Adiciona tipagem estática ao JavaScript, reduzindo erros em tempo de compilação.
-
-#### **IntelliJ IDEA**
-
-- **Função**: IDE para Java.
-- **Por quê?**: IDE com suporte avançado para o ecossistema Spring Boot, facilitando a depuração e o desenvolvimento.
-
-#### **WebStorm**
-
-- **Função**: IDE para frontend.
-- **Por quê?**: Otimizado para o desenvolvimento moderno com Vue.js e TypeScript.
+- **WebStorm** - **Função**: IDE para frontend.
 
 ### Contribuições Pessoais
 
@@ -877,17 +785,17 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 
 ### Hard Skills
 
-| **Categoria**              | **Tecnologia**            | **Nível** | **Aplicações/Detalhes**                                                    |
-|----------------------------|---------------------------|-----------|----------------------------------------------------------------------------|
-| **Linguagem Backend**      | Java                      | Aplicado  | Desenvolvimento do core do sistema, tratamento de exceções                 |
-| **Framework Backend**      | Spring Boot               | Aplicado  | Criação de APIs RESTful, Spring Data, Spring Security, Swagger integration |
-| **Linguagem Frontend**     | TypeScript                | Aplicado  | Tipagem estática para componentes Vue.js                                   |
-| **Framework Frontend**     | Vue.js                    | Aplicado  | Componentes reativos, gerenciamento de estado, integração com mapas        |
-| **Build Tool Frontend**    | Vite                      | Aplicado  | Otimização de builds e hot-reload                                          |
-| **Controle de Versão**     | Git                       | Autônomo  | Gestão de branches, resolução de conflitos                                 |
-| **Colaboração**            | GitHub                    | Autônomo  | Gestão de repositórios, code reviews                                       |
-| **Documentação de APIs**   | Swagger/OpenAPI           | Autônomo  | Documentação interativa de endpoints                                       |
-| **Tratamento de Exceções** | Spring Exception Handling | Autônomo  | Criação de handlers globais e exceções customizadas                        |
+| **Categoria**              | **Tecnologia**            | **Nível**         | **Aplicações/Detalhes**                                                    |
+|----------------------------|---------------------------|-------------------|----------------------------------------------------------------------------|
+| **Linguagem Backend**      | Java                      | Uso com Ajuda     | Desenvolvimento do core do sistema, tratamento de exceções                 |
+| **Framework Backend**      | Spring Boot               | Uso com Ajuda     | Criação de APIs RESTful, Spring Data, Spring Security, Swagger integration |
+| **Linguagem Frontend**     | TypeScript                | Uso com Ajuda     | Tipagem estática para componentes Vue.js                                   |
+| **Framework Frontend**     | Vue.js                    | Uso com Ajuda     | Componentes reativos, gerenciamento de estado, integração com mapas        |
+| **Build Tool Frontend**    | Vite                      | Uso com Ajuda     | Otimização de builds e hot-reload                                          |
+| **Controle de Versão**     | Git                       | Uso com Autonomia | Gestão de branches, resolução de conflitos                                 |
+| **Colaboração**            | GitHub                    | Uso com Autonomia | Gestão de repositórios, code reviews                                       |
+| **Documentação de APIs**   | Swagger/OpenAPI           | Uso com Autonomia | Documentação interativa de endpoints                                       |
+| **Tratamento de Exceções** | Spring Exception Handling | Uso com Autonomia | Criação de handlers globais e exceções customizadas                        |
 
 ### Soft Skills
 
@@ -906,12 +814,16 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 ## Projeto: YOUTAN DASH (2025-1)
 
 > [!IMPORTANT]
-> O projeto consiste no desenvolvimento de uma plataforma de Business Intelligence (BI) integrada à ferramenta de gestão Taiga. O objetivo é gerar e visualizar indicadores de desempenho (KPIs) de projetos de software, como total de cards, tempo médio de execução e distribuição de tarefas por colaborador.
+> O projeto consiste no desenvolvimento de uma plataforma de Business Intelligence (BI) integrada à ferramenta de gestão
+> Taiga. O objetivo é gerar e visualizar indicadores de desempenho (KPIs) de projetos de software, como total de cards,
+> tempo médio de execução e distribuição de tarefas por colaborador.
 >
-> A solução oferece dashboards personalizados para três níveis de acesso (Operador, Gestor e Admin), permitindo uma análise de métricas eficiente, transparente e acessível para todos os envolvivos.
+> A solução oferece dashboards personalizados para três níveis de acesso (Operador, Gestor e Admin), permitindo uma
+> análise de métricas eficiente, transparente e acessível para todos os envolvivos.
 
 > [!NOTE]
-> Neste projeto, atuei com foco principal na gestão ágil, assumindo o papel de Scrum Master, além de contribuir tecnicamente para o pipeline de dados e documentação da API.
+> Neste projeto, atuei com foco principal na gestão ágil, assumindo o papel de Scrum Master, além de contribuir
+> tecnicamente para o pipeline de dados e documentação da API.
 
 [**📁 Repositório no GitHub**](https://github.com/manolito-fatec/dashflow-2025-1)
 
@@ -929,87 +841,259 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-#### **Java**
-- **Função**: Linguagem principal do backend.
-- **Por quê?**: Requisito acadêmico para o desenvolvimento de uma API robusta e escalável.
+- **Java** - **Função**: Linguagem principal do backend.
 
-#### **Spring Boot**
-- **Função**: API REST e segurança.
-- **Por quê?**: Ecossistema completo para APIs, incluindo Spring Security (JWT) e Spring Web.
+- **Spring Boot** - **Função**: API REST e segurança.
 
-#### **PostgreSQL**
-- **Função**: Banco de dados relacional.
-- **Por quê?**: Armazenamento persistente dos dados de usuários, projetos e métricas consolidadas.
+- **PostgreSQL** - **Função**: Banco de dados relacional.
 
-#### **Apache Spark**
-- **Função**: Processamento de dados (ETL).
-- **Por quê?**: Ferramenta de alta performance para processar e agregar os dados extraídos do Taiga antes de servi-los ao dashboard.
+- **Apache Spark** - **Função**: Processamento de dados (ETL).
 
-#### **Vue.js**
-- **Função**: Frontend dinâmico.
-- **Por quê?**: Reatividade ideal para a construção de dashboards interativos e visualização de dados.
+- **Vue.js** - **Função**: Frontend dinâmico.
 
-#### **TypeScript**
-- **Função**: Tipagem para o frontend.
-- **Por quê?**: Garante a manutenibilidade e reduz erros em tempo de compilação na interface.
+- **TypeScript** - **Função**: Tipagem para o frontend.
 
-#### **Swagger**
-- **Função**: Documentação da API.
-- **Por quê?**: Geração de documentação interativa (RNF01), facilitando a integração e testes.
+- **Swagger** - **Função**: Documentação da API.
 
-#### **GitHub Actions**
-- **Função**: Integração Contínua (CI).
-- **Por quê?**: Automação do pipeline de build e testes a cada *push* e *pull request*.
+- **GitHub Actions** - **Função**: Integração Contínua (CI).
 
-#### **SonarCloud**
-- **Função**: Análise de Qualidade de Código.
-- **Por quê?**: Ferramenta de análise estática integrada ao pipeline para garantir a qualidade e segurança do código.
+- **SonarCloud** - **Função**: Análise de Qualidade de Código.
 
 ### Contribuições Pessoais
 
 <details>
 <summary>Atuação como Scrum Master (Gestão Ágil)</summary>
 
-- **Facilitação de Cerimônias**: Condução de todas as cerimônias ágeis (Sprint Planning, Daily Scrums, Sprint Review e Retrospective).
-- **Gestão do Product Backlog**: Criação, refinamento e priorização de 18 User Stories (US01 a US18), garantindo o alinhamento com as necessidades do cliente.
-- **Planejamento de Sprints**: Organização e divisão do backlog em três Sprints coesas, gerenciando o escopo e as entregas de valor.
-- **Mapeamento de Requisitos**: Tradução das necessidades de negócio em 29 Requisitos Funcionais (R1-R29) e 5 Não Funcionais (RNF01-RNF05).
-- **Remoção de Impedimentos**: Identificação e atuação proativa para remover bloqueios técnicos e de comunicação da equipe.
-- **Gestão de Artefatos**: Manutenção e transparência do Sprint Backlog e do Product Backlog para toda a equipe e stakeholders.
+- **Facilitação de Cerimônias**: Condução de todas as cerimônias ágeis (Sprint Planning, Daily Scrums, Sprint Review e
+  Retrospective).
+- **Gestão do Product Backlog**: Criação, refinamento e priorização de 18 User Stories (US01 a US18), garantindo o
+  alinhamento com as necessidades do cliente.
+- **Planejamento de Sprints**: Organização e divisão do backlog em três Sprints coesas, gerenciando o escopo e as
+  entregas de valor.
+- **Mapeamento de Requisitos**: Tradução das necessidades de negócio em 29 Requisitos Funcionais (R1-R29) e 5 Não
+  Funcionais (RNF01-RNF05).
+- **Remoção de Impedimentos**: Identificação e atuação proativa para remover bloqueios técnicos e de comunicação da
+  equipe.
+- **Gestão de Artefatos**: Manutenção e transparência do Sprint Backlog e do Product Backlog para toda a equipe e
+  stakeholders.
 
 </details>
 
 <details>
 <summary>Contribuições Técnicas e Documentação</summary>
 
-- **Backend (Java)**: Participei ativamente da implementação do *Exception Handler* global da API, centralizando o tratamento de erros.
+- **Backend (Java)**: Participei ativamente da implementação do *Exception Handler* global da API, centralizando o
+  tratamento de erros.
 - **Frontend (Vue.js)**: Colaborei no desenvolvimento de telas e componentes da interface de visualização de dados.
-- **Documentação de DevOps**: Atuei na construção do ecossistema de documentação para o pipeline de CI/CD, incluindo guias de deploy e integração contínua.
+- **Documentação de DevOps**: Atuei na construção do ecossistema de documentação para o pipeline de CI/CD, incluindo
+  guias de deploy e integração contínua.
 
 </details>
 
 ### Hard Skills
 
-| **Categoria**            | **Tecnologia**  | **Nível** | **Aplicações/Detalhes**                                                         |
-|--------------------------|-----------------|-----------|---------------------------------------------------------------------------------|
-| **Gestão Ágil**          | Scrum           | Autônomo  | Gestão de backlog (18 USs), facilitação de cerimônias, planejamento de Sprints. |
-| **Linguagem Backend**    | Java            | Aplicado  | Implementação de `Exception Handler` global.                                    |
-| **Framework Backend**    | Spring Boot     | Aplicado  | Tratamento de exceções (@ControllerAdvice).                                     |
-| **Framework Frontend**   | Vue.js          | Aplicado  | Desenvolvimento de telas e componentes de visualização.                         |
-| **Documentação Técnica** | Markdown / Wiki | Aplicado  | Elaboração de guias de CI/CD e deploy.                                          |
-| **Controle de Versão**   | Git / GitHub    | Autônomo  | Gestão de repositório, branches e artefatos de projeto.                         |
+| **Categoria**            | **Tecnologia**  | **Nível** | **Aplicações/Detalhes**                                                |
+|--------------------------|-----------------|-----------|------------------------------------------------------------------------|
+| **Gestão Ágil**          | Scrum           | Autônomo  | Gestão de backlog, facilitação de cerimônias, planejamento de Sprints. |
+| **Linguagem Backend**    | Java            | Aplicado  | Implementação de `Exception Handler` global.                           |
+| **Framework Backend**    | Spring Boot     | Aplicado  | Tratamento de exceções (@ControllerAdvice).                            |
+| **Framework Frontend**   | Vue.js          | Aplicado  | Desenvolvimento de telas e componentes de visualização.                |
+| **Documentação Técnica** | Markdown / Wiki | Aplicado  | Elaboração de guias de CI/CD e deploy.                                 |
+| **Controle de Versão**   | Git / GitHub    | Autônomo  | Gestão de repositório, branches e artefatos de projeto.                |
 
 ### Soft Skills
 
-| **Habilidade**                 | **Contribuições Chave**                                                    | **Impacto/Métodos**                                            |
-|--------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------|
-| **Liderança Servidora**        | Atuação como Scrum Master, removendo impedimentos e facilitando o time.    | Aumento da produtividade da equipe e foco na entrega de valor. |
-| **Comunicação e Negociação**   | Gestão do Product Backlog (18 USs) e alinhamento com stakeholders.         | Priorização clara e definição de escopo (Sprints).             |
-| **Organização e Planejamento** | Mapeamento de 29 requisitos funcionais e gestão dos artefatos.             | Visibilidade total do progresso e entregas consistentes.       |
-| **Facilitação**                | Condução de Dailies, Plannings, Reviews e Retrospectives.                  | Melhoria contínua do processo e engajamento da equipe.         |
-| **Comunicação Técnica**        | Elaboração da documentação de DevOps e contribuição no `ExceptionHandler`. | Criação de guias claros para o time e padronização de código.  |
-| **Colaboração Interfuncional** | Atuação simultânea em gestão (Scrum), backend (Java) e frontend (Vue).     | Visão holística do projeto, conectando processos à execução.   |
+| **Habilidade**                              | **Contribuições Chave**                                                                                 | **Impacto/Métodos**                                                                                                 |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
+| **Liderança Ágil e Gestão de Impedimentos** | Atuação proativa como Scrum Master, identificando e removendo bloqueios técnicos e processuais do time. | Blindagem da equipe contra interrupções externas e garantia de um fluxo de trabalho contínuo (Flow).                |
+| **Negociação e Priorização Estratégica**    | Refinamento do Product Backlog e alinhamento constante de expectativas com stakeholders.                | Definição clara de escopo por Sprint, assegurando entregas de valor incremental e reduzindo o desperdício.          |
+| **Facilitação e Resolução de Conflitos**    | Condução de cerimônias (Planning, Review, Retro) focadas em transparência e planos de ação práticos.    | Promoção de um ambiente de segurança psicológica e melhoria contínua (*Kaizen*) nos processos da equipe.            |
+| **Padronização Técnica e Mentoria**         | Elaboração de guias de DevOps e implementação de padrões de código (ex: `GlobalExceptionHandler`).      | Redução da curva de aprendizado do time e aumento da qualidade e manutenibilidade do software entregue.             |
+| **Planejamento e Organização Sistêmica**    | Mapeamento detalhado de requisitos funcionais e gestão visual dos artefatos do projeto.                 | Visibilidade total do progresso para todos os envolvidos e previsibilidade consistente nas entregas.                |
+| **Visão Holística (T-Shaped)**              | Atuação híbrida conectando a gestão ágil (Scrum) com a execução técnica (Backend Java e Frontend Vue).  | Capacidade de traduzir necessidades de negócio diretamente em soluções técnicas viáveis, sem ruídos de comunicação. |
 
-### Em 2025-2
+-----
+
+## Projeto: Pardal (2025-2)
+
+> [!IMPORTANT]
+> O projeto Pardal é uma solução voltada para a conformidade com a Lei Geral de Proteção de Dados (LGPD) e Inteligência
+> de Dados. O objetivo principal foi normalizar e atualizar bases de dados legadas, garantindo a privacidade através da
+> anonimização automática de dados sensíveis.
+>
+> Além da conformidade, a aplicação utiliza Inteligência Artificial para gerar insights estratégicos a partir de tickets
+> de suporte, incluindo previsões e categorizações, oferecendo dashboards analíticos com controle de acesso (Admin e
+> Colaborador).
+
+> [!NOTE]
+> Neste projeto, atuei fortemente na implementação de algoritmos de **Processamento de Linguagem Natural (NLP)** para
+> anonimização e na criação de modelos de IA para geração de insights preditivos.
+
+[**📁 Repositório no GitHub**](https://www.google.com/search?q=LINK_DO_REPOSITORIO_AQUI)
+
+### Tecnologias Utilizadas
+
+<div> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> 
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"> 
+<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> 
+<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault"> 
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"> 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"> 
+<img src="https://img.shields.io/badge/PrimeVue-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="PrimeVue">
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"></div>
+
+- **Python & Jupyter** - **Função**: Desenvolvimento de scripts de ETL e prototipagem de modelos.
+
+- **Pandas & DuckDB** - **Função**: Manipulação e análise de dados de alta performance.
+
+- **Google Gemini** - **Função**: Inteligência Artificial Generativa (LLM).
+
+- **spaCy / NLTK** - **Função**: Processamento de Linguagem Natural (NLP).
+
+- **Scikit-learn** - **Função**: Machine Learning para insights.
+
+- **MongoDB** - **Função**: Banco de dados NoSQL.
+
+- **HashiCorp Vault** - **Função**: Gestão de Segredos e Segurança.
+
+- **Vue.js & PrimeVue** - **Função**: Frontend e Biblioteca de Componentes.
+
+- **PostgreSQL** - **Função**: Banco de dados relacional.
+
+- **Java & Spring Boot** - **Função**: Backend da aplicação web.
 
 
+### Contribuições Pessoais
+
+<details> 
+<summary>Inteligência Artificial, GenAI e Analytics</summary>
+
+  - **Integração com LLM (Google Gemini)**: Desenvolvimento de integração via API para processar descrições de tickets de suporte, utilizando engenharia de prompt para extrair sentimentos, resumir problemas e categorizar chamados automaticamente.
+  - **Engenharia de Prompt (Persona & Context)**: Implementação de prompts estruturados onde a IA assume a persona de um "Product Manager". O prompt recebe estatísticas quantitativas (via Pandas) e dados qualitativos (texto dos tickets), instruindo o modelo a gerar planos de ação estratégicos.
+  - **Output Estruturado (JSON Enforcement)**: Configuração do prompt para garantir que a saída da IA seja estritamente um JSON válido, facilitando o *parsing* e a persistência direta no banco de dados sem necessidade de regex complexo.
+  - **Anonimização Inteligente (NLP)**: Aplicação de modelos de Processamento de Linguagem Natural (spaCy) para identificar Entidades Nomeadas (NER) como nomes, CPFs e endereços em textos livres, aplicando máscaras de anonimização dinamicamente.
+  - **Modelagem NoSQL para Insights**: Configuração de uma coleção dedicada (`product_insights`) no MongoDB com índices compostos (`company_name` + `dth`) para otimizar a recuperação de dados pelo frontend.
+  - **Bulk Write Operations**: Implementação de inserção em lote (`insert_many` com `ordered=False`) para alta performance na gravação dos insights gerados.
+
+> A utilização de IA permitiu transformar um "lago de dados" de texto não estruturado em insights acionáveis, sem comprometer a privacidade dos usuários.
+
+</details>
+
+
+<details> 
+<summary>Engenharia de Dados e Pipelines de ETL</summary>
+
+  - **Pipeline de Alta Performance (DuckDB & Pandas)**: Implementação de scripts de ETL que utilizam **DuckDB** para consultas OLAP em memória (alta velocidade em grandes volumes) e **Pandas** para limpeza e transformação refinada dos dados antes da anonimização.
+  - **Extração Analítica (DuckDB)**: Utilização do DuckDB para conectar diretamente ao PostgreSQL e executar queries analíticas complexas (`InsightsExtractor`).
+  - **SQL Window Functions**: Implementação de *Common Table Expressions (CTEs)* com funções de janela (`ROW_NUMBER() OVER PARTITION BY`) para rankear e selecionar inteligentemente os tickets mais relevantes de cada subcategoria, respeitando cotas por empresa.
+  - **Otimização de Performance (Bulk Operations)**: Refatoração do pipeline para utilizar **Bulk Updates** (`psycopg2.extras.execute_batch`) no PostgreSQL, substituindo transações linha-a-linha e reduzindo drasticamente o *overhead* de I/O no banco.
+  - **Tratamento de Dados Legados**: Criação de rotinas robustas para ingestão de bases despadronizadas, normalização de esquemas e migração segura para a estrutura relacional do PostgreSQL.
+  - **Arquitetura de Pipeline**: Orquestração do fluxo `Extractor -> Generator -> Loader`, onde os dados são extraídos para arquivos intermediários (CSV), processados pela IA e carregados em massa no MongoDB.
+
+</details>
+
+<details> 
+<summary>DevOps, SRE e Infraestrutura</summary>
+
+  - **Orquestração com Docker**: Configuração avançada do `docker-compose` utilizando *Healthchecks* nos serviços de banco de dados (Postgres e Mongo) e `depends_on` condicionais. Isso assegura que o container de ETL (`etl-service`) inicie o processamento apenas quando a infraestrutura de persistência estiver totalmente saudável.
+  - **Padrão Sidecar (Restore Watcher)**: Implementação de um container auxiliar (`etl-restore-watcher`) utilizando `inotify-tools` para monitorar em tempo real a chegada de novos arquivos de dump. Assim que um backup é detectado, o sistema dispara automaticamente o processo de restauração do banco.
+  - **Orquestração Baseada em Eventos (Signals)**: Desenvolvimento de um sistema de sinalização via arquivos (`restore_complete.signal`) para coordenar a dependência entre containers. O agendador principal (`scheduler.py`) agora "aguarda" o sinal de que o restore foi concluído com sucesso antes de iniciar os jobs, prevenindo erros de execução em banco vazio ou inconsistente.
+  - **Isolamento de Rede (Docker Networking)**: Configuração de uma rede interna dedicada (`bridge network`) no Docker Compose para orquestrar a comunicação entre os serviços de banco de dados e o ETL. Isso garante que os containers se comuniquem via DNS interno de forma segura, isolados do tráfego externo e da rede padrão do host.
+  - **Infraestrutura GPU (NVIDIA)**: Configuração do ambiente Docker para suporte a drivers **NVIDIA (CUDA)**, permitindo o *passthrough* de recursos de hardware para aceleração do container de ETL.
+  - **Rotina de Backup Automatizada**: Desenvolvimento de módulo Python (`DatabaseBackup`) que integra via `subprocess` com o **PostgreSQL Client Tools** para executar `pg_dump` de forma segura, gerando arquivos compactados e versionados por *timestamp*.
+  - **Restauro Automático (Self-Healing)**: Implementação de script Shell (`restore_db.sh`) executado no *entrypoint* do container, que identifica e restaura automaticamente o backup mais recente ao iniciar o serviço.
+  - **Agendamento de Jobs (Python Schedule)**: Implementação de um agendador de tarefas robusto utilizando a biblioteca `schedule`, configurado para executar o pipeline de anonimização diariamente às 03:00.
+  - **Transformação em Serviço (Daemon)**: Reconfiguração da arquitetura do container de ETL no `docker-compose` para rodar como um serviço persistente (`restart: unless-stopped`).
+
+</details>
+
+<details> 
+<summary>Segurança, Compliance e Backend</summary>
+
+  - **Infraestrutura de Auditoria (LGPD)**: Implementação de logs de auditoria no MongoDB (`mongo_audit_service`), garantindo isolamento dos dados operacionais e performance de escrita.
+  - **Engenharia de Índices e Retenção (TTL)**: Desenvolvimento de scripts Python (`setup_mongo.py`) para criação de índices compostos e **Índices TTL (Time-To-Live)** configurados para exclusão automática de logs após 5 anos, atendendo aos requisitos legais.
+  - **Gestão de Segredos (HashiCorp Vault)**: Configuração do Vault para gerenciamento centralizado de credenciais de banco de dados e chaves de API, eliminando *hardcoded secrets* do código fonte.
+  - **Criptografia em Atualizações de Perfil**: Correção de vulnerabilidade no serviço de usuários (`AppUserService`), implementando a codificação obrigatória de senhas (`passwordEncoder.encode`) durante o processo de atualização de perfil.
+  - **Controle de Acesso (RBAC)**: Implementação no Spring Boot de distinção clara entre perfis (Admin vs. Colaborador), assegurando que dados estatísticos sensíveis sejam visíveis apenas para usuários autorizados.
+  - **Sincronização de Schema (JPA/Hibernate)**: Refatoração das entidades de domínio (`User`, `Agent`, `Tickets`) para alinhar o mapeamento Objeto-Relacional com a nova estrutura do banco de dados pós-ETL.
+  - **Remoção de Atributos Obsoletos**: Limpeza de código removendo campos de dados sensíveis (PII) e textos brutos que foram migrados ou anonimizados.
+
+> A infraestrutura de segurança e auditoria garante que todas as alterações nos dados sensíveis sejam rastreáveis e que a aplicação esteja em conformidade com a LGPD.
+
+</details>
+
+<details>
+<summary>Frontend, UI/UX e Visualização de Dados</summary>
+
+  - **Arquitetura de Layouts**: Implementação da estrutura base para o módulo de Configurações do Usuário (`UserConfigView`), desenvolvendo componentes de layout como `Topbar.vue` com design responsivo (CSS Grid/Flexbox) e suporte a *breakpoints* móveis/desktop.
+  - **Roteamento e Navegação**: Configuração de novas rotas no **Vue Router** e integração do fluxo de navegação no menu principal, permitindo acesso fluido à área de gestão de perfil.
+  - **Componente de Insights (AI UI)**: Desenvolvimento do componente `InsightCard.vue` para renderizar as sugestões estratégicas geradas pelo Gemini. O componente processa a resposta bruta, limpa formatações Markdown residuais e apresenta os dados em uma lista paginada e interativa.
+  - **Geração de Relatórios PDF**: Implementação de funcionalidade de exportação de dashboards para PDF. Utilizei a biblioteca `html2canvas` para capturar os gráficos renderizados no navegador como imagens (Base64) e enviá-las ao backend para compilação em um documento PDF profissional.
+  - **Exportação de Dados Brutos (CSV/ZIP)**: Desenvolvimento de fluxo para download de datasets analíticos em formato ZIP, utilizando `Blob` API para gerenciar o download de arquivos binários gerados pela API.
+  - **Orquestração de Dados**: Refatoração da view principal (`InsightsView`) para gerenciar o carregamento concorrente de múltiplos widgets (Gráfico de Pareto e Card de Insights) utilizando `Promise.all`, melhorando a percepção de performance da aplicação.
+  - **Menu de Ações Contextuais**: Criação de um menu *dropdown* ("Mais ações") na interface principal (`InsightsView`), centralizando as opções de exportação e melhorando a usabilidade sem poluir o layout.
+
+</details>
+
+<details>
+<summary>Portal de Privacidade e Autogestão (LGPD UI)</summary>
+
+  - **Painel de Controle do Usuário**: Implementação do componente `MySection.vue` com arquitetura de abas (`Tabs` do PrimeVue) para centralizar a gestão de perfil, privacidade, segurança e auditoria.
+  - **Módulo de Transparência (LGPD UI)**: Desenvolvimento do componente `TransparencySidebar.vue` focado em compliance. O componente centraliza o acesso a informações regulatórias (contato do DPO, Política de Privacidade) e implementa o fluxo interativo de leitura e aceite dos **Termos de Uso** utilizando modais (`Dialog`) e feedback visual (`Toast`) do PrimeVue.
+  - **Aba de Privacidade (Direitos do Titular)**: Desenvolvimento do componente `PrivacyTab.vue` que exibe de forma estruturada os dados pessoais processados pelo sistema (transparência) e oferece botões de ação para **Portabilidade (CSV)** e **Eliminação de Conta**, traduzindo requisitos legais em interface funcional.
+  - **Funcionalidade de Portabilidade de Dados**: Desenvolvimento de lógica no frontend (`exportCSV`) para permitir que o usuário baixe seus dados cadastrais e logs de auditoria em formato CSV diretamente pelo navegador (`Blob` API), atendendo ao direito de portabilidade da LGPD.
+  - **Aba de Auditoria (Transparência)**: Desenvolvimento do componente `AuditTab.vue` que consome e exibe logs de auditoria detalhados (`auditData`) em uma `DataTable` interativa, permitindo ao usuário rastrear acessos (quem, quando, onde) e alterações em sua conta (Art. 6 da LGPD).
+  - **Painel de Segurança (Gestão de Credenciais)**: Implementação do componente `SecurityTab.vue` com fluxo completo de alteração de senha via modal.
+  - **Validação de Senha Forte (Real-time)**: Utilização de *Computed Properties* do Vue.js e Expressões Regulares (Regex) para validar instantaneamente a complexidade da senha (mínimo 8 caracteres, letras, números e símbolos) e a correspondência dos campos, bloqueando o envio do formulário (`isFormValid`) até que todos os critérios de segurança sejam atendidos.
+  - **Fluxo de Eliminação de Conta**: Implementação de diálogo de confirmação (`Dialog`) para solicitação de exclusão de dados (Art. 18 da LGPD), com alertas claros sobre as consequências e retenção residual.
+  - **UI/UX com Privacy by Design**: Implementação de lógica de mascaramento de dados sensíveis no frontend (ex: ofuscação de e-mail na Topbar), reforçando visualmente o compromisso do projeto com a privacidade.
+
+</details>
+
+<details>
+<summary>Arquitetura Frontend, Integração e Qualidade</summary>
+
+  - **Integração de Perfil de Usuário**: Implementação do serviço `UserService.ts` para conectar a interface de gestão de perfil à API REST. O serviço orquestra a busca de dados compostos (`getProfileInformation`) que traz tanto os dados cadastrais quanto o histórico de auditoria em uma única chamada otimizada.
+  - **Integração de APIs**: Implementação da camada de serviço (`InsightCardApi.ts`) para consumo dos endpoints de IA, com tipagem estrita via TypeScript (`ProductInsight`, `InsightTheme`) para garantir consistência e segurança de tipos entre o backend e o frontend.
+  - **Arquitetura de Tipos (TypeScript)**: Refatoração da estrutura de tipos, extraindo interfaces de domínio (`UserProfile`, `AuditDto`) para arquivos dedicados (`src/types/ConfigUser`), promovendo a reutilização e evitando dependências circulares entre componentes e serviços.
+  - **Type Safety (TypeScript)**: Refatoração dos componentes `MySection.vue` e `TransparencySidebar.vue` para resolver erros de tipagem implícita (`implicit any`), definindo interfaces claras para dados de auditoria e métodos auxiliares.
+  - **Refatoração e Manutenibilidade**: Reestruturação dos componentes Vue (`PrivacyTab`, `SecurityTab`, `AuditTab`), extraindo estilos *scoped* para arquivos CSS externos, promovendo a reutilização de classes e facilitando a manutenção do design system.
+  - **Validação de Formulário**: Implementação de lógica de validação no frontend (`handleSave` em `ProfileTab.vue`) para garantir que campos obrigatórios (nome, email) não sejam salvos vazios, com feedback visual via `Toast`.
+
+</details>
+
+
+### Hard Skills
+
+| **Categoria**              | **Tecnologia**           | **Nível**         | **Aplicações/Detalhes**                                                                                       |
+|:---------------------------|:-------------------------|:------------------|:--------------------------------------------------------------------------------------------------------------|
+| **GenAI / LLM**            | Google Gemini API        | Uso com Autonomia | Engenharia de prompt (Persona/Context), geração de JSON estruturado e análise de sentimentos.                 |
+| **Data Science / NLP**     | Python / spaCy           | Uso com Autonomia | Modelos de Reconhecimento de Entidades Nomeadas (NER) para anonimização e manipulação de *Doc objects*.       |
+| **Engenharia de Dados**    | DuckDB / Pandas          | Uso com Autonomia | Processamento analítico em memória (OLAP), integração Cross-Database e transformação de dados.                |
+| **Banco de Dados (SQL)**   | PostgreSQL               | Uso com Ajuda     | *Window Functions*, CTEs, *Bulk Updates* (`execute_batch`) e otimização de queries complexas.                 |
+| **Banco de Dados (NoSQL)** | MongoDB                  | Uso com Ajuda     | Modelagem de logs de auditoria, índices compostos, TTL para conformidade LGPD e operações de escrita em lote. |
+| **Frontend Framework**     | Vue.js (Composition API) | Uso com Ajuda     | Gestão de estado reativo (`refs`, `computed`), arquitetura de componentes, *watchers* e ciclo de vida.        |
+| **Frontend UI/UX**         | PrimeVue                 | Uso com Ajuda     | Estilização *utility-first*, design responsivo, modais, toasts e construção de layouts complexos.             |
+| **Linguagem Frontend**     | TypeScript               | Uso com Ajuda     | Tipagem estrita, definição de interfaces de domínio (`UserTypes`) e integração segura com APIs.               |
+| **DevOps & Infra**         | Docker / Compose         | Uso com Autonomia | Orquestração de serviços, *Healthchecks*, isolamento de rede (*bridge*) e volumes persistentes.               |
+| **HPC / Performance**      | NVIDIA CUDA              | Uso com Autonomia | Configuração de ambiente Docker para *passthrough* de GPU, acelerando a inferência de modelos de IA.          |
+| **Automação (SRE)**        | Shell Script / Python    | Uso com Autonomia | Scripts de *watchers* (`inotify`), agendamento de tarefas (`schedule`) e *disaster recovery* automatizado.    |
+| **Segurança**              | HashiCorp Vault          | Ouvi Falar        | Gestão centralizada de segredos e credenciais, eliminando vulnerabilidades de código.                         |
+| **Backend API**            | Java / Spring Boot       | Uso com Ajuda     | Implementação de endpoints REST, Spring Security, JPA e tratamento de exceções.                               |
+
+
+### Soft Skills
+
+| **Habilidade**                               | **Contribuições Chave**                                                                                     | **Impacto/Métodos**                                                                                                              |
+|:---------------------------------------------|:------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|
+| **Comunicação Assertiva e Gestão de Riscos** | Alinhamento proativo com o Scrum Master e o time sobre tarefas atrasadas ou sem data de entrega definida.   | Organização do fluxo de trabalho e garantia da qualidade da entrega, evitando gargalos de última hora.                           |
+| **Didática e Transferência de Conhecimento** | Explicação detalhada e demonstração prática do funcionamento do fluxograma de ETL para a equipe.            | Nivelamento técnico do time, eliminando dúvidas sobre a arquitetura de dados e facilitando a colaboração no pipeline.            |
+| **Colaboração e Apoio ao Time**              | Atuação direta no suporte a outros membros da equipe para destravar tarefas gerais e resolver impedimentos. | Aceleração das entregas coletivas e fortalecimento do espírito de equipe através da cooperação técnica.                          |
+| **Visão Sistêmica**                          | Conexão entre os requisitos de negócio (LGPD), a engenharia de dados (ETL) e a interface do usuário.        | Capacidade de enxergar o projeto como um todo, garantindo que as pontas (Backend, Frontend e Dados) se integrassem corretamente. |
+| **Ética e Responsabilidade (Compliance)**    | Implementação rigorosa de conceitos de *Privacy by Design* e anonimização.                                  | Foco na proteção de dados sensíveis, priorizando a conformidade legal acima da facilidade técnica.                               |
