@@ -929,7 +929,7 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 > Neste projeto, atuei fortemente na implementação de algoritmos de **Processamento de Linguagem Natural (NLP)** para
 > anonimização e na criação de modelos de IA para geração de insights preditivos.
 
-[**📁 Repositório no GitHub**](https://www.google.com/search?q=https://github.com/manolito-fatec/pardal-2025)
+[**📁 Repositório no GitHub**](https://github.com/manolito-fatec/pardal-2025)
 
 ### Tecnologias Utilizadas
 
