@@ -2,11 +2,16 @@
 
 ## Introdução
 
+<img src="assets/head.png" alt="header">
+
 Olá! Meu nome é **Otavio Calderan**, sou desenvolvedor de sistemas e atualmente curso Banco de Dados na Fatec, onde
 ingressei no início
-de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados
-**
+de 2023. Meu objetivo é construir uma carreira sólida em Tecnologia da Informação (T.I.), com foco em **Ciência de Dados**
 e **Desenvolvimento FullStack**.
+
+Esse gosto e a busca por uma formação, focada na prática e alinhada ao mercado de trabalho, foram o que 
+me trouxeram à **Fatec** em 2023. Escolhi o curso de **Banco de Dados** para construir uma base sólida que sustentasse 
+meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolvimento FullStack**.
 
 > [!NOTE]
 > Em abril de 2024, iniciei meu primeiro estágio como **Cientista de Dados**, onde tive a oportunidade de aprender e
@@ -49,12 +54,18 @@ e **Desenvolvimento FullStack**.
 
 ## Meus Projetos
 
-## Projeto: Sistema de Avaliação 360° (2023-1)
+## Primeiro Semestre (2023-1): Sistema de Avaliação 360°
 
-> [!IMPORTANT]  
-> Plataforma desktop para avaliação contínua de alunos, fundamentada na metodologia 360°, com dois níveis de acesso
-> distintos (Administrador e Aluno). A solução integra dashboards interativos para visualização e análise de desempenho,
-> promovendo um acompanhamento abrangente do desenvolvimento individual.
+> [!IMPORTANT]
+> **Problema:** A dificuldade de realizar o acompanhamento do desenvolvimento de competências socioemocionais 
+> (soft skills) dos alunos de forma estruturada. O processo manual dificultava a aplicação da metodologia 360°, 
+> tornando complexa a tabulação de feedbacks de autoavaliação e avaliação por pares, o que limitava a visão dos 
+> professores sobre o desempenho individual.
+>
+> **Solução:** O desenvolvimento de uma plataforma desktop fundamentada na metodologia 360°, com dois níveis de acesso 
+> distintos (Administrador e Aluno). A solução automatizou a coleta de dados e integrou dashboards interativos para 
+> visualização de métricas, permitindo uma análise de desempenho rápida e promovendo um acompanhamento abrangente da 
+> evolução de cada aluno.
 
 [**📁 Repositório no GitHub**](https://github.com/wiz-fatec/avaliacao-360)
 
@@ -191,24 +202,24 @@ e **Desenvolvimento FullStack**.
 
 ### Soft Skills
 
-| **Habilidade**         | **Contribuições Chave**                                           | **Impacto/Métodos**                       |  
-|------------------------|-------------------------------------------------------------------|-------------------------------------------|  
-| **Comunicação Eficaz** | Facilitação de reuniões diárias, mediação de discussões técnicas. | Feedback positivo em 360° sobre clareza.  |  
-| **Colaboração**        | Programação em par (pair programming), integração de feedbacks.   | Melhoria contínua em projetos em equipe.  |  
-| **Adaptabilidade**     | Adaptação a novas tecnologias em prazos curtos.                   | Entrega ágil mesmo em cenários dinâmicos. |  
-| **Gestão do Tempo**    | Uso de timeboxing em reuniões.                                    | Otimização de produtividade e foco.       |  
+| **Habilidade**                        | **Situação e Ação Real (Storytelling)**                                                                                                                                                                                                                                                                                                     | **Impacto no Projeto**                                                                                            |
+|:--------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------|
+| **Adaptabilidade e Aprendizado Ágil** | No início do projeto, eu não dominava a linguagem **Python**, que era o requisito principal. Dediquei-me a estudar o *Python* e *PySimpleGUI* e implementar a interface gráfica o mais rápido possível, adaptando-me rapidamente à nova tecnologia devido ao curto espaço de tempo entre atividadaes de outras matérias e o projeto da API. | Entrega pontual da interface funcional, permitindo que o grupo focasse na lógica do backend.                      |
+| **Colaboração e Integração**          | Entrei em um grupo onde não conhecia nenhum integrante. Para superar o distanciamento inicial e nivelar o conhecimento técnico, propus sessões de *Pair Programming* e mantive uma postura aberta para ouvir as ideias de todos.                                                                                                            | Criação de um ambiente de confiança mútua, onde as tarefas foram divididas de acordo com a facilidade de cada um. |
+| **Inteligência Emocional**            | Ao lidar com as diferenças de personalidade e ritmo de trabalho dos novos colegas, atuei como mediador para evitar atritos, focando sempre no objetivo comum da entrega do MVP.                                                                                                                                                             | Manutenção da harmonia do time e redução de bloqueios de comunicação durante as Sprints.                          |
 
 ---
 
-## Projeto: Sistema de Avaliação de Trabalhos de Graduação (2023-2)
+## Segundo Semestre (2023-2): Sistema de Avaliação de Trabalhos de Graduação
 
 > [!IMPORTANT]
-> O projeto consiste no desenvolvimento de uma aplicação voltada para facilitar a visualização e a gestão das avaliações
-> dos Trabalhos de Graduação (TG) dos alunos. A aplicação permitirá a leitura de arquivos .csv contendo respostas de
-> formulários, possibilitando a atribuição de notas, o fornecimento de feedbacks e a geração de relatórios úteis para o
-> gerenciamento das turmas.
-> Além disso, é possível agendar entregas, definir a quantidade de etapas avaliativas e calcular automaticamente a nota
-> final com base na média das notas atribuídas ao longo dessas entregas.
+> **Problema:** A complexidade administrativa na gestão das avaliações dos Trabalhos de Graduação (TG), que dependia de 
+> processos manuais para consolidar respostas de formulários (arquivos .csv), calcular médias ponderadas de diferentes 
+> entregas e organizar feedbacks, gerando sobrecarga e risco de inconsistências nas notas.
+>
+> **Solução:** Uma aplicação desktop focada na gestão acadêmica que automatiza a importação de dados via .csv e o 
+> cálculo de notas finais. O sistema centraliza o agendamento de entregas, permite a atribuição detalhada de feedbacks 
+> e notas por etapa, e gera relatórios automáticos para o acompanhamento das turmas.
 
 [**📁 Repositório no GitHub**](https://github.com/wiz-fatec/api-2BD)
 
@@ -397,32 +408,22 @@ e **Desenvolvimento FullStack**.
 
 ### Soft Skills
 
-| **Habilidade**                 | **Contribuições Chave**                                                                                      | **Impacto/Métodos**                         |
-|--------------------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| **Organização e Estruturação** | Estruturação de times, definição de papéis, organização de tarefas e divisão de responsabilidades.           | Autonomia e fluidez no desenvolvimento.     |
-| **Resolução de Problemas**     | Tratamento de exceções (arquivos, banco de dados), lógica para prevenir duplicações de dados.                | Sistema mais robusto e confiável.           |
-| **Aprendizado e Adaptação**    | Uso de novas bibliotecas (Apache Commons CSV, JavaFX), adaptação a diferentes paradigmas de desenvolvimento. | Solução eficiente de problemas específicos. |
-
+| **Habilidade**             | **Situação e Ação Real (Storytelling)**                                                                                                                                                                                                                                                                                           | **Impacto no Projeto**                                                                                                                                                       |
+|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Aprendizado Ágil**       | O projeto exigiu a transição abrupta para **Java**, uma linguagem com paradigmas e sintaxe (estritamente tipada) bem diferentes do Python usado anteriormente. Diante da alta demanda de entrega, precisei imergir no ecossistema (Maven, JDBC, JavaFX) para aplicar os conceitos em tempo real, aprendendo enquanto desenvolvia. | A rápida absorção da tecnologia permitiu a construção de uma arquitetura robusta com conexão a banco de dados e interface gráfica complexa, sem atrasar o cronograma.        |
+| **Colaboração e Sinergia** | Diferente do primeiro semestre, a equipe já possuía entrosamento. Aproveitei essa familiaridade para estabelecer um fluxo de suporte mútuo mais eficiente, onde as dúvidas sobre a nova linguagem eram resolvidas coletivamente e de forma rápida, sem a barreira da timidez inicial.                                             | Aceleração significativa na resolução de bugs e na integração do código, transformando a curva de aprendizado íngreme do Java em um processo coletivo mais leve e produtivo. |
 ---
 
-## Projeto: Dom Rock Pipeline Configurator (2024-1)
-
-A Dom Rock opera com um pipeline de processamento de dados em cadeia, composto por múltiplos estágios automatizados.
-Cada estágio é orquestrado com base em:
-
-- As características das fontes de dados (estrutura, formato, frequência),
-- As necessidades específicas de cada cliente, que definem regras e personalizações do fluxo.
-
-> [!NOTE]
-> Para que o pipeline funcione corretamente, as fontes de dados precisam ser previamente configuradas. Hoje, essa
-> configuração é realizada manualmente, o que torna o processo lento e suscetível a erros, impactando diretamente a
-> produtividade das equipes técnicas.
+## Terceiro Semestre (2024-1): Dom Rock Pipeline Configurator
 
 > [!IMPORTANT]
-> O Desafio:
-> Simplifique o processo de configuração das fontes de dados,
-> Agilize o onboarding de novos clientes ou integrações,
-> Reduza a dependência de configuração manual, promovendo autonomia e eficiência operacional.
+> **Problema:** A configuração das fontes de dados para o pipeline de processamento era realizada manualmente, tornando 
+> o processo lento e altamente suscetível a erros humanos. Esse gargalo impactava a produtividade das equipes técnicas 
+> e atrasava o *onboarding* de novos clientes ou integrações de dados.
+>
+> **Solução:** Uma aplicação web Full Stack desenvolvida para automatizar a configuração de metadados e fontes de dados. 
+> O sistema eliminou a dependência de edições manuais ao fornecer uma interface intuitiva para cadastro e validação de 
+> parâmetros, garantindo autonomia operacional e agilizando significativamente a entrada de novas fontes no pipeline.
 
 [**📁 Repositório no GitHub**](https://github.com/wiz-fatec/dom-rock-pipeline-configurator)
 
@@ -553,42 +554,23 @@ Aqui está a versão reformatada no estilo solicitado, mantendo a estrutura conc
 
 ### Soft Skills
 
-| **Habilidade**             | **Contribuições Chave**                                             | **Impacto/Métodos**                               |
-|----------------------------|---------------------------------------------------------------------|---------------------------------------------------|
-| **Comunicação Eficaz**     | Articulação clara em reuniões, comunicação assertiva                | Colaboração mais eficiente, alinhamento de equipe |
-| **Colaboração em Equipe**  | Valorização de expertises diversas, divisão de responsabilidades    | Soluções conjuntas de maior qualidade             |
-| **Adaptabilidade**         | Resposta ágil a mudanças de escopo, manutenção da calma sob pressão | Continuidade operacional em ambientes dinâmicos   |
-| **Resolução de Problemas** | Abordagem analítica, pensamento "fora da caixa"                     | Soluções inovadoras para desafios complexos       |
-| **Gestão do Tempo**        | Priorização estratégica, organização eficiente                      | Entregas consistentes dentro dos prazos           |
-
+| **Habilidade**                       | **Situação e Ação Real (Storytelling)**                                                                                                                                                                                                                                                                                             | **Impacto no Projeto**                                                                                                                                                          |
+|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Comunicação Profissional**         | Este foi nosso primeiro projeto com um cliente real externo. Houve um "choque de realidade" inicial, pois o cliente não estava disponível para respostas imediatas como os professores. Adaptei minha comunicação para ser mais formal, documentada e assíncrona, estruturando dúvidas para aproveitar as janelas do Product Owner. | A mudança de postura evitou bloqueios no desenvolvimento causados pela espera de respostas, estabelecendo um fluxo de validação mais maduro e alinhado à realidade corporativa. |
+| **Resiliência e Rigor na Qualidade** | O cliente impôs um nível de exigência técnica e visual superior aos projetos acadêmicos anteriores. Diante da cobrança por valor de negócio real e entregas mais polidas.                                                                                                                                                           | A entrega final atendeu ao padrão de qualidade exigido, resultando em um produto que foi validado pelo cliente.                                                                 |
 ---
 
-## Projeto: Sistema de Monitoramento e Rastreamento IoT (2024-2)
+## Quarto Semestre (2024-2): Sistema de Monitoramento e Rastreamento IoT
 
-Desenvolvemos uma solução completa para o monitoramento e rastreamento de dispositivos IoT (tags), com foco em
-aplicações como logística, rastreamento de ativos e segurança patrimonial. A plataforma integra tecnologias modernas de
-geolocalização, análise em tempo real e visualização interativa.
-
-Cada funcionalidade foi pensada para garantir controle preciso e facilidade na gestão de dispositivos:
-
-* **Visualização em Mapa:** As tags são exibidas em tempo real em um mapa interativo, permitindo o acompanhamento da
-  localização e do trajeto de cada dispositivo.
-* **Filtros Avançados:** Os usuários podem aplicar filtros personalizados para visualizar apenas os dispositivos que
-  atendem a critérios específicos.
-* **Zonas de Interesse (Geofencing):** É possível configurar áreas delimitadas no mapa e monitorar a entrada e saída de
-  dispositivos dessas regiões.
-* **Alertas e Relatórios:** O sistema gera notificações automáticas com base em eventos e fornece relatórios detalhados
-  de movimentação e presença.
-
-> \[!NOTE]
-> A interface foi desenhada para ser intuitiva e responsiva, favorecendo o uso em centros de controle e em dispositivos
-> móveis de campo.
-
-> \[!IMPORTANT]
-> O Desafio:
-> Garantir o rastreamento preciso de ativos em ambientes dinâmicos,
-> Permitir reação rápida a eventos de risco ou desvios operacionais,
-> Reduzir perdas e aumentar a eficiência de processos com base em dados em tempo real.
+> [!IMPORTANT]
+> **Problema:** A dificuldade de garantir a segurança e o controle eficiente de ativos em ambientes dinâmicos e 
+> logísticos. A falta de visibilidade em tempo real impedia reações rápidas a eventos de risco ou desvios operacionais, 
+> resultando em perdas patrimoniais e baixa eficiência na gestão de processos.
+>
+> **Solução:** Uma plataforma completa de monitoramento IoT que integra geolocalização e visualização em mapas 
+> interativos. A solução implementou funcionalidades de *Geofencing* (zonas de interesse) e um sistema de alertas 
+> automatizados, permitindo o rastreamento preciso de tags, a redução de prejuízos e a tomada de decisão ágil baseada 
+> em dados em tempo real.
 
 [**📁 Repositório no GitHub**](https://github.com/manolito-fatec/geo-iot-2024-1)
 
@@ -799,27 +781,23 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 
 ### Soft Skills
 
-| **Habilidade**                 | **Contribuições Chave**                              | **Impacto**                                                         |
-|--------------------------------|------------------------------------------------------|---------------------------------------------------------------------|
-| **Liderança Ágil**             | Atuação como Scrum Master, facilitação de cerimônias | Aumento na velocidade de entrega através de sprints bem gerenciados |
-| **Comunicação Técnica**        | Documentação detalhada de APIs e tratamento de erros | Redução no tempo de onboarding de novos desenvolvedores             |
-| **Pensamento Sistêmico**       | Arquitetura de tratamento global de exceções         | Aumento da robustez do sistema                                      |
-| **Orientação a Detalhes**      | Implementação de testes unitários                    | Garantia de comportamento consistente em cenários de erro           |
-| **Gestão de Prioridades**      | Balanceamento entre tasks técnicas e organizacionais | Entrega simultânea de features e documentação                       |
-| **Colaboração Interfuncional** | Ponte entre desenvolvedores, PO e stakeholders       | Tradução de requisitos de negócio em tarefas técnicas               |
-| **Resolução de Problemas**     | Abordagem analítica para desafios técnicos complexos | Soluções para integração de sistemas                                |
-
+| **Habilidade**                     | **Situação e Ação Real (Storytelling)**                                                                                                                                                                                                                                                                                                                                                 | **Impacto no Projeto**                                                                                                                                                                             |
+|:-----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Liderança Servidora**            | O projeto enfrentou gargalos técnicos imprevistos devido à complexidade de processar grandes volumes de dados IoT, o que ameaçou os prazos. Como Scrum Master, atuei além da facilitação de cerimônias: identifiquei proativamente esses impedimentos, realizei pesquisas técnicas para desbloquear o time e assumi tarefas de desenvolvimento nos momentos onde e quando era possível. | Essa postura "mão na massa" evitou que os atrasos técnicos se tornassem críticos, mantendo o fluxo de entrega contínuo e a moral do time elevada mesmo diante das dificuldades.                    |
+| **Comunicação e Coesão de Equipe** | Houve momentos de tensão devido aos contratempos com as tecnologias de rastreamento. Fomentei um ambiente de transparência e colaboração radical, onde as dificuldades eram expostas. Incentivei os membros mais avançados a auxiliares os que estavam travados.                                                                                                                        | A criação de um ambiente colaborativo permitiu que o time absorvesse os impactos dos problemas técnicos juntos, garantindo a entrega do produto final com qualidade, apesar dos desafios iniciais. |
 ---
 
-## Projeto: YOUTAN DASH (2025-1)
+## Quinto Semestre (2025-1): YOUTAN DASH
 
 > [!IMPORTANT]
-> O projeto consiste no desenvolvimento de uma plataforma de Business Intelligence (BI) integrada à ferramenta de gestão
-> Taiga. O objetivo é gerar e visualizar indicadores de desempenho (KPIs) de projetos de software, como total de cards,
-> tempo médio de execução e distribuição de tarefas por colaborador.
+> **Problema:** A ausência de visibilidade consolidada sobre os indicadores de desempenho (KPIs) de projetos de software 
+> geridos no Taiga. A falta de métricas claras, como tempo médio de execução e distribuição de tarefas por colaborador, 
+> dificultava a análise de produtividade e a tomada de decisão transparente por parte dos gestores e equipes.
 >
-> A solução oferece dashboards personalizados para três níveis de acesso (Operador, Gestor e Admin), permitindo uma
-> análise de métricas eficiente, transparente e acessível para todos os envolvivos.
+> **Solução:** Uma plataforma de Business Intelligence (BI) integrada ao Taiga, desenvolvida para processar e 
+> visualizar dados críticos do projeto. A solução oferece dashboards personalizados com três níveis de acesso 
+> (Operador, Gestor e Admin), transformando dados brutos em métricas visuais que garantem transparência e permitem o 
+> acompanhamento eficiente do fluxo de trabalho.
 
 > [!NOTE]
 > Neste projeto, atuei com foco principal na gestão ágil, assumindo o papel de Scrum Master, além de contribuir
@@ -903,27 +881,24 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 
 ### Soft Skills
 
-| **Habilidade**                              | **Contribuições Chave**                                                                                 | **Impacto/Métodos**                                                                                                 |
-|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|
-| **Liderança Ágil e Gestão de Impedimentos** | Atuação proativa como Scrum Master, identificando e removendo bloqueios técnicos e processuais do time. | Blindagem da equipe contra interrupções externas e garantia de um fluxo de trabalho contínuo (Flow).                |
-| **Negociação e Priorização Estratégica**    | Refinamento do Product Backlog e alinhamento constante de expectativas com stakeholders.                | Definição clara de escopo por Sprint, assegurando entregas de valor incremental e reduzindo o desperdício.          |
-| **Facilitação e Resolução de Conflitos**    | Condução de cerimônias (Planning, Review, Retro) focadas em transparência e planos de ação práticos.    | Promoção de um ambiente de segurança psicológica e melhoria contínua (*Kaizen*) nos processos da equipe.            |
-| **Padronização Técnica e Mentoria**         | Elaboração de guias de DevOps e implementação de padrões de código (ex: `GlobalExceptionHandler`).      | Redução da curva de aprendizado do time e aumento da qualidade e manutenibilidade do software entregue.             |
-| **Planejamento e Organização Sistêmica**    | Mapeamento detalhado de requisitos funcionais e gestão visual dos artefatos do projeto.                 | Visibilidade total do progresso para todos os envolvidos e previsibilidade consistente nas entregas.                |
-| **Visão Holística (T-Shaped)**              | Atuação híbrida conectando a gestão ágil (Scrum) com a execução técnica (Backend Java e Frontend Vue).  | Capacidade de traduzir necessidades de negócio diretamente em soluções técnicas viáveis, sem ruídos de comunicação. |
-
+| **Habilidade**                                  | **Situação e Ação Real (Storytelling)**                                                                                                                                                                                                                                                                                              | **Impacto no Projeto**                                                                                                                                                                     |
+|:------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gestão de Crise e Recursos**                  | Enfrentamos uma redução significativa no número de membros da equipe no meio do projeto, o que comprometeu a capacidade de entrega original. Como Scrum Master, precisei renegociar o escopo com o Product Owner e redistribuir as tarefas de forma estratégica, assumindo também o desenvolvimento nos momentos de folga da gestão. | A adaptação rápida à nova estrutura do time evitou o colapso do cronograma. Conseguimos entregar o MVP funcional dentro do prazo, mantendo a qualidade mesmo com a equipe reduzida.        |
+| **Comunicação Transparente e Responsabilidade** | Com menos pessoas, a margem para erro ou atraso era zero. Instituí uma comunicação mais rigorosa sobre os prazos e status das tarefas nas *dailies*, exigindo e demonstrando proatividade. Criei um ambiente onde o alerta precoce de dificuldades era valorizado, permitindo que eu atuasse imediatamente para remover bloqueios.   | O aumento da responsabilidade individual e a clareza na comunicação garantiram que nenhum impedimento passasse despercebido, otimizando ao máximo a produtividade de cada membro restante. |
 -----
 
-## Projeto: Pardal (2025-2)
+## Sexto Semestre (2025-2): Pardal
 
 > [!IMPORTANT]
-> O projeto Pardal é uma solução voltada para a conformidade com a Lei Geral de Proteção de Dados (LGPD) e Inteligência
-> de Dados. O objetivo principal foi normalizar e atualizar bases de dados legadas, garantindo a privacidade através da
-> anonimização automática de dados sensíveis.
+> **Problema:** O desafio de adequar bases de dados legadas à Lei Geral de Proteção de Dados (LGPD), mitigando riscos 
+> legais associados à exposição de dados sensíveis. Além disso, a empresa enfrentava dificuldades para extrair valor 
+> estratégico de grandes volumes de tickets de suporte não estruturados, o que limitava a capacidade de prever 
+> tendências e categorizar problemas.
 >
-> Além da conformidade, a aplicação utiliza Inteligência Artificial para gerar insights estratégicos a partir de tickets
-> de suporte, incluindo previsões e categorizações, oferecendo dashboards analíticos com controle de acesso (Admin e
-> Colaborador).
+> **Solução:** Uma solução robusta de Inteligência de Dados focada em compliance e analytics. O sistema realiza a 
+> normalização e anonimização automática de dados sensíveis utilizando NLP, garantindo a privacidade. Simultaneamente, 
+> integra Inteligência Artificial Generativa para transformar tickets brutos em insights preditivos e categorizações, 
+> visualizados em dashboards analíticos com controle rigoroso de acesso (Admin e Colaborador).
 
 > [!NOTE]
 > Neste projeto, atuei fortemente na implementação de algoritmos de **Processamento de Linguagem Natural (NLP)** para
@@ -1090,10 +1065,7 @@ Cada funcionalidade foi pensada para garantir controle preciso e facilidade na g
 
 ### Soft Skills
 
-| **Habilidade**                               | **Contribuições Chave**                                                                                     | **Impacto/Métodos**                                                                                                              |
-|:---------------------------------------------|:------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|
-| **Comunicação Assertiva e Gestão de Riscos** | Alinhamento proativo com o Scrum Master e o time sobre tarefas atrasadas ou sem data de entrega definida.   | Organização do fluxo de trabalho e garantia da qualidade da entrega, evitando gargalos de última hora.                           |
-| **Didática e Transferência de Conhecimento** | Explicação detalhada e demonstração prática do funcionamento do fluxograma de ETL para a equipe.            | Nivelamento técnico do time, eliminando dúvidas sobre a arquitetura de dados e facilitando a colaboração no pipeline.            |
-| **Colaboração e Apoio ao Time**              | Atuação direta no suporte a outros membros da equipe para destravar tarefas gerais e resolver impedimentos. | Aceleração das entregas coletivas e fortalecimento do espírito de equipe através da cooperação técnica.                          |
-| **Visão Sistêmica**                          | Conexão entre os requisitos de negócio (LGPD), a engenharia de dados (ETL) e a interface do usuário.        | Capacidade de enxergar o projeto como um todo, garantindo que as pontas (Backend, Frontend e Dados) se integrassem corretamente. |
-| **Ética e Responsabilidade (Compliance)**    | Implementação rigorosa de conceitos de *Privacy by Design* e anonimização.                                  | Foco na proteção de dados sensíveis, priorizando a conformidade legal acima da facilidade técnica.                               |
+| **Habilidade**                                  | **Situação e Ação Real (Storytelling)**                                                                                                                                                                                                                                                                                             | **Impacto no Projeto**                                                                                                                                                                            |
+|:------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Mentoria e Compartilhamento de Conhecimento** | A equipe possuía pouco conhecimento prévio sobre Inteligência Artificial. Aproveitando minha experiência na área, realizando conversas e pair programming para ensinar os conceitos de NLP ao time, previsão, entre outros.                                                                                                         | A capacitação do time reduziu a curva de aprendizado, permitindo que outros membros contribuíssem efetivamente nas tarefas de IA e tornando a implementação mais fluida e colaborativa.           |
+| **Pensamento Crítico e Ético**                  | O projeto envolvia dados sensíveis e exigia adequação rigorosa à LGPD, um tema complexo e cheio de nuances legais. Dediquei-me a estudar a lei e participei dos debates sobre privacidade, questionando a viabilidade de certas features e defendendo a implementação de *Privacy by Design* desde a arquitetura do banco de dados. | Essa postura garantiu que o produto final não fosse apenas tecnicamente funcional, mas juridicamente seguro, evitando riscos de exposição de dados e assegurando a conformidade ética da solução. |
