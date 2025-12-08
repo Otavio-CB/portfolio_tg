@@ -69,6 +69,11 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 
 [**📁 Repositório no GitHub**](https://github.com/wiz-fatec/avaliacao-360)
 
+<details>
+<summary>Fluxograma da Aplicação</summary>
+<img src="assets/wireframe_project1.jpg" alt="header">
+</details>
+
 ### Tecnologias Utilizadas
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
@@ -253,9 +258,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **Robustez no Processamento**: Implementação de tratamento de exceções (`IOException`) garantindo a robustez do
   processo de leitura
 
-> A criação deste componente centraliza a lógica de leitura de CSV, facilitando a ingestão de dados externos no sistema
-> de forma estruturada e confiável
-
 </details>
 
 <details>
@@ -270,9 +272,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **Células Interativas**: Implementação da classe `ButtonCell`, um renderizador de células personalizado que adiciona
   botões de ação em cada linha da tabela, permitindo interação direta com os dados apresentados
 
-> A implementação da interface JavaFX proporciona uma interação visual rica com o sistema, permitindo aos usuários
-> visualizar e interagir com os dados de maneira intuitiva
-
 </details>
 
 <details>
@@ -283,9 +282,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **Controle de Versionamento (`.gitignore`)**: Configuração do arquivo `.gitignore` para excluir arquivos e pastas
   específicos do ambiente de desenvolvimento (IntelliJ: `out/`, `.idea/`; Maven: `target/`), mantendo o repositório
   limpo e prevenindo conflitos desnecessários
-
-> A correta configuração do projeto garante a gestão eficiente das dependências e a organização do repositório de
-> código
 
 </details>
 
@@ -299,8 +295,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
   apenas uma instância da conexão seja criada durante a execução da aplicação, otimizando o uso de recursos
 - **Teste de Conexão**: Implementação de um teste na classe `Main` para verificar se a conexão com o banco de dados foi
   estabelecida com sucesso, apresentando uma mensagem de confirmação no console
-
-> A implementação da conexão com PostgreSQL permite que o sistema persista os dados de forma confiável e eficiente
 
 </details>
 
@@ -318,9 +312,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **Recuperação de Dados**: Implementação do método `getSubmit()` em diversos Models para buscar todos os registros
   correspondentes do banco de dados
 
-> Os Models abstraem a interação com o banco de dados, fornecendo uma interface clara para manipular e persistir os
-> dados das diferentes entidades do sistema
-
 </details>
 
 <details>
@@ -330,9 +321,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
   atual para a `HomeScreenWithTable`. O método cria uma nova instância da tela de destino, a exibe em um novo `Stage` e,
   opcionalmente, fecha a tela de origem
 
-> A implementação da navegação entre telas melhora a usabilidade da aplicação, permitindo que os usuários se movam
-> facilmente entre as diferentes funcionalidades
-
 </details>
 
 <details>
@@ -341,9 +329,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **Handler de CSV (`CSVHandler`)**: Criação da classe `CSVHandler` para processar dados de arquivos CSV e inserir as
   informações nas tabelas do banco de dados (`orientador`, `aluno`, `tg`, `turma`). O handler recebe uma lista de listas
   de strings (representando as linhas do CSV) e itera sobre ela para realizar as operações de inserção
-
-> O `CSVHandler` automatiza a importação de dados de arquivos CSV para o banco de dados, simplificando a inicialização e
-> a atualização das informações do sistema
 
 </details>
 
@@ -360,9 +345,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
   associação automática a equipes, verificação da existência de orientadores e atribuição de equipe baseada no tipo de
   TG
 
-> Os Controllers encapsulam a lógica de negócios da aplicação, atuando como intermediários entre a apresentação e a
-> persistência de dados, garantindo a integridade e a consistência das informações
-
 </details>
 
 <details>
@@ -371,9 +353,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **`EmailValidator`**: Implementação de uma classe para realizar a validação básica do formato de e-mail, com uma
   lógica de fallback para priorizar e-mails institucionais. É utilizado consistentemente em todas as entidades que
   possuem campos de e-mail
-
-> O `EmailValidator` centraliza a lógica de validação de e-mails, promovendo a reutilização de código e a consistência
-> na validação dos dados
 
 </details>
 
@@ -388,9 +367,6 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **`atualizarStatusEntrega`**: Implementação para definir o estado visual da entrega (SEM NOTA, PENDENTE, AVALIADO) com
   base nas informações de avaliação, adotando uma codificação de cores intuitiva para facilitar a identificação do
   status
-
-> Estes métodos aprimoram a interação do usuário com a interface de avaliação, fornecendo feedback visual claro sobre o
-> status das entregas e gerenciando a exibição de notas e comentários de forma eficiente
 
 </details>
 
@@ -421,7 +397,7 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 > o processo lento e altamente suscetível a erros humanos. Esse gargalo impactava a produtividade das equipes técnicas 
 > e atrasava o *onboarding* de novos clientes ou integrações de dados.
 >
-> **Solução:** Uma aplicação web Full Stack desenvolvida para automatizar a configuração de metadados e fontes de dados. 
+> **Solução:** Uma aplicação web desenvolvida para automatizar a configuração de metadados e fontes de dados. 
 > O sistema eliminou a dependência de edições manuais ao fornecer uma interface intuitiva para cadastro e validação de 
 > parâmetros, garantindo autonomia operacional e agilizando significativamente a entrada de novas fontes no pipeline.
 
@@ -525,6 +501,9 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
   cores, título) via `defineProps` e configura o gráfico utilizando elementos do `Chart.js`. Atualização das cores do
   gráfico para melhorar a visualização.
 
+<img src="assets/silverconfig_project3.png" alt="header">
+<img src="assets/list-viewsilver_project3.png" alt="header">
+
 </details>
 
 <details>
@@ -569,6 +548,10 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 > interativos. A solução implementou funcionalidades de *Geofencing* (zonas de interesse) e um sistema de alertas 
 > automatizados, permitindo o rastreamento preciso de tags, a redução de prejuízos e a tomada de decisão ágil baseada 
 > em dados em tempo real.
+ 
+> [!NOTE]
+> Neste projeto, atuei com foco principal na gestão ágil, assumindo o papel de Scrum Master, além de contribuir
+> tecnicamente para o pipeline de dados e documentação da API.
 
 [**📁 Repositório no GitHub**](https://github.com/manolito-fatec/geo-iot-2024-1)
 
@@ -842,12 +825,10 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 
 - **Facilitação de Cerimônias**: Condução de todas as cerimônias ágeis (Sprint Planning, Daily Scrums, Sprint Review e
   Retrospective).
-- **Gestão do Product Backlog**: Criação, refinamento e priorização de 18 User Stories (US01 a US18), garantindo o
-  alinhamento com as necessidades do cliente.
 - **Planejamento de Sprints**: Organização e divisão do backlog em três Sprints coesas, gerenciando o escopo e as
   entregas de valor.
-- **Mapeamento de Requisitos**: Tradução das necessidades de negócio em 29 Requisitos Funcionais (R1-R29) e 5 Não
-  Funcionais (RNF01-RNF05).
+- **Mapeamento de Requisitos**: Tradução das necessidades de negócio em Requisitos Funcionais e Não
+  Funcionais.
 - **Remoção de Impedimentos**: Identificação e atuação proativa para remover bloqueios técnicos e de comunicação da
   equipe.
 - **Gestão de Artefatos**: Manutenção e transparência do Sprint Backlog e do Product Backlog para toda a equipe e
@@ -861,8 +842,15 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 - **Backend (Java)**: Participei ativamente da implementação do *Exception Handler* global da API, centralizando o
   tratamento de erros.
 - **Frontend (Vue.js)**: Colaborei no desenvolvimento de telas e componentes da interface de visualização de dados.
+
+<img src="assets/admin_project5.png" alt="header">
+<img src="assets/admin_system_log_project5.png" alt="header">
+<img src="assets/gestor_project5.png" alt="header">
+
 - **Documentação de DevOps**: Atuei na construção do ecossistema de documentação para o pipeline de CI/CD, incluindo
   guias de deploy e integração contínua.
+
+<img src="assets/devops_docs_project5.png" alt="header">
 
 </details>
 
@@ -893,7 +881,7 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 > estratégico de grandes volumes de tickets de suporte não estruturados, o que limitava a capacidade de prever 
 > tendências e categorizar problemas.
 >
-> **Solução:** Uma solução robusta de Inteligência de Dados focada em compliance e analytics. O sistema realiza a 
+> **Solução:** Uma solução de Inteligência de Dados focada em compliance e analytics. O sistema realiza a 
 > normalização e anonimização automática de dados sensíveis utilizando NLP, garantindo a privacidade. Simultaneamente, 
 > integra Inteligência Artificial Generativa para transformar tickets brutos em insights preditivos e categorizações, 
 > visualizados em dashboards analíticos com controle rigoroso de acesso (Admin e Colaborador).
@@ -903,6 +891,11 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 > anonimização e na criação de modelos de IA para geração de insights preditivos.
 
 [**📁 Repositório no GitHub**](https://github.com/manolito-fatec/pardal-2025)
+
+<details>
+<summary>Diagrama da Aplicação</summary>
+<img src="assets/diagram_export_project6.png" alt="header">
+</details>
 
 ### Tecnologias Utilizadas
 
@@ -948,7 +941,7 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
   - **Integração com LLM (Google Gemini)**: Desenvolvimento de integração via API para processar descrições de tickets de suporte, utilizando engenharia de prompt para extrair sentimentos, resumir problemas e categorizar chamados automaticamente.
   - **Engenharia de Prompt (Persona & Context)**: Implementação de prompts estruturados onde a IA assume a persona de um "Product Manager". O prompt recebe estatísticas quantitativas (via Pandas) e dados qualitativos (texto dos tickets), instruindo o modelo a gerar planos de ação estratégicos.
   - **Output Estruturado (JSON Enforcement)**: Configuração do prompt para garantir que a saída da IA seja estritamente um JSON válido, facilitando o *parsing* e a persistência direta no banco de dados sem necessidade de regex complexo.
-  - **Anonimização Inteligente (NLP)**: Aplicação de modelos de Processamento de Linguagem Natural (spaCy) para identificar Entidades Nomeadas (NER) como nomes, CPFs e endereços em textos livres, aplicando máscaras de anonimização dinamicamente.
+  - **Anonimização Inteligente (NLP)**: Aplicação de modelos de Processamento de Linguagem Natural (spaCy) para identificar Entidades Nomeadas (NER) como nomes em textos livres, aplicando máscaras de anonimização dinamicamente.
   - **Modelagem NoSQL para Insights**: Configuração de uma coleção dedicada (`product_insights`) no MongoDB com índices compostos (`company_name` + `dth`) para otimizar a recuperação de dados pelo frontend.
   - **Bulk Write Operations**: Implementação de inserção em lote (`insert_many` com `ordered=False`) para alta performance na gravação dos insights gerados.
 
@@ -1025,6 +1018,8 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
   - **Fluxo de Eliminação de Conta**: Implementação de diálogo de confirmação (`Dialog`) para solicitação de exclusão de dados (Art. 18 da LGPD), com alertas claros sobre as consequências e retenção residual.
   - **UI/UX com Privacy by Design**: Implementação de lógica de mascaramento de dados sensíveis no frontend (ex: ofuscação de e-mail na Topbar), reforçando visualmente o compromisso do projeto com a privacidade.
 
+<img src="assets/lgpdui.gif" alt="header">
+
 </details>
 
 <details>
@@ -1055,7 +1050,7 @@ meu objetivo de me tornar um especialista em **Ciência de Dados** e **Desenvolv
 | **DevOps & Infra**         | Docker / Compose         | <span title="">★★★★☆</span> | Orquestração de serviços, *Healthchecks*, isolamento de rede (*bridge*) e volumes persistentes.               |
 | **HPC / Performance**      | NVIDIA CUDA              | <span title="">★★★★☆</span> | Configuração de ambiente Docker para *passthrough* de GPU, acelerando a inferência de modelos de IA.          |
 | **Automação (SRE)**        | Shell Script / Python    | <span title="">★★★★☆</span> | Scripts de *watchers* (`inotify`), agendamento de tarefas (`schedule`) e *disaster recovery* automatizado.    |
-| **Segurança**              | HashiCorp Vault          | <span title="">★☆☆☆☆</span> | Gestão centralizada de segredos e credenciais, eliminando vulnerabilidades de código.                         |
+| **Segurança**              | HashiCorp Vault          | <span title="">★★☆☆☆</span> | Gestão centralizada de segredos e credenciais, eliminando vulnerabilidades de código.                         |
 | **Backend API**            | Java / Spring Boot       | <span title="">★★★☆☆</span> | Implementação de endpoints REST, Spring Security, JPA e tratamento de exceções.                               |
 
 ### Soft Skills
